@@ -27,7 +27,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_band2.ptif/full/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_band2",
+                "label": "voorkant",
                 "width": 3087,
                 "@type": "sc:Canvas",
                 "height": 4144,
@@ -59,7 +59,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening01.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening01 left",
+                "label": "ii",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -97,7 +97,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening01.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening01 right",
+                "label": "iii",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -135,7 +135,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening02.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening02 left",
+                "label": "iv",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -173,7 +173,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening02.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening02 right",
+                "label": "v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -211,7 +211,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening03-(incl-f001r).ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening03-(incl-f001r) left",
+                "label": "vi",
                 "otherContent": [{
                     "@type": "sc:AnnotationList",
                     "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annolist1.json"
@@ -253,7 +253,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_opening03-(incl-f001r).ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_opening03-(incl-f001r) right",
+                "label": "001r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -291,7 +291,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f001v-002r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f001v-002r left",
+                "label": "001v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -329,7 +329,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f001v-002r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f001v-002r right",
+                "label": "002r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -367,7 +367,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f002v-003r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f002v-003r left",
+                "label": "002v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -405,7 +405,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f002v-003r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f002v-003r right",
+                "label": "003r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -443,7 +443,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f003v-004r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f003v-004r left",
+                "label": "003v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -481,7 +481,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f003v-004r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f003v-004r right",
+                "label": "004r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -519,7 +519,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f004v-005r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f004v-005r left",
+                "label": "004v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -557,7 +557,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f004v-005r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f004v-005r right",
+                "label": "005r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -595,7 +595,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f005v-006r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f005v-006r left",
+                "label": "005v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -633,7 +633,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f005v-006r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f005v-006r right",
+                "label": "006r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -671,7 +671,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f006v-007r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f006v-007r left",
+                "label": "006v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -709,7 +709,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f006v-007r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f006v-007r right",
+                "label": "007r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -747,7 +747,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f007v-008r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f007v-008r left",
+                "label": "007v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -785,7 +785,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f007v-008r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f007v-008r right",
+                "label": "008r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -823,7 +823,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f008v-009r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f008v-009r left",
+                "label": "008v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -861,7 +861,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f008v-009r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f008v-009r right",
+                "label": "009r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -899,7 +899,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f009v-010r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f009v-010r left",
+                "label": "009v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -937,7 +937,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f009v-010r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f009v-010r right",
+                "label": "010r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -975,7 +975,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f010v-011r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f010v-011r left",
+                "label": "010v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1013,7 +1013,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f010v-011r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f010v-011r right",
+                "label": "011r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1051,7 +1051,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f011v-012r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f011v-012r left",
+                "label": "011v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1089,7 +1089,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f011v-012r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f011v-012r right",
+                "label": "012r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1127,7 +1127,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f012v-013r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f012v-013r left",
+                "label": "012v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1165,7 +1165,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f012v-013r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f012v-013r right",
+                "label": "013r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1203,7 +1203,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f013v-014r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f013v-014r left",
+                "label": "013v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1241,7 +1241,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f013v-014r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f013v-014r right",
+                "label": "014r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1279,7 +1279,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f014v-015r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f014v-015r left",
+                "label": "014v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1317,7 +1317,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f014v-015r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f014v-015r right",
+                "label": "015r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1355,7 +1355,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f015v-016r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f015v-016r left",
+                "label": "015v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1393,7 +1393,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f015v-016r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f015v-016r right",
+                "label": "016r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1431,7 +1431,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f016v-017r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f016v-017r left",
+                "label": "016v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1469,7 +1469,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f016v-017r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f016v-017r right",
+                "label": "017r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1507,7 +1507,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f017v-018r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f017v-018r left",
+                "label": "017v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1545,7 +1545,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f017v-018r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f017v-018r right",
+                "label": "018r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1583,7 +1583,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f018v-019r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f018v-019r left",
+                "label": "018v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1621,7 +1621,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f018v-019r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f018v-019r right",
+                "label": "019r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1659,7 +1659,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f019v-020r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f019v-020r left",
+                "label": "019v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1697,7 +1697,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f019v-020r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f019v-020r right",
+                "label": "020r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1735,7 +1735,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f020v-021r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f020v-021r left",
+                "label": "020v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1773,7 +1773,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f020v-021r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f020v-021r right",
+                "label": "021r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1811,7 +1811,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f021v-022r.ptif/0,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f021v-022r left",
+                "label": "021v",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1849,7 +1849,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f021v-022r.ptif/2900,0,2900,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f021v-022r right",
+                "label": "022r",
                 "width": 2900,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1887,7 +1887,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f022v-023r.ptif/0,0,2910,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f022v-023r left",
+                "label": "022v",
                 "width": 2910,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1925,7 +1925,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f022v-023r.ptif/2910,0,2910,4122/full/0/default.jpg"
                     }
                 }],
-                "label": "f022v-023r right",
+                "label": "023r",
                 "width": 2910,
                 "@type": "sc:Canvas",
                 "height": 4122,
@@ -1963,7 +1963,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f023v-024r.ptif/0,0,2926,4089/full/0/default.jpg"
                     }
                 }],
-                "label": "f023v-024r left",
+                "label": "023v",
                 "width": 2926,
                 "@type": "sc:Canvas",
                 "height": 4089,
@@ -2001,7 +2001,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f023v-024r.ptif/2926,0,2926,4089/full/0/default.jpg"
                     }
                 }],
-                "label": "f023v-024r right",
+                "label": "024r",
                 "width": 2926,
                 "@type": "sc:Canvas",
                 "height": 4089,
@@ -2039,7 +2039,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f024v-025r.ptif/0,0,2926,4089/full/0/default.jpg"
                     }
                 }],
-                "label": "f024v-025r left",
+                "label": "024v",
                 "width": 2926,
                 "@type": "sc:Canvas",
                 "height": 4089,
@@ -2077,7 +2077,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f024v-025r.ptif/2926,0,2926,4089/full/0/default.jpg"
                     }
                 }],
-                "label": "f024v-025r right",
+                "label": "025r",
                 "width": 2926,
                 "@type": "sc:Canvas",
                 "height": 4089,
@@ -2115,7 +2115,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f025v-026r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f025v-026r left",
+                "label": "025v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2153,7 +2153,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f025v-026r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f025v-026r right",
+                "label": "026r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2191,7 +2191,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f026v-027r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f026v-027r left",
+                "label": "026v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2229,7 +2229,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f026v-027r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f026v-027r right",
+                "label": "027r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2267,7 +2267,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f027v-028r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f027v-028r left",
+                "label": "027v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2305,7 +2305,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f027v-028r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f027v-028r right",
+                "label": "028r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2343,7 +2343,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f028v-029r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f028v-029r left",
+                "label": "028v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2381,7 +2381,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f028v-029r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f028v-029r right",
+                "label": "029r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2419,7 +2419,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f029v-030r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f029v-030r left",
+                "label": "029v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2457,7 +2457,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f029v-030r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f029v-030r right",
+                "label": "030r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2495,7 +2495,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f030v-031r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f030v-031r left",
+                "label": "030v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2533,7 +2533,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f030v-031r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f030v-031r right",
+                "label": "031r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2571,7 +2571,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f031v-032r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f031v-032r left",
+                "label": "031v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2609,7 +2609,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f031v-032r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f031v-032r right",
+                "label": "032r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2647,7 +2647,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f032v-033r.ptif/0,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f032v-033r left",
+                "label": "032v",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2685,7 +2685,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f032v-033r.ptif/2955,0,2955,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f032v-033r right",
+                "label": "033r",
                 "width": 2955,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2723,7 +2723,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f033v-034r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f033v-034r left",
+                "label": "033v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2761,7 +2761,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f033v-034r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f033v-034r right",
+                "label": "034r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2799,7 +2799,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f034v-035r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f034v-035r left",
+                "label": "034v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2837,7 +2837,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f034v-035r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f034v-035r right",
+                "label": "035r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2875,7 +2875,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f035v-036r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f035v-036r left",
+                "label": "035v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2913,7 +2913,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f035v-036r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f035v-036r right",
+                "label": "036r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2951,7 +2951,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f036v-037r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f036v-037r left",
+                "label": "036v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -2989,7 +2989,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f036v-037r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f036v-037r right",
+                "label": "037r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3027,7 +3027,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f037v-038r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f037v-038r left",
+                "label": "037v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3065,7 +3065,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f037v-038r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f037v-038r right",
+                "label": "038r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3103,7 +3103,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f038v-039r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f038v-039r left",
+                "label": "038v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3141,7 +3141,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f038v-039r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f038v-039r right",
+                "label": "039r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3179,7 +3179,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f039v-040r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f039v-040r left",
+                "label": "039v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3217,7 +3217,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f039v-040r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f039v-040r right",
+                "label": "040r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3255,7 +3255,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f040v-041r.ptif/0,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f040v-041r left",
+                "label": "040v",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3293,7 +3293,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f040v-041r.ptif/2984,0,2984,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f040v-041r right",
+                "label": "041r",
                 "width": 2983,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3331,7 +3331,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f041v-042r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f041v-042r left",
+                "label": "041v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3369,7 +3369,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f041v-042r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f041v-042r right",
+                "label": "042r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3407,7 +3407,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f042v-043r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f042v-043r left",
+                "label": "042v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3445,7 +3445,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f042v-043r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f042v-043r right",
+                "label": "043r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3483,7 +3483,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f043v-044r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f043v-044r left",
+                "label": "043v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3521,7 +3521,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f043v-044r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f043v-044r right",
+                "label": "044r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3559,7 +3559,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f044v-045r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f044v-045r left",
+                "label": "044v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3597,7 +3597,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f044v-045r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f044v-045r right",
+                "label": "045r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3635,7 +3635,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f045v-046r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f045v-046r left",
+                "label": "045v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3673,7 +3673,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f045v-046r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f045v-046r right",
+                "label": "046r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3711,7 +3711,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f046v-047r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f046v-047r left",
+                "label": "046v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3749,7 +3749,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f046v-047r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f046v-047r right",
+                "label": "047r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3787,7 +3787,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f047v-048r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f047v-048r left",
+                "label": "047v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3825,7 +3825,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f047v-048r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f047v-048r right",
+                "label": "048r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3863,7 +3863,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f048v-049r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f048v-049r left",
+                "label": "048v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3901,7 +3901,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f048v-049r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f048v-049r right",
+                "label": "049r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3939,7 +3939,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f049v-050r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f049v-050r left",
+                "label": "049v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -3977,7 +3977,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f049v-050r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f049v-050r right",
+                "label": "050r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4015,7 +4015,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f050v-051r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f050v-051r left",
+                "label": "050v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4053,7 +4053,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f050v-051r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f050v-051r right",
+                "label": "051r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4091,7 +4091,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f051v-052r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f051v-052r left",
+                "label": "051v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4129,7 +4129,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f051v-052r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f051v-052r right",
+                "label": "052r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4167,7 +4167,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f052v-053r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f052v-053r left",
+                "label": "052v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4205,7 +4205,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f052v-053r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f052v-053r right",
+                "label": "053r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4243,7 +4243,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f053v-054r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f053v-054r left",
+                "label": "053v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4281,7 +4281,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f053v-054r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f053v-054r right",
+                "label": "054r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4319,7 +4319,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f054v-055r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f054v-055r left",
+                "label": "054v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4357,7 +4357,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f054v-055r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f054v-055r right",
+                "label": "055r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4395,7 +4395,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f055v-056r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f055v-056r left",
+                "label": "055v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4433,7 +4433,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f055v-056r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f055v-056r right",
+                "label": "056r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4471,7 +4471,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f056v-057r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f056v-057r left",
+                "label": "056v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4509,7 +4509,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f056v-057r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f056v-057r right",
+                "label": "057r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4547,7 +4547,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f057v-058r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f057v-058r left",
+                "label": "057v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4585,7 +4585,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f057v-058r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f057v-058r right",
+                "label": "058r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4623,7 +4623,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f058v-059r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f058v-059r left",
+                "label": "058v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4661,7 +4661,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f058v-059r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f058v-059r right",
+                "label": "059r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4699,7 +4699,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f059v-060r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f059v-060r left",
+                "label": "059v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4737,7 +4737,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f059v-060r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f059v-060r right",
+                "label": "060r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4775,7 +4775,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f061v-062r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f061v-062r left",
+                "label": "061v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4813,7 +4813,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f061v-062r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f061v-062r right",
+                "label": "062r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4851,7 +4851,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f062v-063r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f062v-063r left",
+                "label": "062v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4889,7 +4889,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f062v-063r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f062v-063r right",
+                "label": "063r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4927,7 +4927,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f063v-064r.ptif/0,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f063v-064r left",
+                "label": "063v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -4965,7 +4965,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f063v-064r.ptif/3042,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f063v-064r right",
+                "label": "064r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5003,7 +5003,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f064v-065r.ptif/0,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f064v-065r left",
+                "label": "064v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5041,7 +5041,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f064v-065r.ptif/3042,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f064v-065r right",
+                "label": "065r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5079,7 +5079,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f065v-066r.ptif/0,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f065v-066r left",
+                "label": "065v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5117,7 +5117,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f065v-066r.ptif/3042,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f065v-066r right",
+                "label": "066r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5155,7 +5155,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f066v-067r.ptif/0,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f066v-067r left",
+                "label": "066v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5193,7 +5193,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f066v-067r.ptif/3042,0,3042,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f066v-067r right",
+                "label": "067r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -5231,7 +5231,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f067v-068r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f067v-068r left",
+                "label": "067v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5269,7 +5269,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f067v-068r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f067v-068r right",
+                "label": "068r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5307,7 +5307,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f068v-069r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f068v-069r left",
+                "label": "068v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5345,7 +5345,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f068v-069r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f068v-069r right",
+                "label": "069r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5383,7 +5383,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f069v-070r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f069v-070r left",
+                "label": "069v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5421,7 +5421,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f069v-070r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f069v-070r right",
+                "label": "070r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5459,7 +5459,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f070v-071r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f070v-071r left",
+                "label": "070v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5497,7 +5497,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f070v-071r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f070v-071r right",
+                "label": "071r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5535,7 +5535,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f071v-072r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f071v-072r left",
+                "label": "071v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5573,7 +5573,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f071v-072r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f071v-072r right",
+                "label": "072r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5611,7 +5611,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f072v-073r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f072v-073r left",
+                "label": "072v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5649,7 +5649,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f072v-073r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f072v-073r right",
+                "label": "073r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5687,7 +5687,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f073v-074r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f073v-074r left",
+                "label": "073v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5725,7 +5725,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f073v-074r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f073v-074r right",
+                "label": "074r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5763,7 +5763,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f074v-075r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f074v-075r left",
+                "label": "074v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5801,7 +5801,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f074v-075r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f074v-075r right",
+                "label": "075r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5839,7 +5839,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f075v-076r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f075v-076r left",
+                "label": "075v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5877,7 +5877,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f075v-076r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f075v-076r right",
+                "label": "076r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5915,7 +5915,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f076v-077r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f076v-077r left",
+                "label": "076v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5953,7 +5953,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f076v-077r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f076v-077r right",
+                "label": "077r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -5991,7 +5991,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f077v-078r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f077v-078r left",
+                "label": "077v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6029,7 +6029,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f077v-078r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f077v-078r right",
+                "label": "078r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6067,7 +6067,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f078v-079r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f078v-079r left",
+                "label": "078v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6105,7 +6105,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f078v-079r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f078v-079r right",
+                "label": "079r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6143,7 +6143,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f079v-080r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f079v-080r left",
+                "label": "079v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6181,7 +6181,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f079v-080r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f079v-080r right",
+                "label": "080r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6219,7 +6219,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f080v-081r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f080v-081r left",
+                "label": "080v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6257,7 +6257,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f080v-081r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f080v-081r right",
+                "label": "081r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6295,7 +6295,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f081v-082r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f081v-082r left",
+                "label": "081v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6333,7 +6333,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f081v-082r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f081v-082r right",
+                "label": "082r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6371,7 +6371,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f060v-061r.ptif/0,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f060v-061r left",
+                "label": "060v",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -6409,7 +6409,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f060v-061r.ptif/3010,0,3010,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f060v-061r right",
+                "label": "061r",
                 "width": 3009,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -6447,7 +6447,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f083v-084r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f083v-084r left",
+                "label": "083v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6485,7 +6485,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f083v-084r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f083v-084r right",
+                "label": "084r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6523,7 +6523,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f084v-085r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f084v-085r left",
+                "label": "084v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6561,7 +6561,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f084v-085r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f084v-085r right",
+                "label": "085r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -6599,7 +6599,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f085v-086r.ptif/0,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f085v-086r left",
+                "label": "085v",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6637,7 +6637,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f085v-086r.ptif/3043,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f085v-086r right",
+                "label": "086r",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6675,7 +6675,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f086v-087r.ptif/0,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f086v-087r left",
+                "label": "086v",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6713,7 +6713,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f086v-087r.ptif/3043,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f086v-087r right",
+                "label": "087r",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6751,7 +6751,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f087v-088r.ptif/0,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f087v-088r left",
+                "label": "087v",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6789,7 +6789,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f087v-088r.ptif/3043,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f087v-088r right",
+                "label": "088r",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6827,7 +6827,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f088v-089r.ptif/0,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f088v-089r left",
+                "label": "088v",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6865,7 +6865,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f088v-089r.ptif/3043,0,3043,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f088v-089r right",
+                "label": "089r",
                 "width": 3043,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6903,7 +6903,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f089v-090r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f089v-090r left",
+                "label": "089v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6941,7 +6941,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f089v-090r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f089v-090r right",
+                "label": "090r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -6979,7 +6979,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f090v-091r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f090v-091r left",
+                "label": "090v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7017,7 +7017,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f090v-091r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f090v-091r right",
+                "label": "091r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7055,7 +7055,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f091v-092r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f091v-092r left",
+                "label": "091v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7093,7 +7093,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f091v-092r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f091v-092r right",
+                "label": "092r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7131,7 +7131,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f092v-093r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f092v-093r left",
+                "label": "092v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7169,7 +7169,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f092v-093r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f092v-093r right",
+                "label": "093r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7207,7 +7207,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f093v-094r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f093v-094r left",
+                "label": "093v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7245,7 +7245,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f093v-094r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f093v-094r right",
+                "label": "094r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7283,7 +7283,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f094v-095r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f094v-095r left",
+                "label": "094v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7321,7 +7321,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f094v-095r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f094v-095r right",
+                "label": "095r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7359,7 +7359,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f095v-096r.ptif/0,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f095v-096r left",
+                "label": "095v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7397,7 +7397,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f095v-096r.ptif/3042,0,3042,4008/full/0/default.jpg"
                     }
                 }],
-                "label": "f095v-096r right",
+                "label": "096r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4008,
@@ -7587,7 +7587,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f097v-098r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f097v-098r left",
+                "label": "097v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7625,7 +7625,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f097v-098r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f097v-098r right",
+                "label": "098r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7663,7 +7663,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f098v-099r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f098v-099r left",
+                "label": "098v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7701,7 +7701,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f098v-099r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f098v-099r right",
+                "label": "099r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7739,7 +7739,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f099v-100r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f099v-100r left",
+                "label": "099v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7777,7 +7777,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f099v-100r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f099v-100r right",
+                "label": "100r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7815,7 +7815,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f100v-101r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f100v-101r left",
+                "label": "100v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7853,7 +7853,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f100v-101r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f100v-101r right",
+                "label": "101r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7891,7 +7891,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f101v-102r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f101v-102r left",
+                "label": "101v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7929,7 +7929,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f101v-102r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f101v-102r right",
+                "label": "102r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -7967,7 +7967,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f102v-103r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f102v-103r left",
+                "label": "102v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8005,7 +8005,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f102v-103r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f102v-103r right",
+                "label": "103r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8043,7 +8043,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f082v-083r.ptif/0,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f082v-083r left",
+                "label": "082v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -8081,7 +8081,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f082v-083r.ptif/3042,0,3042,4009/full/0/default.jpg"
                     }
                 }],
-                "label": "f082v-083r right",
+                "label": "083r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4009,
@@ -8119,7 +8119,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f103v-104r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f103v-104r left",
+                "label": "103v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8157,7 +8157,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f103v-104r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f103v-104r right",
+                "label": "104r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8195,7 +8195,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f104v-105r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f104v-105r left",
+                "label": "104v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8233,7 +8233,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f104v-105r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f104v-105r right",
+                "label": "105r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8271,7 +8271,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f105v-106r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f105v-106r left",
+                "label": "105v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8309,7 +8309,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f105v-106r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f105v-106r right",
+                "label": "106r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8347,7 +8347,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f106v-107r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f106v-107r left",
+                "label": "106v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8385,7 +8385,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f106v-107r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f106v-107r right",
+                "label": "107r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8423,7 +8423,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f107v-108r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f107v-108r left",
+                "label": "107v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8461,7 +8461,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f107v-108r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f107v-108r right",
+                "label": "108r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8499,7 +8499,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f108v-109r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f108v-109r left",
+                "label": "108v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8537,7 +8537,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f108v-109r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f108v-109r right",
+                "label": "109r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8575,7 +8575,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f109v-110r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f109v-110r left",
+                "label": "109v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8613,7 +8613,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f109v-110r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f109v-110r right",
+                "label": "110r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8651,7 +8651,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f110v-111r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f110v-111r left",
+                "label": "110v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8689,7 +8689,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f110v-111r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f110v-111r right",
+                "label": "111r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8727,7 +8727,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f111v-112r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f111v-112r left",
+                "label": "111v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8765,7 +8765,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f111v-112r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f111v-112r right",
+                "label": "112r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8803,7 +8803,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f112v-113r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f112v-113r left",
+                "label": "112v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8841,7 +8841,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f112v-113r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f112v-113r right",
+                "label": "113r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8879,7 +8879,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f113v-114r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f113v-114r left",
+                "label": "113v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8917,7 +8917,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f113v-114r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f113v-114r right",
+                "label": "114r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8955,7 +8955,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f114v-115r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f114v-115r left",
+                "label": "114v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -8993,7 +8993,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f114v-115r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f114v-115r right",
+                "label": "115r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9031,7 +9031,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f115v-116r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f115v-116r left",
+                "label": "115v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9069,7 +9069,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f115v-116r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f115v-116r right",
+                "label": "116r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9107,7 +9107,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f116v-117r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f116v-117r left",
+                "label": "116v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9145,7 +9145,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f116v-117r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f116v-117r right",
+                "label": "117r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9183,7 +9183,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f117v-118r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f117v-118r left",
+                "label": "117v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9221,7 +9221,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f117v-118r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f117v-118r right",
+                "label": "118r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9259,7 +9259,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f118v-119r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f118v-119r left",
+                "label": "118v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9297,7 +9297,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f118v-119r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f118v-119r right",
+                "label": "119r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9335,7 +9335,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f119v-120r.ptif/0,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f119v-120r left",
+                "label": "119v",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9373,7 +9373,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f119v-120r.ptif/3042,0,3042,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f119v-120r right",
+                "label": "120r",
                 "width": 3042,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9411,7 +9411,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f120v-121r.ptif/0,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f120v-121r left",
+                "label": "120v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9449,7 +9449,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f120v-121r.ptif/3020,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f120v-121r right",
+                "label": "121r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9487,7 +9487,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f121v-122r.ptif/0,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f121v-122r left",
+                "label": "121v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9525,7 +9525,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f121v-122r.ptif/3020,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f121v-122r right",
+                "label": "122r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9563,7 +9563,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f122v-123r.ptif/0,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f122v-123r left",
+                "label": "122v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9601,7 +9601,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f122v-123r.ptif/3020,0,3020,4036/full/0/default.jpg"
                     }
                 }],
-                "label": "f122v-123r right",
+                "label": "123r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4036,
@@ -9639,7 +9639,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f123v-124r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f123v-124r left",
+                "label": "123v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9677,7 +9677,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f123v-124r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f123v-124r right",
+                "label": "124r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9715,7 +9715,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f124v-125r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f124v-125r left",
+                "label": "124v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9753,7 +9753,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f124v-125r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f124v-125r right",
+                "label": "125r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9791,7 +9791,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f125v-126r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f125v-126r left",
+                "label": "125v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9829,7 +9829,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f125v-126r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f125v-126r right",
+                "label": "126r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9867,7 +9867,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f126v-127r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f126v-127r left",
+                "label": "126v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9905,7 +9905,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f126v-127r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f126v-127r right",
+                "label": "127r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9943,7 +9943,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f127v-128r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f127v-128r left",
+                "label": "127v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -9981,7 +9981,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f127v-128r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f127v-128r right",
+                "label": "128r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -10019,7 +10019,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f128v-129r.ptif/0,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f128v-129r left",
+                "label": "128v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -10057,7 +10057,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f128v-129r.ptif/3020,0,3020,4063/full/0/default.jpg"
                     }
                 }],
-                "label": "f128v-129r right",
+                "label": "129r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4063,
@@ -10095,7 +10095,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f129v-130r.ptif/0,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f129v-130r left",
+                "label": "129v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10133,7 +10133,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f129v-130r.ptif/3019,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f129v-130r right",
+                "label": "130r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10171,7 +10171,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f130v-131r.ptif/0,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f130v-131r left",
+                "label": "130v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10209,7 +10209,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f130v-131r.ptif/3019,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f130v-131r right",
+                "label": "131r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10247,7 +10247,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f131v-132r.ptif/0,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f131v-132r left",
+                "label": "131v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10285,7 +10285,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f131v-132r.ptif/3019,0,3019,4064/full/0/default.jpg"
                     }
                 }],
-                "label": "f131v-132r right",
+                "label": "132r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4064,
@@ -10323,7 +10323,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f132v-133r.ptif/0,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f132v-133r left",
+                "label": "132v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10361,7 +10361,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f132v-133r.ptif/3019,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f132v-133r right",
+                "label": "133r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10399,7 +10399,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f133v-134r.ptif/0,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f133v-134r left",
+                "label": "133v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10437,7 +10437,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f133v-134r.ptif/3019,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f133v-134r right",
+                "label": "134r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10475,7 +10475,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f134v-135r.ptif/0,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f134v-135r left",
+                "label": "134v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10513,7 +10513,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f134v-135r.ptif/3019,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f134v-135r right",
+                "label": "135r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10551,7 +10551,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f135v-136r.ptif/0,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f135v-136r left",
+                "label": "135v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10589,7 +10589,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f135v-136r.ptif/3019,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f135v-136r right",
+                "label": "136r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10627,7 +10627,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f136v-137r.ptif/0,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f136v-137r left",
+                "label": "136v",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10665,7 +10665,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f136v-137r.ptif/3019,0,3019,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f136v-137r right",
+                "label": "137r",
                 "width": 3019,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10703,7 +10703,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f137v-138r.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f137v-138r left",
+                "label": "137v",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10741,7 +10741,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f137v-138r.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f137v-138r right",
+                "label": "138r",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10779,7 +10779,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f138v-139r.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f138v-139r left",
+                "label": "138v",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10817,7 +10817,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f138v-139r.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f138v-139r right",
+                "label": "139r",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10855,7 +10855,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f139v-140r.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f139v-140r left",
+                "label": "139v",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10893,7 +10893,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f139v-140r.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f139v-140r right",
+                "label": "140r",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10931,7 +10931,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f140v-141r.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f140v-141r left",
+                "label": "140v",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -10969,7 +10969,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_f140v-141r.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "f140v-141r right",
+                "label": "141r",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
