@@ -11007,7 +11007,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening04-(incl-f141v).ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening04-(incl-f141v) left",
+                "label": "141v",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11045,7 +11045,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening04-(incl-f141v).ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening04-(incl-f141v) right",
+                "label": "[142r]",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11083,7 +11083,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening05.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening05 left",
+                "label": "[142v]",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11121,7 +11121,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening05.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening05 right",
+                "label": "[143r]",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11159,7 +11159,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening06.ptif/0,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening06 left",
+                "label": "[143v]",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11197,7 +11197,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_XXXX_opening06.ptif/2992,0,2992,4068/full/0/default.jpg"
                     }
                 }],
-                "label": "XXXX_opening06 right",
+                "label": "[144r]",
                 "width": 2992,
                 "@type": "sc:Canvas",
                 "height": 4068,
@@ -11228,7 +11228,7 @@
                         "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_BPL_14_A_0000_band4.ptif/full/full/0/default.jpg"
                     }
                 }],
-                "label": "0000_band4",
+                "label": "achterkant",
                 "viewingHint": "non-paged",
                 "width": 2940,
                 "@type": "sc:Canvas",
