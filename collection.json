@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digitalscholarship.nl/manifests/collection.json",
+  "@type": "sc:Collection",
+  "label": "Collection of manifests at the Centre for Digital Scholarship",
+  "viewingHint": "top",
+  "description": "This collection contains objects that are currently available via digitalscholarship.nl.",
+  "attribution": "Provided by Leiden University Libraries",
+
+  "manifests": [
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest23-split.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (pagina's)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (default pagina's)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (default pagina's, pyramid TIFFs)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (default pagina's, pyramid TIFFs, different sequence)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest2-split-frag.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (fragmentselector)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest2-pyramid.json",
+      "@type": "sc:Manifest",
+      "label": "Der naturen bloeme (pyramid TIFF)"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/NKP/0001-manifest.json",
+      "@type": "sc:Manifest",
+      "label": "NKP 0001"
+    }
+  ]
+}

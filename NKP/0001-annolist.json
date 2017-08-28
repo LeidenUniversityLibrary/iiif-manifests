@@ -1,0 +1,87 @@
+{
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@type": "oa:Annotation",
+            "annotatedAt": "2016-03-15T13:33:07Z",
+            "annotatedBy": {"name": "Koen"},
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6171,11695,71,71"
+                }
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "<p>medal<\/p><p>chollima medal<\/p>",
+                "format": "text/html"
+            },
+            "motivation": "oa:commenting",
+            "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist-anno0.json"
+        },
+        {
+            "@type": "oa:Annotation",
+            "annotatedAt": "2016-03-18T17:11:03Z",
+            "annotatedBy": {"name": "Caroline"},
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=5893,2078,71,71"
+                }
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "<p>booklet<\/p><p> a letter from the Central Committee of the <a href=\"https://en.wikipedia.org/wiki/Workers%27_Party_of_Korea\" target=\"_blank\">Workers' Party of Korea<\/a> to party members<\/p>",
+                "format": "text/html"
+            },
+            "motivation": "oa:commenting",
+            "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist-anno1.json"
+        },
+        {
+            "@type": "oa:Annotation",
+            "annotatedAt": "2016-06-12T10:55:25Z",
+            "annotatedBy": {"name": "Koen"},
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=2173,11066,71,71"
+                }
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "<p>medal<\/p><p>chollima medal<\/p>",
+                "format": "text/html"
+            },
+            "motivation": "oa:commenting",
+            "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist-anno2.json"
+        },
+        {
+            "@type": "oa:Annotation",
+            "annotatedAt": "2016-06-12T11:00:35Z",
+            "annotatedBy": {"name": "Koen"},
+            "on": {
+                "@type": "oa:SpecificResource",
+                "full": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=5005,11066,71,71"
+                }
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "chars": "<p>medal<\/p><p>chollima medal<\/p>",
+                "format": "text/html"
+            },
+            "motivation": "oa:commenting",
+            "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist-anno3.json"
+        }
+    ],
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist.json"
+}

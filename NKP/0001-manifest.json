@@ -1,0 +1,104 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://digitalscholarship.nl/manifests/NKP/0001-manifest.json",
+
+  "label":"NKP 0001",
+  "metadata":[
+    {
+      "label":"Date",
+      "value":"1961.05.26"
+    },
+    {
+      "label":"Artist (McC-R)",
+      "value":"Yu Hwan-gi, Kwak Hŭng-mo"
+    },
+    {
+      "label":"Artist (As printed)",
+      "value":"유환기, 곽흥모"
+    },
+    {
+      "label":"Internal code",
+      "value":"ㄱ - 62224"
+    },
+    {
+      "label":"Number of prints",
+      "value":"100,000"
+    },
+    {
+      "label":"Printer (As printed)",
+      "value":"민족 보위성 인쇄소"
+    },
+    {
+      "label":"Printer (McC-R)",
+      "value":"Minjok powisŏng insweso"
+    },
+    {
+      "label":"Publisher name (As printed)",
+      "value":"군중 문화사"
+    },
+    {
+      "label":"Publisher name (McC-R)",
+      "value":"kunjung munhwasa"
+    },
+    {
+      "label":"Theme",
+      "value":"Ideology, Workers Party of Korea, party loyalty"
+    }
+  ],
+  "description": "Let us unite, one heart, one mind!",
+  "seeAlso": {
+    "@id": "http://hdl.handle.net/1887.1/item:133487",
+    "format": "text/html"
+  },
+  "navDate": "1961-05-26T00:00:00Z",
+
+  "license": "http://example.org/license.html",
+  "attribution": "Provided by Leiden University",
+  
+  
+  "sequences": [
+      {
+        "@id": "https://digitalscholarship.nl/manifests/NKP/0001/sequence/normal",
+        "@type": "sc:Sequence",
+        "label": "The True Sequence",
+        "viewingDirection": "left-to-right",
+        "viewingHint": "individuals",
+        "canvases": [
+          {
+            "@id": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+            "@type": "sc:Canvas",
+            "label": "the poster",
+            "height":12576,
+            "width":9255,
+            "images": [
+              {
+                "@type": "oa:Annotation",
+                "@id": "https://digitalscholarship.nl/manifests/NKP/0001/annotation/image1",
+                "motivation": "sc:painting",
+                "resource":{
+                    "@id": "https://digitalscholarship.nl/iiif/2/UBL09_0001_01.jpg/full/full/0/default.jpg",
+                    "@type": "dctypes:Image",
+                    "format": "image/jpeg",
+                    "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "https://digitalscholarship.nl/iiif/2/UBL09_0001_01.jpg",
+                        "profile": "http://iiif.io/api/image/2/level2.json"
+                    },
+                    "height":12576,
+                    "width":9255
+                },
+                "on": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1"
+              }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist.json",
+                    "@type": "sc:AnnotationList"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+}
