@@ -3,6 +3,7 @@
   "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/manifest.json", 
   "@type": "sc:Manifest", 
   "label": "Or. 12885", 
+  "attribution": "Provided by Leiden University",
   "sequences": [
     {
       "@type": "sc:Sequence", 

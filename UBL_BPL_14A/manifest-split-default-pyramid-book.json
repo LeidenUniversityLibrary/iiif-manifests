@@ -3,6 +3,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "label": "Der naturen bloeme",
     "description": "with 'split canvases', default, thumbnails, pyramid TIFF",
+    "attribution": "Provided by Leiden University",
     "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
     "sequences": [{
         "@type": "sc:Sequence",
