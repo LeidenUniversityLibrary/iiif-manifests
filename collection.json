@@ -9,39 +9,19 @@
 
   "manifests": [
     {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest.json",
+      "@id": "https://digitalscholarship.nl/manifests/ublohs_or_8264/manifest.json",
       "@type": "sc:Manifest",
-      "label": "Der naturen bloeme"
+      "label": "Or. 8264"
     },
     {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest23-split.json",
+      "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/manifest.json",
       "@type": "sc:Manifest",
-      "label": "Der naturen bloeme (pagina's)"
-    },
-    {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default.json",
-      "@type": "sc:Manifest",
-      "label": "Der naturen bloeme (default pagina's)"
-    },
-    {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid.json",
-      "@type": "sc:Manifest",
-      "label": "Der naturen bloeme (default pagina's, pyramid TIFFs)"
+      "label": "Or. 12885"
     },
     {
       "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
       "@type": "sc:Manifest",
       "label": "Der naturen bloeme (default pagina's, pyramid TIFFs, different sequence)"
-    },
-    {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest2-split-frag.json",
-      "@type": "sc:Manifest",
-      "label": "Der naturen bloeme (fragmentselector)"
-    },
-    {
-      "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest2-pyramid.json",
-      "@type": "sc:Manifest",
-      "label": "Der naturen bloeme (pyramid TIFF)"
     },
     {
       "@id": "https://digitalscholarship.nl/manifests/NKP/0001-manifest.json",
