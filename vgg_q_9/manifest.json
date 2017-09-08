@@ -2,7 +2,7 @@
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/manifest.json",
   "@type": "sc:Manifest",
-  "label": "Or. 12885",
+  "label": "VGG Q 9",
   "sequences": [
     {
       "@type": "sc:Sequence",
