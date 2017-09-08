@@ -8,14 +8,14 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band1..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band1.json",
           "@type": "sc:Canvas",
-          "label": "0000 band1.",
+          "label": "0000 band1",
           "height": 1521,
           "width": 753,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 band1.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20band1-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -30,19 +30,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band1..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band1.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band2..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band2.json",
           "@type": "sc:Canvas",
-          "label": "0000 band2.",
+          "label": "0000 band2",
           "height": 2813,
           "width": 1955,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 band2.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20band2-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -57,19 +57,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band2..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band2.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band3..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band3.json",
           "@type": "sc:Canvas",
-          "label": "0000 band3.",
+          "label": "0000 band3",
           "height": 2551,
           "width": 579,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 band3.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20band3-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -84,19 +84,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band3..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band3.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band4..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band4.json",
           "@type": "sc:Canvas",
-          "label": "0000 band4.",
+          "label": "0000 band4",
           "height": 2760,
           "width": 1937,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 band4.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20band4-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -111,19 +111,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 band4..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20band4.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening01..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening01.json",
           "@type": "sc:Canvas",
-          "label": "0000 opening01.",
+          "label": "0000 opening01",
           "height": 2790,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 opening01.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20opening01-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -138,19 +138,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening01..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening01.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening02..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening02.json",
           "@type": "sc:Canvas",
-          "label": "0000 opening02.",
+          "label": "0000 opening02",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 opening02.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20opening02-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -165,19 +165,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening02..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening02.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening03..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening03.json",
           "@type": "sc:Canvas",
-          "label": "0000 opening03.",
+          "label": "0000 opening03",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 opening03.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20opening03-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -192,46 +192,46 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening03..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening03.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening04-(incl-f001r)..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening04-%28incl-f001r%29.json",
           "@type": "sc:Canvas",
-          "label": "0000 opening04-(incl-f001r).",
+          "label": "0000 opening04-(incl-f001r)",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000 opening04-(incl-f001r).-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/0000%20opening04-%28incl-f001r%29-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_VGG_Q_9_0000_opening04-(incl-f001r).ptif/full/full/0/default.jpg",
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_VGG_Q_9_0000_opening04-%28incl-f001r%29.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2789,
                 "width": 3776,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_VGG_Q_9_0000_opening04-(incl-f001r).ptif",
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_VGG_Q_9_0000_opening04-%28incl-f001r%29.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000 opening04-(incl-f001r)..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/0000%20opening04-%28incl-f001r%29.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f001v-002r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f001v-002r.json",
           "@type": "sc:Canvas",
-          "label": "f001v-002r.",
+          "label": "f001v-002r",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f001v-002r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f001v-002r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -246,19 +246,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f001v-002r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f001v-002r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f002v-003r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f002v-003r.json",
           "@type": "sc:Canvas",
-          "label": "f002v-003r.",
+          "label": "f002v-003r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f002v-003r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f002v-003r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -273,19 +273,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f002v-003r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f002v-003r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f003v-004r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f003v-004r.json",
           "@type": "sc:Canvas",
-          "label": "f003v-004r.",
+          "label": "f003v-004r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f003v-004r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f003v-004r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -300,19 +300,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f003v-004r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f003v-004r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f004v-005r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f004v-005r.json",
           "@type": "sc:Canvas",
-          "label": "f004v-005r.",
+          "label": "f004v-005r",
           "height": 2790,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f004v-005r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f004v-005r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -327,19 +327,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f004v-005r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f004v-005r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f005v-006r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f005v-006r.json",
           "@type": "sc:Canvas",
-          "label": "f005v-006r.",
+          "label": "f005v-006r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f005v-006r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f005v-006r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -354,19 +354,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f005v-006r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f005v-006r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f006v-007r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f006v-007r.json",
           "@type": "sc:Canvas",
-          "label": "f006v-007r.",
+          "label": "f006v-007r",
           "height": 2790,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f006v-007r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f006v-007r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -381,19 +381,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f006v-007r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f006v-007r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f007v-008r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f007v-008r.json",
           "@type": "sc:Canvas",
-          "label": "f007v-008r.",
+          "label": "f007v-008r",
           "height": 2790,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f007v-008r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f007v-008r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -408,19 +408,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f007v-008r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f007v-008r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f008v-009r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f008v-009r.json",
           "@type": "sc:Canvas",
-          "label": "f008v-009r.",
+          "label": "f008v-009r",
           "height": 2790,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f008v-009r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f008v-009r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -435,19 +435,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f008v-009r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f008v-009r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f009v-010r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f009v-010r.json",
           "@type": "sc:Canvas",
-          "label": "f009v-010r.",
+          "label": "f009v-010r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f009v-010r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f009v-010r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -462,19 +462,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f009v-010r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f009v-010r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f010v-011r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f010v-011r.json",
           "@type": "sc:Canvas",
-          "label": "f010v-011r.",
+          "label": "f010v-011r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f010v-011r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f010v-011r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -489,19 +489,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f010v-011r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f010v-011r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f011v-012r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f011v-012r.json",
           "@type": "sc:Canvas",
-          "label": "f011v-012r.",
+          "label": "f011v-012r",
           "height": 2789,
           "width": 3777,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f011v-012r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f011v-012r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -516,19 +516,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f011v-012r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f011v-012r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f012v-013r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f012v-013r.json",
           "@type": "sc:Canvas",
-          "label": "f012v-013r.",
+          "label": "f012v-013r",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f012v-013r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f012v-013r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -543,19 +543,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f012v-013r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f012v-013r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f013v-014r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f013v-014r.json",
           "@type": "sc:Canvas",
-          "label": "f013v-014r.",
+          "label": "f013v-014r",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f013v-014r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f013v-014r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -570,19 +570,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f013v-014r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f013v-014r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f014v-015r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f014v-015r.json",
           "@type": "sc:Canvas",
-          "label": "f014v-015r.",
+          "label": "f014v-015r",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f014v-015r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f014v-015r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -597,19 +597,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f014v-015r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f014v-015r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f015v-016r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f015v-016r.json",
           "@type": "sc:Canvas",
-          "label": "f015v-016r.",
+          "label": "f015v-016r",
           "height": 2789,
           "width": 3776,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f015v-016r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f015v-016r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -624,19 +624,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f015v-016r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f015v-016r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f016v-017r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f016v-017r.json",
           "@type": "sc:Canvas",
-          "label": "f016v-017r.",
+          "label": "f016v-017r",
           "height": 2789,
           "width": 3867,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f016v-017r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f016v-017r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -651,19 +651,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f016v-017r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f016v-017r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f017v-018r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f017v-018r.json",
           "@type": "sc:Canvas",
-          "label": "f017v-018r.",
+          "label": "f017v-018r",
           "height": 2789,
           "width": 3868,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f017v-018r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f017v-018r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -678,19 +678,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f017v-018r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f017v-018r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f018v-019r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f018v-019r.json",
           "@type": "sc:Canvas",
-          "label": "f018v-019r.",
+          "label": "f018v-019r",
           "height": 2789,
           "width": 3867,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f018v-019r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f018v-019r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -705,19 +705,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f018v-019r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f018v-019r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f019v-020r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f019v-020r.json",
           "@type": "sc:Canvas",
-          "label": "f019v-020r.",
+          "label": "f019v-020r",
           "height": 2789,
           "width": 3867,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f019v-020r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f019v-020r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -732,19 +732,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f019v-020r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f019v-020r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f020v-021r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f020v-021r.json",
           "@type": "sc:Canvas",
-          "label": "f020v-021r.",
+          "label": "f020v-021r",
           "height": 2790,
           "width": 3867,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f020v-021r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f020v-021r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -759,19 +759,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f020v-021r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f020v-021r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f021v-022r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f021v-022r.json",
           "@type": "sc:Canvas",
-          "label": "f021v-022r.",
+          "label": "f021v-022r",
           "height": 2789,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f021v-022r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f021v-022r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -786,19 +786,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f021v-022r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f021v-022r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f022v-023r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f022v-023r.json",
           "@type": "sc:Canvas",
-          "label": "f022v-023r.",
+          "label": "f022v-023r",
           "height": 2790,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f022v-023r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f022v-023r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -813,19 +813,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f022v-023r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f022v-023r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f023v-024r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f023v-024r.json",
           "@type": "sc:Canvas",
-          "label": "f023v-024r.",
+          "label": "f023v-024r",
           "height": 2789,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f023v-024r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f023v-024r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -840,19 +840,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f023v-024r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f023v-024r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f024v-025r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f024v-025r.json",
           "@type": "sc:Canvas",
-          "label": "f024v-025r.",
+          "label": "f024v-025r",
           "height": 2789,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f024v-025r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f024v-025r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -867,19 +867,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f024v-025r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f024v-025r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f025v-026r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f025v-026r.json",
           "@type": "sc:Canvas",
-          "label": "f025v-026r.",
+          "label": "f025v-026r",
           "height": 2790,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f025v-026r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f025v-026r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -894,19 +894,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f025v-026r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f025v-026r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f026v-027r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f026v-027r.json",
           "@type": "sc:Canvas",
-          "label": "f026v-027r.",
+          "label": "f026v-027r",
           "height": 2789,
           "width": 3887,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f026v-027r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f026v-027r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -921,19 +921,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f026v-027r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f026v-027r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f027v-028r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f027v-028r.json",
           "@type": "sc:Canvas",
-          "label": "f027v-028r.",
+          "label": "f027v-028r",
           "height": 2790,
           "width": 3886,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f027v-028r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f027v-028r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -948,19 +948,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f027v-028r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f027v-028r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f028v-029r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f028v-029r.json",
           "@type": "sc:Canvas",
-          "label": "f028v-029r.",
+          "label": "f028v-029r",
           "height": 2789,
           "width": 3936,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f028v-029r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f028v-029r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -975,19 +975,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f028v-029r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f028v-029r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f029v-030r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f029v-030r.json",
           "@type": "sc:Canvas",
-          "label": "f029v-030r.",
+          "label": "f029v-030r",
           "height": 2789,
           "width": 3936,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f029v-030r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f029v-030r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1002,19 +1002,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f029v-030r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f029v-030r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f030v-031r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f030v-031r.json",
           "@type": "sc:Canvas",
-          "label": "f030v-031r.",
+          "label": "f030v-031r",
           "height": 2789,
           "width": 3936,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f030v-031r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f030v-031r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1029,19 +1029,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f030v-031r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f030v-031r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f031v-032r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f031v-032r.json",
           "@type": "sc:Canvas",
-          "label": "f031v-032r.",
+          "label": "f031v-032r",
           "height": 2789,
           "width": 3937,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f031v-032r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f031v-032r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1056,19 +1056,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f031v-032r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f031v-032r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f032v-033r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f032v-033r.json",
           "@type": "sc:Canvas",
-          "label": "f032v-033r.",
+          "label": "f032v-033r",
           "height": 2790,
           "width": 3936,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f032v-033r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f032v-033r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1083,19 +1083,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f032v-033r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f032v-033r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f033v-034r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f033v-034r.json",
           "@type": "sc:Canvas",
-          "label": "f033v-034r.",
+          "label": "f033v-034r",
           "height": 2789,
           "width": 3948,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f033v-034r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f033v-034r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1110,19 +1110,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f033v-034r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f033v-034r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f034v-035r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f034v-035r.json",
           "@type": "sc:Canvas",
-          "label": "f034v-035r.",
+          "label": "f034v-035r",
           "height": 2790,
           "width": 3948,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f034v-035r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f034v-035r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1137,19 +1137,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f034v-035r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f034v-035r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f035v-036r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f035v-036r.json",
           "@type": "sc:Canvas",
-          "label": "f035v-036r.",
+          "label": "f035v-036r",
           "height": 2789,
           "width": 3967,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f035v-036r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f035v-036r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1164,19 +1164,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f035v-036r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f035v-036r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f036v-037r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f036v-037r.json",
           "@type": "sc:Canvas",
-          "label": "f036v-037r.",
+          "label": "f036v-037r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f036v-037r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f036v-037r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1191,19 +1191,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f036v-037r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f036v-037r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f037v-038r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f037v-038r.json",
           "@type": "sc:Canvas",
-          "label": "f037v-038r.",
+          "label": "f037v-038r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f037v-038r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f037v-038r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1218,19 +1218,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f037v-038r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f037v-038r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f038v-039r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f038v-039r.json",
           "@type": "sc:Canvas",
-          "label": "f038v-039r.",
+          "label": "f038v-039r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f038v-039r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f038v-039r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1245,19 +1245,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f038v-039r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f038v-039r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f039v-040r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f039v-040r.json",
           "@type": "sc:Canvas",
-          "label": "f039v-040r.",
+          "label": "f039v-040r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f039v-040r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f039v-040r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1272,19 +1272,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f039v-040r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f039v-040r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f040v-041r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f040v-041r.json",
           "@type": "sc:Canvas",
-          "label": "f040v-041r.",
+          "label": "f040v-041r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f040v-041r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f040v-041r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1299,19 +1299,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f040v-041r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f040v-041r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f041v-042r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f041v-042r.json",
           "@type": "sc:Canvas",
-          "label": "f041v-042r.",
+          "label": "f041v-042r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f041v-042r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f041v-042r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1326,19 +1326,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f041v-042r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f041v-042r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f042v-043r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f042v-043r.json",
           "@type": "sc:Canvas",
-          "label": "f042v-043r.",
+          "label": "f042v-043r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f042v-043r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f042v-043r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1353,19 +1353,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f042v-043r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f042v-043r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f043v-044r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f043v-044r.json",
           "@type": "sc:Canvas",
-          "label": "f043v-044r.",
+          "label": "f043v-044r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f043v-044r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f043v-044r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1380,19 +1380,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f043v-044r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f043v-044r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f044v-045r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f044v-045r.json",
           "@type": "sc:Canvas",
-          "label": "f044v-045r.",
+          "label": "f044v-045r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f044v-045r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f044v-045r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1407,19 +1407,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f044v-045r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f044v-045r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f045v-046r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f045v-046r.json",
           "@type": "sc:Canvas",
-          "label": "f045v-046r.",
+          "label": "f045v-046r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f045v-046r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f045v-046r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1434,19 +1434,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f045v-046r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f045v-046r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f046v-047r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f046v-047r.json",
           "@type": "sc:Canvas",
-          "label": "f046v-047r.",
+          "label": "f046v-047r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f046v-047r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f046v-047r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1461,19 +1461,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f046v-047r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f046v-047r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f047v-048r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f047v-048r.json",
           "@type": "sc:Canvas",
-          "label": "f047v-048r.",
+          "label": "f047v-048r",
           "height": 2789,
           "width": 3978,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f047v-048r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f047v-048r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1488,19 +1488,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f047v-048r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f047v-048r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f048v-049r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f048v-049r.json",
           "@type": "sc:Canvas",
-          "label": "f048v-049r.",
+          "label": "f048v-049r",
           "height": 2790,
           "width": 4002,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f048v-049r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f048v-049r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1515,19 +1515,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f048v-049r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f048v-049r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f049v-050r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f049v-050r.json",
           "@type": "sc:Canvas",
-          "label": "f049v-050r.",
+          "label": "f049v-050r",
           "height": 2790,
           "width": 4002,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f049v-050r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f049v-050r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1542,19 +1542,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f049v-050r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f049v-050r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f050v-051r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f050v-051r.json",
           "@type": "sc:Canvas",
-          "label": "f050v-051r.",
+          "label": "f050v-051r",
           "height": 2790,
           "width": 4002,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f050v-051r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f050v-051r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1569,19 +1569,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f050v-051r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f050v-051r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f051v-052r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f051v-052r.json",
           "@type": "sc:Canvas",
-          "label": "f051v-052r.",
+          "label": "f051v-052r",
           "height": 2790,
           "width": 4002,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f051v-052r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f051v-052r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1596,19 +1596,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f051v-052r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f051v-052r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f052v-053r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f052v-053r.json",
           "@type": "sc:Canvas",
-          "label": "f052v-053r.",
+          "label": "f052v-053r",
           "height": 2789,
           "width": 4002,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f052v-053r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f052v-053r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1623,19 +1623,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f052v-053r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f052v-053r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f053v-054r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f053v-054r.json",
           "@type": "sc:Canvas",
-          "label": "f053v-054r.",
+          "label": "f053v-054r",
           "height": 2763,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f053v-054r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f053v-054r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1650,19 +1650,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f053v-054r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f053v-054r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f054v-055r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f054v-055r.json",
           "@type": "sc:Canvas",
-          "label": "f054v-055r.",
+          "label": "f054v-055r",
           "height": 2763,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f054v-055r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f054v-055r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1677,19 +1677,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f054v-055r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f054v-055r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f055v-056r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f055v-056r.json",
           "@type": "sc:Canvas",
-          "label": "f055v-056r.",
+          "label": "f055v-056r",
           "height": 2763,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f055v-056r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f055v-056r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1704,19 +1704,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f055v-056r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f055v-056r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f056v-057r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f056v-057r.json",
           "@type": "sc:Canvas",
-          "label": "f056v-057r.",
+          "label": "f056v-057r",
           "height": 2763,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f056v-057r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f056v-057r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1731,19 +1731,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f056v-057r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f056v-057r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f057v-058r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f057v-058r.json",
           "@type": "sc:Canvas",
-          "label": "f057v-058r.",
+          "label": "f057v-058r",
           "height": 2762,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f057v-058r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f057v-058r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1758,19 +1758,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f057v-058r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f057v-058r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f058v-059r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f058v-059r.json",
           "@type": "sc:Canvas",
-          "label": "f058v-059r.",
+          "label": "f058v-059r",
           "height": 2762,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f058v-059r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f058v-059r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1785,19 +1785,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f058v-059r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f058v-059r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f059v-060r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f059v-060r.json",
           "@type": "sc:Canvas",
-          "label": "f059v-060r.",
+          "label": "f059v-060r",
           "height": 2762,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f059v-060r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f059v-060r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1812,19 +1812,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f059v-060r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f059v-060r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f060v-061r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f060v-061r.json",
           "@type": "sc:Canvas",
-          "label": "f060v-061r.",
+          "label": "f060v-061r",
           "height": 2762,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f060v-061r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f060v-061r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1839,19 +1839,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f060v-061r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f060v-061r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f061v-062r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f061v-062r.json",
           "@type": "sc:Canvas",
-          "label": "f061v-062r.",
+          "label": "f061v-062r",
           "height": 2762,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f061v-062r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f061v-062r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1866,19 +1866,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f061v-062r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f061v-062r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f062v-063r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f062v-063r.json",
           "@type": "sc:Canvas",
-          "label": "f062v-063r.",
+          "label": "f062v-063r",
           "height": 2763,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f062v-063r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f062v-063r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1893,19 +1893,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f062v-063r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f062v-063r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f063v-064r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f063v-064r.json",
           "@type": "sc:Canvas",
-          "label": "f063v-064r.",
+          "label": "f063v-064r",
           "height": 2763,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f063v-064r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f063v-064r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1920,19 +1920,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f063v-064r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f063v-064r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f064v-065r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f064v-065r.json",
           "@type": "sc:Canvas",
-          "label": "f064v-065r.",
+          "label": "f064v-065r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f064v-065r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f064v-065r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1947,19 +1947,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f064v-065r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f064v-065r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f065v-066r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f065v-066r.json",
           "@type": "sc:Canvas",
-          "label": "f065v-066r.",
+          "label": "f065v-066r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f065v-066r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f065v-066r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -1974,19 +1974,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f065v-066r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f065v-066r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f066v-067r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f066v-067r.json",
           "@type": "sc:Canvas",
-          "label": "f066v-067r.",
+          "label": "f066v-067r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f066v-067r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f066v-067r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2001,19 +2001,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f066v-067r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f066v-067r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f067v-068r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f067v-068r.json",
           "@type": "sc:Canvas",
-          "label": "f067v-068r.",
+          "label": "f067v-068r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f067v-068r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f067v-068r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2028,19 +2028,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f067v-068r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f067v-068r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f068v-069r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f068v-069r.json",
           "@type": "sc:Canvas",
-          "label": "f068v-069r.",
+          "label": "f068v-069r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f068v-069r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f068v-069r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2055,19 +2055,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f068v-069r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f068v-069r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f069v-070r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f069v-070r.json",
           "@type": "sc:Canvas",
-          "label": "f069v-070r.",
+          "label": "f069v-070r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f069v-070r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f069v-070r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2082,19 +2082,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f069v-070r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f069v-070r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f070v-071r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f070v-071r.json",
           "@type": "sc:Canvas",
-          "label": "f070v-071r.",
+          "label": "f070v-071r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f070v-071r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f070v-071r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2109,19 +2109,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f070v-071r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f070v-071r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f071v-072r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f071v-072r.json",
           "@type": "sc:Canvas",
-          "label": "f071v-072r.",
+          "label": "f071v-072r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f071v-072r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f071v-072r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2136,19 +2136,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f071v-072r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f071v-072r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f072v-073r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f072v-073r.json",
           "@type": "sc:Canvas",
-          "label": "f072v-073r.",
+          "label": "f072v-073r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f072v-073r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f072v-073r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2163,19 +2163,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f072v-073r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f072v-073r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f073v-074r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f073v-074r.json",
           "@type": "sc:Canvas",
-          "label": "f073v-074r.",
+          "label": "f073v-074r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f073v-074r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f073v-074r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2190,19 +2190,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f073v-074r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f073v-074r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f074v-075r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f074v-075r.json",
           "@type": "sc:Canvas",
-          "label": "f074v-075r.",
+          "label": "f074v-075r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f074v-075r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f074v-075r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2217,19 +2217,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f074v-075r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f074v-075r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f075v-076r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f075v-076r.json",
           "@type": "sc:Canvas",
-          "label": "f075v-076r.",
+          "label": "f075v-076r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f075v-076r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f075v-076r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2244,19 +2244,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f075v-076r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f075v-076r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f076v-077r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f076v-077r.json",
           "@type": "sc:Canvas",
-          "label": "f076v-077r.",
+          "label": "f076v-077r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f076v-077r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f076v-077r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2271,19 +2271,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f076v-077r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f076v-077r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f077v-078r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f077v-078r.json",
           "@type": "sc:Canvas",
-          "label": "f077v-078r.",
+          "label": "f077v-078r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f077v-078r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f077v-078r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2298,19 +2298,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f077v-078r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f077v-078r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f078v-079r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f078v-079r.json",
           "@type": "sc:Canvas",
-          "label": "f078v-079r.",
+          "label": "f078v-079r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f078v-079r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f078v-079r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2325,19 +2325,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f078v-079r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f078v-079r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f079v-080r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f079v-080r.json",
           "@type": "sc:Canvas",
-          "label": "f079v-080r.",
+          "label": "f079v-080r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f079v-080r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f079v-080r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2352,19 +2352,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f079v-080r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f079v-080r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f080v-081r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f080v-081r.json",
           "@type": "sc:Canvas",
-          "label": "f080v-081r.",
+          "label": "f080v-081r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f080v-081r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f080v-081r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2379,19 +2379,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f080v-081r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f080v-081r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f081v-082r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f081v-082r.json",
           "@type": "sc:Canvas",
-          "label": "f081v-082r.",
+          "label": "f081v-082r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f081v-082r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f081v-082r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2406,19 +2406,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f081v-082r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f081v-082r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f082v-083r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f082v-083r.json",
           "@type": "sc:Canvas",
-          "label": "f082v-083r.",
+          "label": "f082v-083r",
           "height": 2739,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f082v-083r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f082v-083r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2433,19 +2433,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f082v-083r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f082v-083r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f083v-084r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f083v-084r.json",
           "@type": "sc:Canvas",
-          "label": "f083v-084r.",
+          "label": "f083v-084r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f083v-084r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f083v-084r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2460,19 +2460,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f083v-084r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f083v-084r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f084v-085r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f084v-085r.json",
           "@type": "sc:Canvas",
-          "label": "f084v-085r.",
+          "label": "f084v-085r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f084v-085r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f084v-085r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2487,19 +2487,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f084v-085r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f084v-085r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f085v-086r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f085v-086r.json",
           "@type": "sc:Canvas",
-          "label": "f085v-086r.",
+          "label": "f085v-086r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f085v-086r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f085v-086r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2514,19 +2514,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f085v-086r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f085v-086r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f086v-087r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f086v-087r.json",
           "@type": "sc:Canvas",
-          "label": "f086v-087r.",
+          "label": "f086v-087r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f086v-087r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f086v-087r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2541,19 +2541,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f086v-087r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f086v-087r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f087v-088r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f087v-088r.json",
           "@type": "sc:Canvas",
-          "label": "f087v-088r.",
+          "label": "f087v-088r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f087v-088r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f087v-088r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2568,19 +2568,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f087v-088r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f087v-088r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f088v-089r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f088v-089r.json",
           "@type": "sc:Canvas",
-          "label": "f088v-089r.",
+          "label": "f088v-089r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f088v-089r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f088v-089r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2595,19 +2595,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f088v-089r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f088v-089r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f089v-090r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f089v-090r.json",
           "@type": "sc:Canvas",
-          "label": "f089v-090r.",
+          "label": "f089v-090r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f089v-090r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f089v-090r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2622,19 +2622,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f089v-090r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f089v-090r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f090v-091r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f090v-091r.json",
           "@type": "sc:Canvas",
-          "label": "f090v-091r.",
+          "label": "f090v-091r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f090v-091r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f090v-091r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2649,19 +2649,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f090v-091r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f090v-091r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f091v-092r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f091v-092r.json",
           "@type": "sc:Canvas",
-          "label": "f091v-092r.",
+          "label": "f091v-092r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f091v-092r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f091v-092r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2676,19 +2676,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f091v-092r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f091v-092r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f092v-093r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f092v-093r.json",
           "@type": "sc:Canvas",
-          "label": "f092v-093r.",
+          "label": "f092v-093r",
           "height": 2739,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f092v-093r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f092v-093r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2703,19 +2703,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f092v-093r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f092v-093r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f093v-094r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f093v-094r.json",
           "@type": "sc:Canvas",
-          "label": "f093v-094r.",
+          "label": "f093v-094r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f093v-094r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f093v-094r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2730,19 +2730,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f093v-094r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f093v-094r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f094v-095r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f094v-095r.json",
           "@type": "sc:Canvas",
-          "label": "f094v-095r.",
+          "label": "f094v-095r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f094v-095r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f094v-095r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2757,19 +2757,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f094v-095r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f094v-095r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f095v-096r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f095v-096r.json",
           "@type": "sc:Canvas",
-          "label": "f095v-096r.",
+          "label": "f095v-096r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f095v-096r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f095v-096r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2784,19 +2784,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f095v-096r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f095v-096r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f096v-097r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f096v-097r.json",
           "@type": "sc:Canvas",
-          "label": "f096v-097r.",
+          "label": "f096v-097r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f096v-097r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f096v-097r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2811,19 +2811,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f096v-097r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f096v-097r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f097v-098r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f097v-098r.json",
           "@type": "sc:Canvas",
-          "label": "f097v-098r.",
+          "label": "f097v-098r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f097v-098r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f097v-098r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2838,19 +2838,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f097v-098r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f097v-098r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f098v-099r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f098v-099r.json",
           "@type": "sc:Canvas",
-          "label": "f098v-099r.",
+          "label": "f098v-099r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f098v-099r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f098v-099r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2865,19 +2865,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f098v-099r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f098v-099r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f099v-100r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f099v-100r.json",
           "@type": "sc:Canvas",
-          "label": "f099v-100r.",
+          "label": "f099v-100r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f099v-100r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f099v-100r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2892,19 +2892,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f099v-100r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f099v-100r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f100v-101r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f100v-101r.json",
           "@type": "sc:Canvas",
-          "label": "f100v-101r.",
+          "label": "f100v-101r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f100v-101r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f100v-101r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2919,19 +2919,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f100v-101r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f100v-101r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f101v-102r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f101v-102r.json",
           "@type": "sc:Canvas",
-          "label": "f101v-102r.",
+          "label": "f101v-102r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f101v-102r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f101v-102r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2946,19 +2946,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f101v-102r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f101v-102r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f102v-103r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f102v-103r.json",
           "@type": "sc:Canvas",
-          "label": "f102v-103r.",
+          "label": "f102v-103r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f102v-103r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f102v-103r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -2973,19 +2973,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f102v-103r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f102v-103r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f103v-104r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f103v-104r.json",
           "@type": "sc:Canvas",
-          "label": "f103v-104r.",
+          "label": "f103v-104r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f103v-104r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f103v-104r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3000,19 +3000,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f103v-104r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f103v-104r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f104v-105r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f104v-105r.json",
           "@type": "sc:Canvas",
-          "label": "f104v-105r.",
+          "label": "f104v-105r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f104v-105r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f104v-105r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3027,19 +3027,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f104v-105r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f104v-105r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f105v-106r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f105v-106r.json",
           "@type": "sc:Canvas",
-          "label": "f105v-106r.",
+          "label": "f105v-106r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f105v-106r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f105v-106r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3054,19 +3054,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f105v-106r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f105v-106r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f106v-107r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f106v-107r.json",
           "@type": "sc:Canvas",
-          "label": "f106v-107r.",
+          "label": "f106v-107r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f106v-107r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f106v-107r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3081,19 +3081,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f106v-107r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f106v-107r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f107v-108r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f107v-108r.json",
           "@type": "sc:Canvas",
-          "label": "f107v-108r.",
+          "label": "f107v-108r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f107v-108r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f107v-108r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3108,19 +3108,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f107v-108r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f107v-108r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f108v-109r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f108v-109r.json",
           "@type": "sc:Canvas",
-          "label": "f108v-109r.",
+          "label": "f108v-109r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f108v-109r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f108v-109r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3135,19 +3135,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f108v-109r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f108v-109r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f109v-110r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f109v-110r.json",
           "@type": "sc:Canvas",
-          "label": "f109v-110r.",
+          "label": "f109v-110r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f109v-110r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f109v-110r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3162,19 +3162,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f109v-110r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f109v-110r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f110v-111r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f110v-111r.json",
           "@type": "sc:Canvas",
-          "label": "f110v-111r.",
+          "label": "f110v-111r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f110v-111r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f110v-111r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3189,19 +3189,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f110v-111r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f110v-111r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f111v-112r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f111v-112r.json",
           "@type": "sc:Canvas",
-          "label": "f111v-112r.",
+          "label": "f111v-112r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f111v-112r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f111v-112r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3216,19 +3216,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f111v-112r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f111v-112r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f112v-113r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f112v-113r.json",
           "@type": "sc:Canvas",
-          "label": "f112v-113r.",
+          "label": "f112v-113r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f112v-113r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f112v-113r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3243,19 +3243,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f112v-113r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f112v-113r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f113v-114r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f113v-114r.json",
           "@type": "sc:Canvas",
-          "label": "f113v-114r.",
+          "label": "f113v-114r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f113v-114r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f113v-114r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3270,19 +3270,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f113v-114r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f113v-114r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f114v-115r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f114v-115r.json",
           "@type": "sc:Canvas",
-          "label": "f114v-115r.",
+          "label": "f114v-115r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f114v-115r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f114v-115r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3297,19 +3297,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f114v-115r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f114v-115r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f115v-116r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f115v-116r.json",
           "@type": "sc:Canvas",
-          "label": "f115v-116r.",
+          "label": "f115v-116r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f115v-116r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f115v-116r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3324,19 +3324,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f115v-116r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f115v-116r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f116v-117r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f116v-117r.json",
           "@type": "sc:Canvas",
-          "label": "f116v-117r.",
+          "label": "f116v-117r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f116v-117r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f116v-117r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3351,19 +3351,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f116v-117r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f116v-117r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f117v-118r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f117v-118r.json",
           "@type": "sc:Canvas",
-          "label": "f117v-118r.",
+          "label": "f117v-118r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f117v-118r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f117v-118r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3378,19 +3378,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f117v-118r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f117v-118r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f118v-119r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f118v-119r.json",
           "@type": "sc:Canvas",
-          "label": "f118v-119r.",
+          "label": "f118v-119r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f118v-119r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f118v-119r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3405,19 +3405,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f118v-119r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f118v-119r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f119v-120r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f119v-120r.json",
           "@type": "sc:Canvas",
-          "label": "f119v-120r.",
+          "label": "f119v-120r",
           "height": 2727,
           "width": 4029,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f119v-120r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f119v-120r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3432,19 +3432,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f119v-120r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f119v-120r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f120v-121r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f120v-121r.json",
           "@type": "sc:Canvas",
-          "label": "f120v-121r.",
+          "label": "f120v-121r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f120v-121r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f120v-121r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3459,19 +3459,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f120v-121r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f120v-121r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f121v-122r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f121v-122r.json",
           "@type": "sc:Canvas",
-          "label": "f121v-122r.",
+          "label": "f121v-122r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f121v-122r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f121v-122r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3486,19 +3486,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f121v-122r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f121v-122r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f122v-123r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f122v-123r.json",
           "@type": "sc:Canvas",
-          "label": "f122v-123r.",
+          "label": "f122v-123r",
           "height": 2727,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f122v-123r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f122v-123r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3513,19 +3513,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f122v-123r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f122v-123r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f123v-124r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f123v-124r.json",
           "@type": "sc:Canvas",
-          "label": "f123v-124r.",
+          "label": "f123v-124r",
           "height": 2744,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f123v-124r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f123v-124r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3540,19 +3540,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f123v-124r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f123v-124r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f124v-125r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f124v-125r.json",
           "@type": "sc:Canvas",
-          "label": "f124v-125r.",
+          "label": "f124v-125r",
           "height": 2743,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f124v-125r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f124v-125r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3567,19 +3567,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f124v-125r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f124v-125r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f125v-126r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f125v-126r.json",
           "@type": "sc:Canvas",
-          "label": "f125v-126r.",
+          "label": "f125v-126r",
           "height": 2743,
           "width": 4028,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f125v-126r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f125v-126r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3594,19 +3594,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f125v-126r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f125v-126r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f126v-127r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f126v-127r.json",
           "@type": "sc:Canvas",
-          "label": "f126v-127r.",
+          "label": "f126v-127r",
           "height": 2743,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f126v-127r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f126v-127r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3621,19 +3621,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f126v-127r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f126v-127r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f127v-128r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f127v-128r.json",
           "@type": "sc:Canvas",
-          "label": "f127v-128r.",
+          "label": "f127v-128r",
           "height": 2743,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f127v-128r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f127v-128r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3648,19 +3648,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f127v-128r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f127v-128r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f128v-129r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f128v-129r.json",
           "@type": "sc:Canvas",
-          "label": "f128v-129r.",
+          "label": "f128v-129r",
           "height": 2743,
           "width": 4009,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f128v-129r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f128v-129r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3675,19 +3675,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f128v-129r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f128v-129r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f129v-130r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f129v-130r.json",
           "@type": "sc:Canvas",
-          "label": "f129v-130r.",
+          "label": "f129v-130r",
           "height": 2743,
           "width": 4009,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f129v-130r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f129v-130r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3702,19 +3702,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f129v-130r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f129v-130r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f130v-131r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f130v-131r.json",
           "@type": "sc:Canvas",
-          "label": "f130v-131r.",
+          "label": "f130v-131r",
           "height": 2751,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f130v-131r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f130v-131r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3729,19 +3729,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f130v-131r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f130v-131r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f131v-132r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f131v-132r.json",
           "@type": "sc:Canvas",
-          "label": "f131v-132r.",
+          "label": "f131v-132r",
           "height": 2751,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f131v-132r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f131v-132r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3756,19 +3756,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f131v-132r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f131v-132r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f132v-133r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f132v-133r.json",
           "@type": "sc:Canvas",
-          "label": "f132v-133r.",
+          "label": "f132v-133r",
           "height": 2751,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f132v-133r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f132v-133r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3783,19 +3783,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f132v-133r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f132v-133r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f133v-134r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f133v-134r.json",
           "@type": "sc:Canvas",
-          "label": "f133v-134r.",
+          "label": "f133v-134r",
           "height": 2767,
           "width": 4008,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f133v-134r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f133v-134r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3810,19 +3810,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f133v-134r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f133v-134r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f134v-135r..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f134v-135r.json",
           "@type": "sc:Canvas",
-          "label": "f134v-135r.",
+          "label": "f134v-135r",
           "height": 2767,
           "width": 3984,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f134v-135r.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/f134v-135r-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3837,19 +3837,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f134v-135r..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/f134v-135r.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening05-(incl-f135v)..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening05-(incl-f135v).json",
           "@type": "sc:Canvas",
-          "label": "XXXX opening05-(incl-f135v).",
+          "label": "XXXX opening05-(incl-f135v)",
           "height": 2768,
           "width": 3984,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening05-(incl-f135v).-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening05-(incl-f135v)-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3864,19 +3864,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening05-(incl-f135v)..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening05-(incl-f135v).json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening06..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening06.json",
           "@type": "sc:Canvas",
-          "label": "XXXX opening06.",
+          "label": "XXXX opening06",
           "height": 2768,
           "width": 3984,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening06.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening06-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3891,19 +3891,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening06..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening06.json"
             }
           ]
         },
         {
-          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening07..json",
+          "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening07.json",
           "@type": "sc:Canvas",
-          "label": "XXXX opening07.",
+          "label": "XXXX opening07",
           "height": 2767,
           "width": 3985,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening07.-anno.json",
+              "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/annotation/XXXX opening07-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -3918,7 +3918,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening07..json"
+              "on": "https://digitalscholarship.nl/manifests/vgg_q_9/canvas/XXXX opening07.json"
             }
           ]
         }
