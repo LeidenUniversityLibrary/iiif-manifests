@@ -4,6 +4,7 @@
   "@type": "sc:Manifest", 
   "label": "Or. 12885", 
   "attribution": "Provided by Leiden University",
+  "description": "Leiden University Library possesses 104 Arabic documents written on papyrus and paper. They bear the inventory numbers Or. 8264 and Or. 12885. The majority of these documents date from the A.H. 3rd/A.D. 9th century; a papyrus with Koranic text has been dated to the 1st/7th century and some paper documents may date from as late as the 7th/13th century. These documents cover a wide range of subjects, including private life, administration, commerce, law, religion and scholarship.\n\nThe collection of Arabic papyri and paper documents with the inventory number Or. 12885 was acquired by Leiden University Library in 1973 from the Leiden private dealer A.A. Fatatri.\n\nThis digital collection makes images of these documents available online together with preliminary transcriptions and metadata based on an unpublished catalogue by Petra M. Sijpesteijn, which has been enhanced in 2015-2017 by Jelle Bruning, Yasmin Ismail, Nasreen Sahebali, and Vincent Sterel.",
   "sequences": [
     {
       "@type": "sc:Sequence", 
