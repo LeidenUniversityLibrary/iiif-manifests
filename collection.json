@@ -27,6 +27,16 @@
       "@id": "https://digitalscholarship.nl/manifests/NKP/0001-manifest.json",
       "@type": "sc:Manifest",
       "label": "NKP 0001"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/BOH_C_224/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "BOH C 224"
+    },
+    {
+      "@id": "https://digitalscholarship.nl/manifests/vgg_q_9/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "VGG Q 9"
     }
   ]
 }
