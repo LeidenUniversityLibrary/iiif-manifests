@@ -11258,17 +11258,22 @@
 				{
 					"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r4",
 					"@type": "sc:Range",
-					"label": "Tekst met cirkeldiagrammen"
+					"label": "Natuurkunde van het geheelal"
+				},
+				{
+					"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r5",
+					"@type": "sc:Range",
+					"label": "Mystiek gedicht"
 				},
 				{
 					"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r6",
 					"@type": "sc:Range",
-					"label": "Tekst met vierkante figuren"
+					"label": "Sint Christoffel"
 				},
 				{
 					"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7",
 					"@type": "sc:Range",
-					"label": "Tekst met figuren in marge"
+					"label": "Der naturen bloeme"
 				}
             ]
         },
@@ -11305,7 +11310,7 @@
         {
             "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r4",
             "@type": "sc:Range",
-            "label": "Tekst met cirkeldiagrammen",
+            "label": "Natuurkunde van het geheelal",
             "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f007v-008ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f007v-008rb.json",
@@ -11336,27 +11341,128 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f020v-021ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f020v-021rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f021v-022ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f021v-022rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f021v-022rb.json"]
+        },
+		{
+			"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r5",
+			"@type": "sc:Range",
+			"label": "Mystiek gedicht",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f022v-023ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f022v-023rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f023v-024ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f023v-024rb.json"]
+
+		},
+		{
+			"@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r6",
+			"@type": "sc:Range",
+			"label": "Sint Christoffel",
+            "canvases": [
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026ra.json"]
+
+		},
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7",
+            "@type": "sc:Range",
+            "label": "Der naturen bloeme",
+            "ranges": [
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-0",
+                "@type": "sc:Range",
+                "label": "Prologue"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-1",
+                "@type": "sc:Range",
+                "label": "Peoples"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-2",
+                "@type": "sc:Range",
+                "label": "Quadrupeds"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-3",
+                "@type": "sc:Range",
+                "label": "Birds"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-4",
+                "@type": "sc:Range",
+                "label": "Sea monsters"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-5",
+                "@type": "sc:Range",
+                "label": "Fishes"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-6",
+                "@type": "sc:Range",
+                "label": "Serpents"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-7",
+                "@type": "sc:Range",
+                "label": "Worms, insects"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-8",
+                "@type": "sc:Range",
+                "label": "Trees"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-9",
+                "@type": "sc:Range",
+                "label": "Spices"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-10",
+                "@type": "sc:Range",
+                "label": "Herbs"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-11",
+                "@type": "sc:Range",
+                "label": "Fountains"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-12",
+                "@type": "sc:Range",
+                "label": "Gemstones"
+            },
+            {
+                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-13",
+                "@type": "sc:Range",
+                "label": "Metals"
+            }]
         },
         {
-            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r6",
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-0",
             "@type": "sc:Range",
-            "label": "Tekst met vierkante figuren",
+            "label": "Prologue",
+            "canvases": ["https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-1",
+            "@type": "sc:Range",
+            "label": "Peoples",
             "canvases": [
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f026v-027ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f026v-027rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f027v-028ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f027v-028rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f028v-029ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f028v-029rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030ra.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-2",
+            "@type": "sc:Range",
+            "label": "Quadrupeds",
+            "canvases": [
+            "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f030v-031ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f030v-031rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f031v-032ra.json",
@@ -11411,12 +11517,21 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f055v-056rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f056v-057ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f056v-057rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f057v-058ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f057v-058ra.json"
+  ]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-3",
+            "@type": "sc:Range",
+            "label": "Birds",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f057v-058rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f058v-059ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f058v-059rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f059v-060ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f059v-060rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f061v-062ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f061v-062rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f062v-063ra.json",
@@ -11459,8 +11574,14 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f080v-081rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f081v-082ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f081v-082rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-4",
+            "@type": "sc:Range",
+            "label": "Sea monsters",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f083v-084ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f083v-084rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f084v-085ra.json",
@@ -11477,7 +11598,13 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f089v-090rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f090v-091ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f090v-091rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f091v-092ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f091v-092ra.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-5",
+            "@type": "sc:Range",
+            "label": "Fishes",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f091v-092rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f092v-093ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f092v-093rb.json",
@@ -11494,7 +11621,13 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f097v-098ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f097v-098rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f098v-099ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f098v-099rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f098v-099rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-6",
+            "@type": "sc:Range",
+            "label": "Serpents",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f099v-100ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f099v-100rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f100v-101ra.json",
@@ -11503,12 +11636,16 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f101v-102rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f102v-103ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f102v-103rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f103v-104ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f103v-104rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f104v-105ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f104v-105rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f104v-105rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-7",
+            "@type": "sc:Range",
+            "label": "Worms, insects",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f105v-106ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f105v-106rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f106v-107ra.json",
@@ -11523,14 +11660,14 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f110v-111rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f111v-112ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f111v-112rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113rb.json"]
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113ra.json"]
         },
         {
-            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7",
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-8",
             "@type": "sc:Range",
-            "label": "Tekst met figuren in marge",
+            "label": "Trees",
             "canvases": [
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f113v-114ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f113v-114rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f114v-115ra.json",
@@ -11542,7 +11679,13 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f117v-118ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f117v-118rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f118v-119ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f118v-119rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f118v-119rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-9",
+            "@type": "sc:Range",
+            "label": "Spices",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f119v-120ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f119v-120rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f120v-121ra.json",
@@ -11551,7 +11694,13 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f121v-122rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f122v-123ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f122v-123rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f123v-124ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f123v-124ra.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-10",
+            "@type": "sc:Range",
+            "label": "Herbs",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f123v-124rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f124v-125ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f124v-125rb.json",
@@ -11560,10 +11709,22 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f126v-127ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f126v-127rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f127v-128ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f127v-128rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f127v-128rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-11",
+            "@type": "sc:Range",
+            "label": "Fountains",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f128v-129ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f128v-129rb.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f129v-130ra.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f129v-130ra.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-12",
+            "@type": "sc:Range",
+            "label": "Gemstones",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f129v-130rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f130v-131ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f130v-131rb.json",
@@ -11582,7 +11743,13 @@
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f137v-138ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f137v-138rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f138v-139ra.json",
-  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f138v-139rb.json",
+  "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f138v-139rb.json"]
+        },
+        {
+            "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/range/r7-13",
+            "@type": "sc:Range",
+            "label": "Metals",
+            "canvases": [
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f139v-140ra.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f139v-140rb.json",
   "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f140v-141ra.json",
