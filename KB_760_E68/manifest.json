@@ -1,0 +1,2362 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "KB 760 E68",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 01.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 01",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 01-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 01.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 02.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 02",
+          "height": 2684,
+          "width": 2017,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 02-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2684,
+                "width": 2017,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 02.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 03.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 03",
+          "height": 2541,
+          "width": 1909,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 03-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2541,
+                "width": 1909,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 03.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 04.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 04",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 04-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 04.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 05.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 05",
+          "height": 2596,
+          "width": 1951,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 05-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2596,
+                "width": 1951,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 05.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 06.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 06",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 06-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 06.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 07.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 07",
+          "height": 2618,
+          "width": 1967,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 07-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2618,
+                "width": 1967,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 07.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 08.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 08",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 08-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 08.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 09.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 09",
+          "height": 2596,
+          "width": 1951,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 09-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2596,
+                "width": 1951,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 09.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 10.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 10",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 10-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 10.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 11.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 11",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 11-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 11.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 12.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 12",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 12-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 12.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 13.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 13",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 13-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 13.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 14.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 14",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 14-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 14.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 15.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 15",
+          "height": 2574,
+          "width": 1934,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 15-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2574,
+                "width": 1934,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 15.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 16.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 16",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 16-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 16.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 17.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 17",
+          "height": 2574,
+          "width": 1934,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 17-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2574,
+                "width": 1934,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 17.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 18.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 18",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 18-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 18.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 19.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 19",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 19-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 19.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 20.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 20",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 20-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 20.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 21.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 21",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 21-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 21.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 22.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 22",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 22-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 22.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 23.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 23",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 23-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 23.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 24.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 24",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 24-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 24.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 25.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 25",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 25-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 25.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 26.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 26",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 26-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 26.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 27.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 27",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 27-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 27.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 28.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 28",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 28-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 28.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 29.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 29",
+          "height": 2629,
+          "width": 1976,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 29-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2629,
+                "width": 1976,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 29.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 30.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 30",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 30-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 30.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 31.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 31",
+          "height": 2618,
+          "width": 1967,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 31-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2618,
+                "width": 1967,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 31.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 32.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 32",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 32-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 32.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 33.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 33",
+          "height": 2618,
+          "width": 1967,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 33-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2618,
+                "width": 1967,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 33.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 34.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 34",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 34-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 34.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 35.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 35",
+          "height": 2618,
+          "width": 1967,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 35-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2618,
+                "width": 1967,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 35.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 36.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 36",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 36-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 36.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 37.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 37",
+          "height": 2618,
+          "width": 1967,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 37-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2618,
+                "width": 1967,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 37.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 38.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 38",
+          "height": 2640,
+          "width": 1984,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 38-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2640,
+                "width": 1984,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 38.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 39.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 39",
+          "height": 2596,
+          "width": 1951,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 39-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2596,
+                "width": 1951,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 39.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 40.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 40",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 40-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 40.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 41.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 41",
+          "height": 2596,
+          "width": 1951,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 41-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2596,
+                "width": 1951,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 41.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 42.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 42",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 42-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 42.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 43.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 43",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 43-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 43.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 44.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 44",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 44-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 44.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 45.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 45",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 45-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 45.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 46.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 46",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 46-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 46.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 47.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 47",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 47-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 47.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 48.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 48",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 48-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 48.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 49.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 49",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 49-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 49.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 50.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 50",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 50-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 50.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 51.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 51",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 51-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 51.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 52.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 52",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 52-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 52.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 53.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 53",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 53-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 53.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 54.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 54",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 54-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 54.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 55.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 55",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 55-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 55.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 56.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 56",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 56-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 56.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 57.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 57",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 57-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 57.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 58.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 58",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 58-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 58.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 59.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 59",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 59-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 59.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 60.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 60",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 60-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 60.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 61.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 61",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 61-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 61.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 62.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 62",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 62-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 62.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 63.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 63",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 63-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 63.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 64.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 64",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 64-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 64.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 65.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 65",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 65-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 65.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 66.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 66",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 66-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 66.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 67.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 67",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 67-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 67.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 68.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 68",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 68-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 68.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 69.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 69",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 69-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 69.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 70.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 70",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 70-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 70.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 71.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 71",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 71-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 71.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 72.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 72",
+          "height": 2662,
+          "width": 2000,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 72-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2662,
+                "width": 2000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 72.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 73.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 73",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 73-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 73.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 74.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 74",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 74-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 74.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 75.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 75",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 75-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 75.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 76.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 76",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 76-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 76.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 77.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 77",
+          "height": 2585,
+          "width": 1943,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 77-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2585,
+                "width": 1943,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 77.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 78.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 78",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 78-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 78.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 79.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 79",
+          "height": 2574,
+          "width": 1934,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 79-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2574,
+                "width": 1934,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 79.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 80.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 80",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 80-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 80.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 81.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 81",
+          "height": 2574,
+          "width": 1934,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 81-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2574,
+                "width": 1934,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 81.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 82.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 82",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 82-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 82.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 83.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 83",
+          "height": 2574,
+          "width": 1934,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 83-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2574,
+                "width": 1934,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 83.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 84.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 84",
+          "height": 2684,
+          "width": 2017,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 84-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2684,
+                "width": 2017,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 84.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 85.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 85",
+          "height": 2541,
+          "width": 1909,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 85-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2541,
+                "width": 1909,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 85.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 86.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 86",
+          "height": 2673,
+          "width": 2009,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 86-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2673,
+                "width": 2009,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 86.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 87.json",
+          "@type": "sc:Canvas",
+          "label": "1650 Voorzigtige Dolheit Hof spel In five act Page 87",
+          "height": 2563,
+          "width": 1926,
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/annotation/1650 Voorzigtige Dolheit Hof spel In five act Page 87-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2563,
+                "width": 1926,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://digitalscholarship.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://digitalscholarship.nl/manifests/KB_760_E68/canvas/1650 Voorzigtige Dolheit Hof spel In five act Page 87.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
