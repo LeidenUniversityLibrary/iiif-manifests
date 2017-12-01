@@ -1,0 +1,1203 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/manifest.json", 
+  "@type": "sc:Manifest", 
+  "label": "LTK 2315", 
+  "description": "A Manifest",
+  "attribution": "Provided by Leiden University Libraries",
+  "sequences": [
+    {
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band1.json", 
+          "@type": "sc:Canvas", 
+          "label": "band1", 
+          "height": 2457, 
+          "width": 1506, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/band1-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band1.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2457, 
+                "width": 1506, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band1.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band1.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band2.json", 
+          "@type": "sc:Canvas", 
+          "label": "band2", 
+          "height": 2128, 
+          "width": 1456, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/band2-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band2.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2128, 
+                "width": 1456, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band2.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band2.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band3.json", 
+          "@type": "sc:Canvas", 
+          "label": "band3", 
+          "height": 2128, 
+          "width": 1456, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/band3-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band3.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2128, 
+                "width": 1456, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_band3.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/band3.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening01.json", 
+          "@type": "sc:Canvas", 
+          "label": "opening01", 
+          "height": 2169, 
+          "width": 2767, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/opening01-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_opening01.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2767, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_opening01.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening01.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening02-(incl-f001r).json", 
+          "@type": "sc:Canvas", 
+          "label": "opening02-(incl-f001r)", 
+          "height": 2169, 
+          "width": 2767, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/opening02-(incl-f001r)-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_opening02-(incl-f001r).ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2767, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_0000_opening02-(incl-f001r).ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening02-(incl-f001r).json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f001v-002r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f001v-002r", 
+          "height": 2169, 
+          "width": 2767, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f001v-002r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f001v-002r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2767, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f001v-002r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f001v-002r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f002v-003r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f002v-003r", 
+          "height": 2169, 
+          "width": 2767, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f002v-003r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f002v-003r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2767, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f002v-003r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f002v-003r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f003v-004r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f003v-004r", 
+          "height": 2169, 
+          "width": 2767, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f003v-004r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f003v-004r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2767, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f003v-004r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f003v-004r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f004v-005r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f004v-005r", 
+          "height": 2169, 
+          "width": 2787, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f004v-005r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f004v-005r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2787, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f004v-005r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f004v-005r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f005v-006r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f005v-006r", 
+          "height": 2169, 
+          "width": 2787, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f005v-006r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f005v-006r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2787, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f005v-006r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f005v-006r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f006v-007r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f006v-007r", 
+          "height": 2169, 
+          "width": 2787, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f006v-007r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f006v-007r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2787, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f006v-007r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f006v-007r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f007v-008r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f007v-008r", 
+          "height": 2169, 
+          "width": 2787, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f007v-008r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f007v-008r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2787, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f007v-008r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f007v-008r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f008v-009r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f008v-009r", 
+          "height": 2169, 
+          "width": 2787, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f008v-009r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f008v-009r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2787, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f008v-009r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f008v-009r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f009v-010r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f009v-010r", 
+          "height": 2169, 
+          "width": 2805, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f009v-010r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f009v-010r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2805, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f009v-010r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f009v-010r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f010v-011r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f010v-011r", 
+          "height": 2169, 
+          "width": 2805, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f010v-011r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f010v-011r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2805, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f010v-011r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f010v-011r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f011v-012r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f011v-012r", 
+          "height": 2169, 
+          "width": 2805, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f011v-012r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f011v-012r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2805, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f011v-012r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f011v-012r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f012v-013r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f012v-013r", 
+          "height": 2169, 
+          "width": 2805, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f012v-013r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f012v-013r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2805, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f012v-013r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f012v-013r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f013v-014r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f013v-014r", 
+          "height": 2169, 
+          "width": 2805, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f013v-014r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f013v-014r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2805, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f013v-014r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f013v-014r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f014v-015r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f014v-015r", 
+          "height": 2169, 
+          "width": 2806, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f014v-015r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f014v-015r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2806, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f014v-015r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f014v-015r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f015v-016r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f015v-016r", 
+          "height": 2169, 
+          "width": 2806, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f015v-016r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f015v-016r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2806, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f015v-016r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f015v-016r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f016v-017r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f016v-017r", 
+          "height": 2169, 
+          "width": 2806, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f016v-017r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f016v-017r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2806, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f016v-017r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f016v-017r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f017v-018r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f017v-018r", 
+          "height": 2169, 
+          "width": 2806, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f017v-018r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f017v-018r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2806, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f017v-018r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f017v-018r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f018v-019r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f018v-019r", 
+          "height": 2169, 
+          "width": 2806, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f018v-019r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f018v-019r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2806, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f018v-019r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f018v-019r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f019v-020r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f019v-020r", 
+          "height": 2169, 
+          "width": 2815, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f019v-020r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f019v-020r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2815, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f019v-020r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f019v-020r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f020v-021r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f020v-021r", 
+          "height": 2169, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f020v-021r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f020v-021r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2169, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f020v-021r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f020v-021r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f021v-022r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f021v-022r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f021v-022r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f021v-022r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f021v-022r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f021v-022r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f022v-023r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f022v-023r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f022v-023r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f022v-023r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f022v-023r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f022v-023r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f023v-024r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f023v-024r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f023v-024r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f023v-024r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f023v-024r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f023v-024r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f024v-025r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f024v-025r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f024v-025r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f024v-025r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f024v-025r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f024v-025r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f025v-026r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f025v-026r", 
+          "height": 2182, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f025v-026r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f025v-026r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2182, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f025v-026r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f025v-026r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f026v-027r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f026v-027r", 
+          "height": 2182, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f026v-027r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f026v-027r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2182, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f026v-027r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f026v-027r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f027v-028r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f027v-028r", 
+          "height": 2181, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f027v-028r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f027v-028r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f027v-028r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f027v-028r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f028v-029r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f028v-029r", 
+          "height": 2181, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f028v-029r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f028v-029r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f028v-029r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f028v-029r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f029v-030r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f029v-030r", 
+          "height": 2181, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f029v-030r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f029v-030r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f029v-030r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f029v-030r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f030v-031r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f030v-031r", 
+          "height": 2181, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f030v-031r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f030v-031r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f030v-031r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f030v-031r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f031v-032r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f031v-032r", 
+          "height": 2181, 
+          "width": 2834, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f031v-032r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f031v-032r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2834, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f031v-032r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f031v-032r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f032v-033r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f032v-033r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f032v-033r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f032v-033r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f032v-033r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f032v-033r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f033v-034r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f033v-034r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f033v-034r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f033v-034r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f033v-034r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f033v-034r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f034v-035r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f034v-035r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f034v-035r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f034v-035r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f034v-035r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f034v-035r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f035v-036r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f035v-036r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f035v-036r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f035v-036r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f035v-036r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f035v-036r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f036v-037r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f036v-037r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f036v-037r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f036v-037r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f036v-037r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f036v-037r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f037v-038r.json", 
+          "@type": "sc:Canvas", 
+          "label": "f037v-038r", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/f037v-038r-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f037v-038r.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_f037v-038r.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/f037v-038r.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening03.json", 
+          "@type": "sc:Canvas", 
+          "label": "opening03", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/opening03-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_XXXX_opening03.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_XXXX_opening03.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening03.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening04.json", 
+          "@type": "sc:Canvas", 
+          "label": "opening04", 
+          "height": 2181, 
+          "width": 2833, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/annotation/opening04-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_XXXX_opening04.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2181, 
+                "width": 2833, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/UBLWHS_LTK_2315_XXXX_opening04.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/canvas/opening04.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

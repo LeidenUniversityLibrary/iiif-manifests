@@ -19,6 +19,11 @@
       "label": "Or. 12885"
     },
     {
+      "@id": "https://digitalscholarship.nl/manifests/ublwhs_ltk_2315/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "LTK 2315"
+    },
+    {
       "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
       "@type": "sc:Manifest",
       "label": "Der naturen bloeme (default pagina's, pyramid TIFFs, different sequence)"
