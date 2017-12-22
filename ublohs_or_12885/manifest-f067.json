@@ -1,0 +1,75 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json", 
+  "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/manifest-f067.json", 
+  "@type": "sc:Manifest", 
+  "label": "Or. 12.885, f067", 
+  "metadata": [
+    {
+      "label": "Original production date", 
+      "value": "[8th-12th century]"
+    }
+  ], 
+  "description": "This is a papyrus fragment.", 
+  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  "sequences": [
+    {
+      "@type": "sc:Sequence", 
+      "canvases": [
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f067a.json", 
+          "@type": "sc:Canvas", 
+          "label": "f067a", 
+          "height": 2594, 
+          "width": 1890, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f067a-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/4653280_ublohs_or_12885_f067a.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2594, 
+                "width": 1890, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/4653280_ublohs_or_12885_f067a.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f067a.json"
+            }
+          ]
+        }, 
+        {
+          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f067b.json", 
+          "@type": "sc:Canvas", 
+          "label": "f067b", 
+          "height": 2594, 
+          "width": 1890, 
+          "images": [
+            {
+              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f067b-anno.json", 
+              "@type": "oa:Annotation", 
+              "motivation": "sc:painting", 
+              "resource": {
+                "@id": "https://digitalscholarship.nl/iiif/2/4653281_ublohs_or_12885_f067b.ptif/full/full/0/default.jpg", 
+                "@type": "dctypes:Image", 
+                "format": "image/jpeg", 
+                "height": 2594, 
+                "width": 1890, 
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json", 
+                  "@id": "https://digitalscholarship.nl/iiif/2/4653281_ublohs_or_12885_f067b.ptif", 
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              }, 
+              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f067b.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
