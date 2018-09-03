@@ -1,0 +1,61 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+  
+    "label":"P. Louvre 7852",
+    "metadata":[
+      {
+        "label":"Date",
+        "value":"8th century BCE"
+      }
+    ],
+    "description": "This is a papyrus with Abnormal Hieratic script",
+    "seeAlso": {
+      "@id": "http://hdl.handle.net/1887.1/item:133487",
+      "format": "text/html"
+    },
+  
+    "license": "http://example.org/license.html",
+    "attribution": "Hosted by Leiden University, with permission of Musée du Louvre, Paris, France. All rights reserved.",
+    
+    
+    "sequences": [
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/sequence/normal",
+          "@type": "sc:Sequence",
+          "label": "Default sequence",
+          "viewingDirection": "right-to-left",
+          "viewingHint": "paged",
+          "canvases": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1",
+              "@type": "sc:Canvas",
+              "label": "P. Louvre 7852 A",
+              "height":3500,
+              "width":2621,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/annotation/image1",
+                  "motivation": "sc:painting",
+                  "resource":{
+                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg/full/full/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg",
+                          "profile": "http://iiif.io/api/image/2/level2.json"
+                      },
+                      "height":3500,
+                      "width":2621
+                  },
+                  "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+  }
