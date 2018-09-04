@@ -11,8 +11,9 @@
       }
     ],
     "description": "This is a papyrus with Abnormal Hieratic script",
-    "seeAlso": {
-      "@id": "http://hdl.handle.net/1887.1/item:133487",
+    "related": {
+      "@id": "https://www.trismegistos.org/daht/detail.php?tm=46144",
+      "label": "P. Louvre 7852 in Trismegistos (TM 46144)",
       "format": "text/html"
     },
   
