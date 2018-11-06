@@ -38,8 +38,8 @@
               "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto",
               "@type": "sc:Canvas",
               "label": "P. Louvre E 7856 Recto",
-              "height":3500,
-              "width":2621,
+              "height":2548,
+              "width":2121,
               "images": [
                 {
                   "@type": "oa:Annotation",
@@ -54,8 +54,8 @@
                           "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7856_recto.jpg",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
-                      "height":3500,
-                      "width":2621
+                      "height":2548,
+                      "width":2121
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto"
                 }
@@ -65,8 +65,8 @@
               "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso",
               "@type": "sc:Canvas",
               "label": "P. Louvre E 7856 Verso",
-              "height":3500,
-              "width":2621,
+              "height":2534,
+              "width":2116,
               "images": [
                 {
                   "@type": "oa:Annotation",
@@ -81,8 +81,8 @@
                           "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7856_verso.jpg",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
-                      "height":3500,
-                      "width":2621
+                      "height":2534,
+                      "width":2116
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso"
                 }
