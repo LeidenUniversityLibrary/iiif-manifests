@@ -1,7 +1,7 @@
 {
     "@context" : "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852-annolist.json",
-    "@type": "oa:AnnotationList",
+    "@type": "sc:AnnotationList",
     "resources": [ 
         {
         "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540295830289",

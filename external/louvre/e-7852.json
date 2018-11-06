@@ -55,9 +55,9 @@
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
                 }
               ],
-              "otherResources": [
+              "otherContent": [
                 {
-                  "@type": "oa:AnnotationList",
+                  "@type": "sc:AnnotationList",
                   "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852-annolist.json"
                 }
               ]
