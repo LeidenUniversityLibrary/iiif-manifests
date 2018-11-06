@@ -54,6 +54,12 @@
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
                 }
+              ],
+              "otherResources": [
+                {
+                  "@type": "oa:AnnotationList",
+                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852-annolist.json"
+                }
               ]
             }
           ]

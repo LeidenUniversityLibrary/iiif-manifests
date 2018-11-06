@@ -1,0 +1,2155 @@
+{
+    "@context" : "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852-annolist.json",
+    "@type": "oa:AnnotationList",
+    "resources": [ 
+        {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539268348264",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-11T16:32:28",
+            "dcterms:modified" : [ "2018-10-11T16:35:36", "2018-10-12T16:23:13" ],
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Dd.svg\" alt=\"\" width=\"55\" height=\"34\" />\nType: VerbTransliteration: DdTranslation: Has said",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Dd.svg\" alt=\"\" width=\"55\" height=\"34\" /></p>\n<p>Type: Verb<br /><br />Transliteration: Dd<br /><br />Translation: Has said<br /><br /></p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2058,629,113,146"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2058.05947,629.29891h56.25252v0h56.25252v73.02561v73.02561h-56.25252h-56.25252v-73.02561z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_ddffe7ae-b5ee-4e98-9bc4-f6318a6ed6e5\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.86652\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539265909096",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-11T15:51:49",
+            "dcterms:modified" : "2018-10-12T16:23:42",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/img0.png\" alt=\"\" width=\"208\" height=\"31\" />Type: DateTransliteration: Hat-spXX ibdxx Smw sw 9Translation: Year XX, month XX of Shemu, day 9",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/img0.png\" alt=\"\" width=\"208\" height=\"31\" /><br /><br />Type: Date<br /><br />Transliteration: Hat-spXX ibdxx Smw sw 9<br /><br />Translation: Year XX, month XX of Shemu, day 9<br /><br /></p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1557,446,627,144"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1557.37896,590.06599h313.38822v0h313.38822v-71.96659v-71.96659h-313.38822h-313.38822v71.96659z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_66a181f2-eded-4ab8-bc7d-00da80b442e2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"23.45355\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355219196",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:40:19",
+            "dcterms:modified" : "2018-10-12T16:40:40",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4sA.svg\" alt=\"\" width=\"53\" height=\"37\" />Type: NounTransliteration: sATranslation: son",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4sA.svg\" alt=\"\" width=\"53\" height=\"37\" /><br /><br />Type: Noun<br /><br />Transliteration: sA<br /><br />Translation: son</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2105,949,118,124"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2105.24818,1072.75126h59.23989v0h59.23989v-62.03612v-62.03612h-59.23989h-59.23989v62.03612z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_553177bf-3b37-4545-9cd2-3153afa0adc8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.2221\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355289336",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:41:29",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Dd-Hr.svg\" alt=\"\" width=\"84\" height=\"27\" />Type: NameTransliteration: Dd-HrTranslation: Djedhor",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Dd-Hr.svg\" alt=\"\" width=\"84\" height=\"27\" /><br /><br />Type: Name<br /><br />Transliteration: Dd-Hr<br /><br />Translation: Djedhor</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1890,954,208,121"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1890.10317,1075.49196h103.77628v0h103.77628v-60.66577v-60.66577h-103.77628h-103.77628v60.66577z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c934470e-8b86-4e83-b51a-1426a349591f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355346726",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:42:26",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4pAyf.svg\" alt=\"\" width=\"109\" height=\"32\" />Type: Possesive pronounTransliteration: pAy=fTranslation: his",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4pAyf.svg\" alt=\"\" width=\"109\" height=\"32\" /><br /><br />Type: Possesive pronoun<br /><br />Transliteration: pAy=f<br /><br />Translation: his</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1676,937,215,131"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1679.69885,1063.78845c34.74781,0 77.68164,4.18244 110.99838,-1.37035c18.31844,-3.05307 38.67225,-2.89192 54.81402,-10.9628c5.82865,-2.91432 16.88459,0.76677 23.29596,-1.37035c4.95807,-1.65269 9.01874,-5.74695 12.33315,-6.85175c2.12787,-0.70929 4.17811,1.23623 5.4814,-1.37035c3.31656,-6.63312 5.60759,-27.02845 2.7407,-35.62911c-3.29839,-9.89516 -7.81415,-19.73936 -12.33315,-28.77736c-1.37325,-2.74651 -8.19838,-6.14878 -10.9628,-8.2221c-3.41273,-2.55955 -4.29528,-6.25869 -8.2221,-8.2221c-14.42555,-7.21277 -28.20615,-8.94527 -42.48086,-13.7035c-9.26442,-3.08814 -17.87721,-12.31749 -28.77736,-9.59245c-9.55155,2.38789 -14.79156,9.40426 -23.29596,15.07385c-6.47021,4.31347 -12.87379,6.75539 -19.18491,10.9628c-3.672,2.448 -7.42847,9.08718 -9.59245,12.33315c-2.98831,4.48246 -16.41762,17.73481 -17.81456,21.92561c-4.45492,13.36476 -6.6213,18.3845 -19.18491,24.66631c-4.2974,2.1487 -5.59263,9.70368 -9.59245,13.7035c-2.82162,2.82162 -7.18118,4.6052 -9.59245,8.2221c-6.6555,9.98325 0.39239,19.3811 8.2221,23.29596\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_10e30ef1-cca4-4351-b1f5-fbed46421eea\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355363384",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:42:43",
+            "dcterms:modified" : "2018-10-12T16:43:49",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Sr.svg\" alt=\"\" width=\"69\" height=\"48\" />Type: NounTransliteration: SrTranslation: child (male)",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Sr.svg\" alt=\"\" width=\"69\" height=\"48\" /><br /><br />Type: Noun<br /><br />Transliteration: Sr<br /><br />Translation: child (male)</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1482,931,244,160"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1491.96085,1036.38145c0,20.05296 22.47023,45.33049 42.48086,49.33261c8.47742,1.69548 16.25318,1.05808 24.66631,2.7407c5.26449,1.0529 12.23951,2.48536 17.81456,1.37035c9.10745,-1.82149 18.24141,-4.39562 26.03666,-9.59245c3.87848,-2.58565 7.6386,-8.41881 12.33315,-9.59245c9.45407,-2.36352 18.45232,-7.85581 27.40701,-12.33315c2.62587,-1.31294 8.94114,-0.71904 10.9628,-2.7407c1.73086,-1.73086 3.45087,-3.78096 6.85175,-5.4814c6.59405,-3.29703 9.10598,-13.21703 13.7035,-17.81456c16.22461,-16.22461 22.65047,-11.76703 31.51806,-38.36981c4.54149,-13.62447 26.78771,-43.71945 19.18491,-58.92507c-1.00146,-2.00293 -7.09872,-0.24697 -8.2221,-1.37035c-4.2555,-4.2555 -9.71361,-2.7407 -16.4442,-2.7407c-14.53825,0 -28.72428,0.1806 -42.48086,4.11105c-3.34124,0.95464 -7.53871,-0.57068 -10.9628,0c-7.99744,1.33291 -16.77156,3.50772 -24.66631,5.4814c-13.24111,3.31028 -28.97109,4.73669 -41.11051,9.59245c-7.51588,3.00635 -18.04877,-0.22723 -26.03666,1.37035c-17.34517,3.46903 -41.46911,11.50069 -52.07332,27.40701c-4.04728,6.07092 -10.02367,5.91262 -15.07385,10.9628c-8.53896,8.53896 -5.74811,16.04414 0,24.66631c0.89647,1.3447 0.52647,5.164 1.37035,6.85175c4.58684,9.17368 -4.63138,18.66458 6.85175,30.14771\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"smooth_path_0b308005-aec8-4119-b854-82b876d294fd\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"8.2221\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355487644",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:44:47",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4dmD.svg\" alt=\"\" width=\"48\" height=\"48\" />Type: NounTransliteration: dmDTranslation: total",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4dmD.svg\" alt=\"\" width=\"48\" height=\"48\" /><br /><br />Type: Noun<br /><br />Transliteration: dmD<br /><br />Translation: total<br /><br /></p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1354,968,95,98"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1354.29616,1065.8995h47.59191v0h47.59191v-49.01779v-49.01779h-47.59191h-47.59191v49.01779z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cad35d3f-0512-4094-9b6d-e815515929f3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355543572",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:45:43",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4s.svg\" alt=\"\" width=\"56\" height=\"59\" />Type: NounTransliteration: sTranslation: man",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4s.svg\" alt=\"\" width=\"56\" height=\"59\" /><br /><br />Type: Noun<br /><br />Transliteration: s<br /><br />Translation: man</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1276,928,77,136"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1276.18619,1064.52915h38.68464v0h38.68464v-68.2027v-68.2027h-38.68464h-38.68464v68.2027z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_59d81826-278d-4728-a58b-22b6d776cb9f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355579616",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:46:19",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4five.svg\" alt=\"\" width=\"51\" height=\"51\" />Type: NumberTransliteration: 5Translation: Five",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4five.svg\" alt=\"\" width=\"51\" height=\"51\" /><br /><br />Type: Number<br /><br />Transliteration: 5<br /><br />Translation: Five</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1132,943,136,145"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1132.2994,1087.82511h68.14717v0h68.14717v-72.31375v-72.31375h-68.14717h-68.14717v72.31375z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a1f3b449-0512-4f36-9783-173e2effa7eb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355668036",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:47:48",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4inn.svg\" alt=\"\" width=\"52\" height=\"47\" />Type: Independent pronounTransliteration: innTranslation: we",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4inn.svg\" alt=\"\" width=\"52\" height=\"47\" /><br /><br />Type: Independent pronoun<br /><br />Transliteration: inn<br /><br />Translation: we</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=905,964,197,136"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M904.82123,1100.15826h98.29488v0h98.29488v-68.2027v-68.2027h-98.29488h-98.29488v68.2027z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ac550e91-9c72-4092-a785-cd7e8badb7ff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355755307",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:49:15",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4i.svg\" alt=\"\" width=\"54\" height=\"44\" />Type: PrefixTransliteration: i.Translation: -",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4i.svg\" alt=\"\" width=\"54\" height=\"44\" /><br /><br />Type: Prefix<br /><br />Transliteration: i.<br /><br />Translation: -</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=768,928,130,166"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M800.70295,1087.65409c-3.14373,3.14373 0.89611,4.21824 3.77018,5.65527c3.33587,1.66793 23.10691,0 28.27636,0c10.13539,0 22.1419,-3.41079 30.16145,-9.42545c3.75088,-2.81316 8.67881,-7.91984 13.19564,-9.42545c5.74989,-1.91663 15.07074,-7.52538 18.85091,-13.19564c10.38098,-15.57147 -10.85748,-27.8233 -18.85091,-35.81673c-1.44707,-1.44707 -1.08212,-5.93442 -1.88509,-7.54036c-0.79482,-1.58965 -2.78432,-2.29139 -3.77018,-3.77018c-1.61913,-2.42869 -5.62889,-16.91305 -7.54036,-20.736c-2.02696,-4.05392 -3.75246,-9.39001 -5.65527,-13.19564c-1.35144,-2.70289 -9.40597,-7.50139 -11.31055,-11.31055c-2.41846,-4.83692 -10.59519,-28.86123 -16.96582,-32.04655c-4.07846,-2.03923 -8.68378,-1.06307 -13.19564,-3.77018c-6.20225,-3.72135 -16.9198,-6.29898 -24.50618,-3.77018c-7.03938,2.34646 -8.22034,8.90032 -11.31055,15.08073c-0.94555,1.8911 -5.46221,5.26915 -5.65527,5.65527c-0.56203,1.12405 0.56203,2.64613 0,3.77018c-0.19306,0.38613 -4.70972,3.76417 -5.65527,5.65527c-1.203,2.406 -0.67757,17.49577 0,18.85091c1.50305,3.0061 6.50047,2.53558 7.54036,5.65527c0.39741,1.19224 -0.56203,2.64613 0,3.77018c0.73831,1.47662 15.05734,7.49359 16.96582,11.31055c2.43968,4.87936 0,16.9549 0,22.62109c0,15.08073 0,30.16145 0,45.24218c0,3.90455 -1.64696,11.7868 0,15.08073c2.34297,4.68593 8.21097,6.32588 11.31055,9.42545\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_8ffd252d-c7a1-4fcd-adf1-9c7799733365\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355824429",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:50:24",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Dd.svg\" alt=\"\" width=\"46\" height=\"33\" />Type: VerbTransliteration: DdTranslation: say",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4Dd.svg\" alt=\"\" width=\"46\" height=\"33\" /><br /><br />Type: Verb<br /><br />Transliteration: Dd<br /><br />Translation: say</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=556,970,120,118"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M556.31038,1088.28736h59.90909v0h59.90909v-59v-59h-59.90909h-59.90909v59z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dd734f9f-a1b5-4c0d-9215-377628e8fda2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355797211",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:49:57",
+            "dcterms:modified" : "2018-10-12T16:50:56",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4ir.svg\" alt=\"\" width=\"58\" height=\"55\" />Type: verbTransliteration: irTranslation: do",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4ir.svg\" alt=\"\" width=\"58\" height=\"55\" /><br /><br />Type: verb<br /><br />Transliteration: ir<br /><br />Translation: do</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=678,967,112,132"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M677.81135,1098.22136h55.98182v0h55.98182v-65.76364v-65.76364h-55.98182h-55.98182v65.76364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_55be0a56-249e-4680-8af2-824465f0781a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539355894853",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T16:51:34",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4nk.svg\" alt=\"\" width=\"65\" height=\"28\" />Type:&nbsp;Transliteration: n=kTranslation: to you",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/4nk.svg\" alt=\"\" width=\"65\" height=\"28\" /><br /><br />Type:&nbsp;<br /><br />Transliteration: n=k<br /><br />Translation: to you</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=302,975,253,138"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M302.12856,1112.28736h126.45455v0h126.45455v-68.81818v-68.81818h-126.45455h-126.45455v68.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7cc19180-13d3-40f9-9707-c38f2905dd05\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357347624",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:15:47",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nmH.svg\" alt=\"\" width=\"56\" height=\"67\" />Type: NounTransliteration: nmHTranslation: free",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nmH.svg\" alt=\"\" width=\"56\" height=\"67\" /><br /><br />Type: Noun<br /><br />Transliteration: nmH<br /><br />Translation: free</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1716,1107,127,124"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1717.7724,1213.11296c4.55745,4.55745 12.26386,5.68617 13.15536,6.57768c8.79614,8.79614 22.74244,11.51094 36.17725,11.51094c4.08891,0 16.14881,2.2352 18.08863,-1.64442c3.60125,-7.2025 0.83563,-14.01784 3.28884,-21.37747c0.03698,-0.11094 11.28953,-22.68976 11.51094,-23.02189c5.79077,-8.68616 19.9538,-15.02054 26.31073,-21.37747c0.5535,-0.5535 10.78058,-2.55848 13.15536,-4.93326c2.22565,-2.22565 5.21535,-13.23336 3.28884,-16.4442c-8.05538,-13.42563 -31.79726,-9.08493 -46.04377,-13.15536c-6.39144,-1.82613 -14.90678,-6.73818 -18.08863,-11.51094c-0.30638,-0.45957 -1.12676,-6.03716 -3.28884,-6.57768c-11.01898,-2.75474 -19.99057,-3.28884 -32.88841,-3.28884c-3.45871,0 -12.62322,-1.62042 -14.79978,1.64442c-2.03965,3.05948 -2.72704,6.92489 -4.93326,9.86652c-0.73541,0.98054 -2.90125,0.48164 -3.28884,1.64442c-4.83849,14.51548 0,48.00514 0,65.77682c0,5.19553 -0.04886,28.00401 -3.28884,31.24399\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_dfea9cea-4794-4cf6-a7e6-7d0f0c186d70\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357412383",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:16:52",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5Hna.svg\" alt=\"\" width=\"64\" height=\"31\" />Type: PrepositionTransliteration: HnaTranslation: together with",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5Hna.svg\" alt=\"\" width=\"64\" height=\"31\" /><br /><br />Type: Preposition<br /><br />Transliteration: Hna<br /><br />Translation: together with</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1523,1121,170,139"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1523.3752,1260.44558h84.86544v0h84.86544v-69.71008v-69.71008h-84.86544h-84.86544v69.71008z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_67e1f246-7546-4e93-8d95-ff627e6f3db4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357484417",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:18:04",
+            "dcterms:modified" : "2018-10-12T17:18:12",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nA.svg\" alt=\"\" width=\"40\" height=\"48\" />Type: PronounTransliteration: nATranslation: the (plural)",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nA.svg\" alt=\"\" width=\"40\" height=\"48\" /><br /><br />Type: Pronoun<br /><br />Transliteration: nA<br /><br />Translation: the (plural)</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1429,1132,77,91"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1428.94578,1222.58362h38.72727v0h38.72727v-45.36364v-45.36364h-38.72727h-38.72727v45.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1945aa15-18ad-41f8-9f7a-70e993c01064\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357526127",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:18:46",
+            "dcterms:modified" : "2018-10-12T17:18:54",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5eight.svg\" alt=\"\" width=\"59\" height=\"66\" />Type: numberTransliteration: 8Translation: eight",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5eight.svg\" alt=\"\" width=\"59\" height=\"66\" /><br /><br />Type: number<br /><br />Transliteration: 8<br /><br />Translation: eight</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1258,1140,147,86"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1258.03669,1226.21999h73.72728v0h73.72728v-43.09091v-43.09091h-73.72728h-73.72728v43.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_7bd4952a-3848-4331-8c57-bc10ab3ade05\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357574809",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:19:34",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5sA-tA.svg\" alt=\"\" width=\"57\" height=\"68\" />Type: nounTransliteration: sA-tAtranslation: aroura&nbsp;",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5sA-tA.svg\" alt=\"\" width=\"57\" height=\"68\" /><br /><br />Type: noun<br /><br />Transliteration: sA-tA<br /><br />translation: aroura&nbsp;</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1091,1092,168,154"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1090.76396,1246.21999h84.18182v0h84.18182v-77.18182v-77.18182h-84.18182h-84.18182v77.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bd84284a-80b0-4dbf-ba1f-458eb33cd87b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357624865",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:20:24",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH2.svg\" alt=\"\" width=\"110\" height=\"38\" />Type: NounTransliteration: aHTranslation: field",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH2.svg\" alt=\"\" width=\"110\" height=\"38\" /><br /><br />Type: Noun<br /><br />Transliteration: aH<br /><br />Translation: field</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=705,1112,379,137"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M705.03787,1248.30596h189.50909v0h189.50909v-68.38182v-68.38182h-189.50909h-189.50909v68.38182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_08105b4d-5aab-470e-9324-3ff69c785d82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357671199",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:21:11",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nA2.svg\" alt=\"\" width=\"41\" height=\"49\" />Type: pronounTransliteration: nATranslation: the (plural_",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5nA2.svg\" alt=\"\" width=\"41\" height=\"49\" /><br /><br />Type: pronoun<br /><br />Transliteration: nA<br /><br />Translation: the (plural_</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=616,1152,53,71"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M616.01969,1223.43323h26.52727v0h26.52727v-35.65455v-35.65455h-26.52727h-26.52727v35.65455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce7a7d4f-5a87-442b-9b25-3736a35a0809\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357720171",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:22:00",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH3.svg\" alt=\"\" width=\"106\" height=\"28\" />Type: NounTransliteration: aHTranslation: field",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH3.svg\" alt=\"\" width=\"106\" height=\"28\" /><br /><br />Type: Noun<br /><br />Transliteration: aH<br /><br />Translation: field</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=314,1127,285,126"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M313.61969,1253.54232h142.38182v0h142.38182v-63.14545v-63.14545h-142.38182h-142.38182v63.14545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a15a334b-9c25-4bce-9d55-f30a7164db2f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539357300369",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:15:00",
+            "dcterms:modified" : "2018-10-12T17:22:15",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH.svg\" alt=\"\" width=\"76\" height=\"28\" />Type: NounTransliteration: aHTranslation: field",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/5aH.svg\" alt=\"\" width=\"76\" height=\"28\" /><br /><br />Type: Noun<br /><br />Transliteration: aH<br /><br />Translation: field</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1819,1116,410,135"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1819.37089,1251.46119h204.90814v0h204.90814v-67.68452v-67.68452h-204.90814h-204.90814v67.68452z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_5cf2d5f4-e9b2-4b2f-ae2f-f4c570287024\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539358832037",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:40:32",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6mndimdt.svg\" alt=\"\" width=\"192\" height=\"25\" />Type: -Transliteration: mn-di-md.tTranslation:",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6mndimdt.svg\" alt=\"\" width=\"192\" height=\"25\" /><br /><br />Type: -<br /><br />Transliteration: mn-di-md.t<br /><br />Translation:</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2014,1280,488,140"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2013.74802,1420.27504h243.95326v0h243.95326v-70.03896v-70.03896h-243.95326h-243.95326v70.03896z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d48e051-fa1b-4063-a218-872ad003ab7d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539358884355",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:41:24",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6nb-r.svg\" alt=\"\" width=\"55\" height=\"55\" />Type:&nbsp;Transliteration: nb rTranslation:",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6nb-r.svg\" alt=\"\" width=\"55\" height=\"55\" /><br /><br />Type:&nbsp;<br /><br />Transliteration: nb r<br /><br />Translation:</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1864,1252,120,160"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1864.23135,1411.90763h60.0012v0h60.0012v-79.88874v-79.88874h-60.0012h-60.0012v79.88874z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7e211a3f-f90f-4cca-98bd-782e5e1f62d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539358941236",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:42:21",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6iwdv.svg\" alt=\"\" width=\"98\" height=\"27\" />Type: NounTransliteration: iwd.vTranslation: between",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6iwdv.svg\" alt=\"\" width=\"98\" height=\"27\" /><br /><br />Type: Noun<br /><br />Transliteration: iwd.v<br /><br />Translation: between</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1348,1267,512,158"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1348.19688,1425.0074h255.88517v0h255.88517v-79.1655v-79.1655h-255.88517h-255.88517v79.1655z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_be8cb7bd-2eb4-460f-8175-4378b483fbab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359011593",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:43:31",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6Ddw.svg\" alt=\"\" width=\"92\" height=\"59\" />Type: VerbTransliteration: Dd=wTranslation: (we) saying",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6Ddw.svg\" alt=\"\" width=\"92\" height=\"59\" /><br /><br />Type: Verb<br /><br />Transliteration: Dd=w<br /><br />Translation: (we) saying</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=766,1286,273,123"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M765.79796,1408.5632h136.66469v0h136.66469v-61.35094v-61.35094h-136.66469h-136.66469v61.35094z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_23aa35ec-23a9-42d5-9600-2452aa2b3ee7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359072634",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:44:32",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6anx.svg\" alt=\"\" width=\"62\" height=\"37\" />Type: VerbTransliteration: anxTranslation: to live",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6anx.svg\" alt=\"\" width=\"62\" height=\"37\" /><br /><br />Type: Verb<br /><br />Transliteration: anx<br /><br />Translation: to live</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=679,1284,79,124"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M679.46588,1408.5632h39.36981v0h39.36981v-62.03612v-62.03612h-39.36981h-39.36981v62.03612z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5f4a655c-795a-459c-b9bf-3d32b2cb20e5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359109680",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:45:09",
+            "dcterms:modified" : "2018-10-12T17:45:25",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6Imn.svg\" alt=\"\" width=\"92\" height=\"33\" />Type: NounTransliteration: ImnTranslation: Amun",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6Imn.svg\" alt=\"\" width=\"92\" height=\"33\" /><br /><br />Type: Noun<br /><br />Transliteration: Imn<br /><br />Translation: Amun</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=487,1282,177,182"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M486.92023,1463.23975h88.72727v0h88.72727v-90.81818v-90.81818h-88.72727h-88.72727v90.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_6ddcbe5b-ebc9-4a44-bb4e-368236c7a7d8\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359167340",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:46:07",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6anx2.svg\" alt=\"\" width=\"81\" height=\"27\" />Type: verbTransliteration: anxTranslation: to live",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/6anx2.svg\" alt=\"\" width=\"81\" height=\"27\" /><br /><br />Type: verb<br /><br />Transliteration: anx<br /><br />Translation: to live</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=326,1292,154,158"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M326.01114,1449.60338h76.90909v0h76.90909v-79v-79h-76.90909h-76.90909v79z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9cc27783-2b2c-4322-9b08-a0663af10c06\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359337631",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:48:57",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7bniwrx.svg\" alt=\"\" width=\"153\" height=\"25\" />Type: LacunaTransliteration: bn iw=n rxTranslation: not will we be able to",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7bniwrx.svg\" alt=\"\" width=\"153\" height=\"25\" /><br /><br />Type: Lacuna<br /><br />Transliteration: bn iw=n rx<br /><br />Translation: not will we be able to</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1962,1437,482,179"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1961.63151,1615.65632h240.78356v0h240.78356v-89.48436v-89.48436h-240.78356h-240.78356v89.48436z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ac7c7e35-1748-4646-9676-b8569d0400e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359440374",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:50:40",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7sTAv.svg\" alt=\"\" width=\"156\" height=\"97\" />Type: NounTransliteration: sTA.vTranslation: withdrawl",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7sTAv.svg\" alt=\"\" width=\"156\" height=\"97\" /><br /><br />Type: Noun<br /><br />Transliteration: sTA.v<br /><br />Translation: withdrawl</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1663,1430,289,177"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1663.03311,1606.60789h144.64393v0h144.64393v-88.35331v-88.35331h-144.64393h-144.64393v88.35331z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_31edc1f9-6ca6-4caf-ad49-838180bf86da\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359486126",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:51:26",
+            "dcterms:modified" : "2018-10-12T17:51:43",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7sX.svg\" alt=\"\" width=\"73\" height=\"33\" />Type: NounTransliteration: sXTranslation: (document of?) writing",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7sX.svg\" alt=\"\" width=\"73\" height=\"33\" /><br /><br />Type: Noun<br /><br />Transliteration: sX<br /><br />Translation: (document of?) writing</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1316,1414,345,247"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1315.79936,1660.8985h172.35476v0h172.35476v-123.416v-123.416h-172.35476h-172.35476v123.416z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_06c9c5c4-a7ba-456c-aa12-c92db467ec2a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.31055\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359537062",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:52:17",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7nb.svg\" alt=\"\" width=\"43\" height=\"43\" />Type: AdjectiveTransliteration: nbTranslation: any",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7nb.svg\" alt=\"\" width=\"43\" height=\"43\" /><br /><br />Type: Adjective<br /><br />Transliteration: nb<br /><br />Translation: any</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1221,1436,94,128"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1220.71341,1563.60627h46.81818v0h46.81818v-63.8v-63.8h-46.81818h-46.81818v63.8z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7cb9fbe7-cf24-4a64-83ff-b7f46b92d9af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359575542",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:52:55",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7nty.svg\" alt=\"\" width=\"81\" height=\"73\" />Type: PrepositionTransliteration: ntyTranslation: which is",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7nty.svg\" alt=\"\" width=\"81\" height=\"73\" /><br /><br />Type: Preposition<br /><br />Transliteration: nty<br /><br />Translation: which is</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1075,1450,138,128"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1075.40432,1578.00627h69.07273v0h69.07273v-63.8v-63.8h-69.07273h-69.07273v63.8z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f48ef66b-665c-4368-9f53-dfd2b9aed507\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359653589",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:54:13",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7Hry.svg\" alt=\"\" width=\"26\" height=\"18\" /><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7r.svg\" alt=\"\" width=\"18\" height=\"18\" />Type: Compound prepositionTransliteration: r-HryTranslation: above",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7Hry.svg\" alt=\"\" width=\"26\" height=\"18\" /><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7r.svg\" alt=\"\" width=\"18\" height=\"18\" /><br /><br />Type: Compound preposition<br /><br />Transliteration: r-Hry<br /><br />Translation: above</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=777,1490,272,144"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M777.16235,1633.70636h136.09818v0h136.09818v-72.04727v-72.04727h-136.09818h-136.09818v72.04727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_78ed9c19-724b-4396-8b6b-e9ca00eea6f3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359705211",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:55:05",
+            "dcterms:modified" : "2018-10-12T17:55:15",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7pA.svg\" alt=\"\" width=\"68\" height=\"30\" />Type: PronounTransliteration: pATranslation: the",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7pA.svg\" alt=\"\" width=\"68\" height=\"30\" /><br /><br />Type: Pronoun<br /><br />Transliteration: pA<br /><br />Translation: the</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=668,1511,100,90"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M668.18781,1600.71727h49.98909v0h49.98909v-45.09455v-45.09455h-49.98909h-49.98909v45.09455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_ed2d21ce-183b-4be8-985b-6442ea1995eb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"0.90909\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539359766343",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T17:56:06",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7mtr-sX.svg\" alt=\"\" width=\"122\" height=\"29\" />Type: NounTransliteration: mtr sXTranslation: witness scribe",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/7mtr-sX.svg\" alt=\"\" width=\"122\" height=\"29\" /><br /><br />Type: Noun<br /><br />Transliteration: mtr sX<br /><br />Translation: witness scribe</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=270,1410,545,330"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M357.95872,1658.27545c10.47273,0 20.94545,0 31.41818,0c1.04727,0 2.67346,-0.93671 3.14182,0c4.0761,8.15221 8.41312,16.82625 12.56727,25.13455c1.16341,2.32683 0,8.35933 0,10.99636c0,13.40814 -0.88096,33.67904 7.85455,42.41455c0.82794,0.82794 0.42276,2.91219 1.57091,3.14182c2.05387,0.41077 4.18909,0 6.28364,0c0.46458,0 12.65149,0.99113 14.13818,0c8.07425,-5.38283 7.36913,-17.88009 10.99636,-25.13455c3.42816,-6.85633 7.10803,-14.26797 9.42545,-21.99273c6.30547,-21.01825 -0.96483,-32.14548 14.13818,-50.26909c2.77129,-3.32555 25.24237,-1.57091 29.84727,-1.57091c6.23525,0 17.19225,2.72715 25.13455,4.71273c12.32008,3.08002 43.43351,0.70762 54.98182,-3.14182c9.88498,-3.29499 18.65175,-12.50089 28.27636,-15.70909c3.0217,-1.00723 6.77524,0.1959 9.42545,-1.57091c0.97424,-0.64949 0.46011,-2.77155 1.57091,-3.14182c11.01221,-3.67074 22.30062,-14.75398 28.27636,-26.70545c2.35024,-4.70048 0,-15.07739 0,-20.42182c0,-18.50743 -1.44477,-34.81228 6.28364,-50.26909c2.31862,-4.63724 8.43562,-3.67981 12.56727,-4.71273c3.73935,-0.93484 7.44233,-5.39513 10.99636,-6.28364c3.80888,-0.95222 8.79902,-0.31483 12.56727,-1.57091c1.40506,-0.46835 1.73675,-2.67346 3.14182,-3.14182c6.69409,-2.23136 14.42352,-3.05591 20.42182,-7.85455c1.73478,-1.38782 2.72567,-3.7192 4.71273,-4.71273c5.11555,-2.55778 10.64935,-1.45524 15.70909,-3.14182c11.23757,-3.74586 21.34617,-11.82812 32.98909,-15.70909c5.21581,-1.7386 9.98525,-2.80478 15.70909,-4.71273c2.62767,-0.87589 6.94877,1.23834 9.42545,0c6.61389,-3.30694 6.84613,-3.85295 14.13818,-6.28364c1.80367,-0.60122 2.27908,-4.98953 3.14182,-6.28364c5.97873,-8.96809 7.48762,-25.68493 1.57091,-34.56c-0.58092,-0.87138 0.74053,-2.40128 0,-3.14182c-7.47524,-7.47524 -24.92917,-15.47706 -36.13091,-10.99636c-6.87625,2.7505 -13.16581,9.66487 -20.42182,12.56727c-14.56473,5.82589 -30.09725,11.16301 -43.98545,20.42182c-6.22361,4.14907 -12.46622,12.49991 -17.28,15.70909c-1.7964,1.1976 -4.35256,0.60537 -6.28364,1.57091c-4.61652,2.30826 -8.36668,11.25243 -14.13818,14.13818c-1.73576,0.86788 -12.90211,2.52378 -17.28,4.71273c-16.3496,8.1748 -31.39001,17.78485 -47.12727,28.27636c-3.45702,2.30468 -3.42529,7.51989 -6.28364,9.42545c-0.87138,0.58092 -2.40128,-0.74053 -3.14182,0c-1.17089,1.17089 -0.71896,3.29282 -1.57091,4.71273c-5.31061,8.85102 -13.39453,21.60697 -25.13455,23.56364c-20.61965,3.43661 -48.04284,9.75313 -67.54909,0c-3.08988,-1.54494 -14.26402,-0.25168 -15.70909,-3.14182c-0.72503,-1.45007 -0.72503,-11.1172 0,-12.56727c0.6494,-1.2988 6.4457,-2.59947 7.85455,-4.71273c3.79809,-5.69713 9.14778,-25.41222 3.14182,-31.41818c-1.65588,-1.65588 -4.18909,-2.09455 -6.28364,-3.14182c-1.32471,-0.66235 -1.70497,-2.78261 -3.14182,-3.14182c-9.63782,-2.40945 -34.28256,-8.56314 -42.41455,-3.14182c-6.25324,4.16883 -15.99488,18.13738 -18.85091,26.70545c-0.60584,1.81752 0.84403,4.59557 0,6.28364c-2.5241,5.04821 -9.99494,5.3686 -14.13818,7.85455c-4.53664,2.72198 -7.52279,6.90321 -12.56727,9.42545c-11.11439,5.5572 -30.4374,1.57091 -42.41455,1.57091c-18.69539,0 -37.22127,4.98532 -54.98182,9.42545c-1.43685,0.35921 -1.73675,2.67346 -3.14182,3.14182c-7.15894,2.38631 -16.33408,5.33772 -21.99273,10.99636c-12.77881,12.77881 -9.42545,36.81016 -9.42545,54.98182c0,7.99997 -1.61219,18.00354 3.14182,25.13455c1.27695,1.91542 10.8622,10.02204 12.56727,10.99636c4.34109,2.48062 12.61874,1.10478 17.28,1.57091c15.77006,1.57701 31.17094,3.14182 47.12727,3.14182\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_724475cd-ce48-4ffb-8349-09bbe11aa3d3\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360005743",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:00:05",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8m-bAH.svg\" alt=\"\" width=\"85\" height=\"87\" />Type: LacunaTransliteration: m-bAHTranslation: in the presence of",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8m-bAH.svg\" alt=\"\" width=\"85\" height=\"87\" /><br /><br />Type: Lacuna<br /><br />Transliteration: m-bAH<br /><br />Translation: in the presence of</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2144,1679,285,84"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2143.65326,1763.09727h142.38182v0h142.38182v-42.2v-42.2h-142.38182h-142.38182v42.2z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5abfd77f-1ec9-4001-98a0-b11ae88b6e92\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360149193",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:02:29",
+            "dcterms:modified" : "2018-10-12T18:02:52",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8xnsw-iir-dis.svg\" alt=\"\" width=\"123\" height=\"20\" />Type: NameTransliteration: 2nsw-i.ir-di=sTranslation: Khonsuierdietes",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8xnsw-iir-dis.svg\" alt=\"\" width=\"123\" height=\"20\" /><br /><br />Type: Name<br /><br />Transliteration: 2nsw-i.ir-di=s<br /><br />Translation: Khonsuierdietes</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1670,1660,484,230"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1669.58781,1890.3409h241.96v0h241.96v-115.24727v-115.24727h-241.96h-241.96v115.24727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_fb217bff-24ab-4254-84b2-e92ffd12fe12\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.09091\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360214820",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:03:34",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8sA.svg\" alt=\"\" width=\"67\" height=\"55\" />Type: NounTransliteration: sATranslation: son",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8sA.svg\" alt=\"\" width=\"67\" height=\"55\" /><br /><br />Type: Noun<br /><br />Transliteration: sA<br /><br />Translation: son</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1612,1720,56,51"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1620.18485,1763.28411c5.12454,4.24899 12.35353,7.41307 19.61755,7.40929v0v0c7.26402,-0.00378 13.59221,-2.96372 19.61755,-7.40929c6.02535,-4.44556 8.36732,-11.21974 8.12586,-17.8876c-0.24147,-6.66786 -3.06638,-13.2294 -8.12586,-17.8876c-5.05948,-4.6582 -12.35353,-7.41307 -19.61755,-7.40929c-7.26402,0.00378 -14.49802,2.76621 -19.61755,7.40929c-5.11953,4.64308 -8.12461,11.16682 -8.12586,17.8876c-0.00125,6.72078 3.00132,13.63861 8.12586,17.8876z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_58609381-ea28-401f-93d0-7066f3700e78\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360277735",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:04:37",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8qn-Hr.svg\" alt=\"\" width=\"150\" height=\"26\" />Type: NameTransliteration: Qn-HrTranslation: Kenhor",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8qn-Hr.svg\" alt=\"\" width=\"150\" height=\"26\" /><br /><br />Type: Name<br /><br />Transliteration: Qn-Hr<br /><br />Translation: Kenhor</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1137,1677,491,155"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1137.05632,1832.41799h245.36364v0h245.36364v-77.54545v-77.54545h-245.36364h-245.36364v77.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f8b8c70f-2d6f-4ca3-a986-8e4cddb124f7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360343028",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:05:43",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8iwf.svg\" alt=\"\" width=\"82\" height=\"46\" />Type: -Transliteration: iw=fTranslation: (he) the",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8iwf.svg\" alt=\"\" width=\"82\" height=\"46\" /><br /><br />Type: -<br /><br />Transliteration: iw=f<br /><br />Translation: (he) the</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1003,1719,141,103"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1003.41271,1808.01794c0,-5.61381 5.42411,-11.92391 7.63636,-17.45455c6.13471,-15.33677 19.01144,-40.15533 36,-45.81818c9.95223,-3.31741 18.96058,1.32502 29.45455,-6.54545c16.83271,-12.62453 26.59118,-18.54545 48,-18.54545c1.72902,0 12.02275,-1.06816 13.09091,0c9.29961,9.29961 2.18182,24.3037 2.18182,34.90909c0,5.2455 0.64805,5.01168 4.36364,8.72727c1.90379,1.90379 -0.6059,18.06045 -2.18182,19.63636c-0.36296,0.36296 0.07338,4.14348 0,4.36364c-1.66093,4.98279 -3.0137,10.39103 -5.45455,15.27273c-3.93787,7.87573 -17.28842,14.51851 -24,18.54545c-3.70605,2.22363 -19.86785,0.73384 -22.90909,-1.09091c-1.32292,-0.79375 -1.85469,-2.665 -3.27273,-3.27273c-1.18788,-0.50909 -6.10909,0.38182 -7.63636,0c-6.23351,-1.55838 -13.13499,-4.37833 -19.63636,-6.54545c-6.903,-2.301 -16.04574,1.19688 -22.90909,-1.09091c-9.04761,-3.01587 -24.56192,-8.16535 -31.63636,-1.09091\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_12ad4bdb-21d8-455f-ad04-366fe9f25e29\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360384384",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:06:24",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8mtr.svg\" alt=\"\" width=\"144\" height=\"37\" />Type: NounTransliteration: mtrTranslation: witness",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8mtr.svg\" alt=\"\" width=\"144\" height=\"37\" /><br /><br />Type: Noun<br /><br />Transliteration: mtr<br /><br />Translation: witness</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=771,1642,373,269"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M982.68544,1801.47249c4.63725,-4.63725 12.29652,-4.19768 17.45455,-7.63636c0.95679,-0.63786 0.27779,-2.45961 1.09091,-3.27273c4.91801,-4.91801 13.71284,-9.03656 17.45455,-15.27273c9.70546,-16.17577 1.35319,-29.37853 17.45455,-41.45455c12.46128,-9.34596 28.60748,-14.81325 41.45455,-25.09091c7.43072,-5.94458 17.68818,-10.33758 25.09091,-15.27273c8.86392,-5.90928 21.15854,-15.8689 30.54545,-22.90909c2.71166,-2.03374 15.93504,-18.79037 8.72727,-22.90909c-1.92048,-1.09742 -4.39958,-0.55444 -6.54545,-1.09091c-17.85542,-4.46385 -31.97623,-6.71149 -50.18182,1.09091c-5.94405,2.54745 -11.53609,9.04077 -17.45455,12c-9.92847,4.96423 -17.66611,11.69057 -27.27273,17.45455c-7.11412,4.26847 -16.47837,5.55016 -22.90909,10.90909c-5.75668,4.79723 -10.54735,8.5464 -17.45455,12c-14.26246,7.13123 -32.52622,13.06219 -48,15.27273c-9.20691,1.31527 -18.21306,6.46236 -27.27273,8.72727c-16.28124,4.07031 -31.99244,6.07348 -49.09091,4.36364c-21.84613,-2.18461 -42.4726,-7.63636 -64.36364,-7.63636c-5.45423,0 -14.51426,-1.70737 -19.63636,0c-11.93832,3.97944 -9.65777,21.9626 -13.09091,30.54545c-1.90373,4.75933 -5.90364,10.13825 -6.54545,15.27273c-3.18685,25.49478 -0.95369,53.59177 17.45455,72c9.32453,9.32453 22.34939,12.25136 29.45455,22.90909c3.85932,5.78899 -2.71309,28.95164 0,37.09091c4.27172,12.81515 30.41295,13.09091 40.36364,13.09091c2.91275,0 8.55029,1.2679 10.90909,-1.09091c4.33659,-4.33659 13.74388,-22.57473 15.27273,-29.45455c2.09575,-9.43086 -1.75481,-21.29662 4.36364,-29.45455c10.24812,-13.66416 30.14812,-9.3221 44.72727,-14.18182c2.04554,-0.68185 6.91314,1.20942 8.72727,0c2.88982,-1.92655 5.86963,-5.49313 8.72727,-7.63636c0.98151,-0.73613 7.18643,-3.01384 7.63636,-4.36364c4.68566,-14.05697 10.71091,-16.85955 26.18182,-20.72727c4.34069,-1.08517 4.91541,-7.63636 9.81818,-7.63636\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_ae133259-2750-4992-abe8-f7a55574b766\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360526465",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:08:46",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8nbnty.svg\" alt=\"\" width=\"78\" height=\"37\" />Type: -Transliteration: nb ntyTranslation: everything which is",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8nbnty.svg\" alt=\"\" width=\"78\" height=\"37\" /><br /><br />Type: -<br /><br />Transliteration: nb nty<br /><br />Translation: everything which is</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=280,1738,195,125"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M280.3218,1862.74521h97.54545v0h97.54545v-62.27273v-62.27273h-97.54545h-97.54545v62.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_38a4f773-08fb-49e5-8911-3e435bfb96e2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360593485",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:09:53",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9m-bAH.svg\" alt=\"\" width=\"41\" height=\"42\" />Type: Compound prepositionTransliteration: m-bAHTranslation: in the presence of",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9m-bAH.svg\" alt=\"\" width=\"41\" height=\"42\" /><br /><br />Type: Compound preposition<br /><br />Transliteration: m-bAH<br /><br />Translation: in the presence of</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2083,2018,1,2"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2083.54521,2017.95896h-0.30909v0h-0.30909v1v1h0.30909h0.30909v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_70ff77e5-31ab-4aec-93e1-21ddf43629af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            }, {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2081,1905,197,245"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2080.92702,2150.17715h98.52727v0h98.52727v-122.70909v-122.70909h-98.52727h-98.52727v122.70909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_902e3391-b604-4987-be5f-69af217f26c2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360593485",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:09:53",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9m-bAH.svg\" alt=\"\" width=\"41\" height=\"42\" />Type: Compound prepositionTransliteration: m-bAHTranslation: in the presence of",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9m-bAH.svg\" alt=\"\" width=\"41\" height=\"42\" /><br /><br />Type: Compound preposition<br /><br />Transliteration: m-bAH<br /><br />Translation: in the presence of</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2083,2018,1,2"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2083.54521,2017.95896h-0.30909v0h-0.30909v1v1h0.30909h0.30909v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_70ff77e5-31ab-4aec-93e1-21ddf43629af\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            }, {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=2081,1905,197,245"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2080.92702,2150.17715h98.52727v0h98.52727v-122.70909v-122.70909h-98.52727h-98.52727v122.70909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_902e3391-b604-4987-be5f-69af217f26c2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360666840",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:11:06",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9xnsw-iir-dis.svg\" alt=\"\" width=\"154\" height=\"25\" />Type: NameTransliteration: 2nsw-i.ir-di=sTranslation: Khonsuierdies",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9xnsw-iir-dis.svg\" alt=\"\" width=\"154\" height=\"25\" /><br /><br />Type: Name<br /><br />Transliteration: 2nsw-i.ir-di=s<br /><br />Translation: Khonsuierdies</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1587,1962,519,177"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1586.83472,2139.39056h259.25745v0h259.25745v-88.54182v-88.54182h-259.25745h-259.25745v88.54182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_98e1c5f7-b98f-4453-8adc-6e0fefbc7995\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360705420",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:11:45",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9sA.svg\" alt=\"\" width=\"51\" height=\"42\" />Type: NounTransliteration: sATranslation: son",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9sA.svg\" alt=\"\" width=\"51\" height=\"42\" /><br /><br />Type: Noun<br /><br />Transliteration: sA<br /><br />Translation: son</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1509,2004,68,77"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1508.58669,2080.17462h33.98909v0h33.98909v-38.27273v-38.27273h-33.98909h-33.98909v38.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d59d8766-9a08-48e7-9f85-9036e4c83653\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360797607",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:13:17",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9pA-di-Imn-ip.svg\" alt=\"\" width=\"196\" height=\"23\" />Type: NameTransliteration: PA-di-Imn-ip",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9pA-di-Imn-ip.svg\" alt=\"\" width=\"196\" height=\"23\" /><br /><br />Type: Name<br /><br />Transliteration: PA-di-Imn-ip</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=849,1951,663,236"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M848.91373,2186.87076h331.26793v0h331.26793v-117.76073v-117.76073h-331.26793h-331.26793v117.76073z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4604ab44-b32b-42a9-b894-a80e397b7a5a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360848821",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:14:08",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9iwf.svg\" alt=\"\" width=\"100\" height=\"56\" />Type: -Transliteration: iw=fTranslation: (he) the",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9iwf.svg\" alt=\"\" width=\"100\" height=\"56\" /><br /><br />Type: -<br /><br />Transliteration: iw=f<br /><br />Translation: (he) the</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=654,2026,134,109"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M657.63224,2134.53399c19.64094,0 39.47484,0.75446 59.09091,0c6.99083,-0.26888 13.99049,-0.78039 20.90909,-1.81818c8.87471,-1.33121 17.69265,-3.14228 26.36364,-5.45455c23.08965,-6.15724 20,-49.98117 20,-68.18182c0,-7.71546 5.57221,-26.12832 2.72727,-31.81818c-1.24943,-2.49885 -5.59845,0.75444 -8.18182,1.81818c-9.62971,3.96517 -18.0695,8.35828 -26.36364,13.63636c-7.18012,4.56917 -14.63806,9.97629 -21.81818,14.54545c-23.24082,14.78962 -45.03962,31.40326 -64.54545,50.90909c-2.58045,2.58045 -6.90642,5.4512 -9.09091,8.18182c-0.88668,1.10835 -3.02645,15.76528 -2.72727,16.36364c0.56117,1.12233 3.74032,0.96107 5.45455,1.81818\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_3994c2c3-bd30-41dd-af6a-bebafdb49188\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360903948",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:15:03",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9mtr.svg\" alt=\"\" width=\"70\" height=\"18\" />Type: NounTransliteration: mtrTranslation: witness",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9mtr.svg\" alt=\"\" width=\"70\" height=\"18\" /><br /><br />Type: Noun<br /><br />Transliteration: mtr<br /><br />Translation: witness</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=430,1966,377,301"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M448.35951,2093.26126c-2.33429,11.72968 -4.66858,23.45936 -5.45455,36c-0.78597,12.54064 -0.02362,25.89225 0,40.36364c0.02362,14.47139 -0.6915,30.06255 6.54545,41.45455c7.23695,11.39199 22.42598,18.58481 29.45455,24c7.02857,5.41519 5.89668,9.05277 6.54545,17.45455c0.64877,8.40178 3.0782,21.56776 20.72727,9.81818c17.64907,-11.74958 50.51779,-48.41472 65.45455,-66.54545c14.93676,-18.13073 11.94156,-17.72706 13.09091,-17.45455c1.14935,0.27251 6.44326,0.41387 17.45455,-4.36364c11.01129,-4.77751 27.73996,-14.47388 33.81818,-18.54545c6.07822,-4.07158 1.50599,-2.51836 0,-5.45455c-1.50599,-2.93618 0.05425,-10.36177 5.45455,-18.54545c5.40029,-8.18368 14.64063,-17.12546 18.54545,-22.90909c3.90483,-5.78363 2.47414,-8.4091 7.63636,-12c5.16222,-3.5909 16.91735,-8.14724 37.09091,-21.81818c20.17356,-13.67094 48.76556,-36.45649 70.90909,-52.36364c22.14353,-15.90714 37.83858,-24.93588 27.27273,-37.09091c-10.56585,-12.15502 -47.39262,-27.43633 -81.81818,-13.09091c-34.42556,14.34543 -66.44992,58.31759 -80.72727,75.27273c-14.27735,16.95514 -10.80768,6.89327 -14.18182,8.72727c-3.37414,1.83401 -13.59207,15.56389 -25.09091,19.63636c-11.49884,4.07247 -24.27857,-1.51247 -33.81818,1.09091c-9.53961,2.60338 -15.83911,13.3951 -19.63636,18.54545c-3.79725,5.15036 -5.09227,4.65936 -18.54545,0c-13.45319,-4.65936 -39.06455,-13.48709 -56.72727,-16.36364c-17.66273,-2.87655 -27.37682,0.19809 -37.09091,3.27273c-9.71409,3.07464 -4.85705,5.90095 0,8.72727\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_0a704a10-fd97-4be1-ba9f-477ca802bb9b\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360950290",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:15:50",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9i.svg\" alt=\"\" width=\"46\" height=\"18\" />Type: ParticleTransliteration: iTranslation: -",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/9i.svg\" alt=\"\" width=\"46\" height=\"18\" /><br /><br />Type: Particle<br /><br />Transliteration: i<br /><br />Translation: -</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=247,2079,185,139"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M246.72315,2217.80672h92.63636v0h92.63636v-69.36364v-69.36364h-92.63636h-92.63636v69.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fd321598-c8b7-4d74-8648-49e94c49e4c8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539361000737",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:16:40",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10ibd.svg\" alt=\"\" width=\"67\" height=\"50\" />Type: DateTransliteration: ibd [...]Translation: Month [...]",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10ibd.svg\" alt=\"\" width=\"67\" height=\"50\" /><br /><br />Type: Date<br /><br />Transliteration: ibd [...]<br /><br />Translation: Month [...]</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1997,2147,130,135"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1997.24745,2282.88092h64.81818v0h64.81818v-67.72727v-67.72727h-64.81818h-64.81818v67.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1a3b6f23-5aea-4570-867b-b3c81617f09f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539361039210",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:17:19",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10Smw.svg\" alt=\"\" width=\"73\" height=\"47\" />Type: DateTransliteration: SmwTranslation: Shemu (season)",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10Smw.svg\" alt=\"\" width=\"73\" height=\"47\" /><br /><br />Type: Date<br /><br />Transliteration: Smw<br /><br />Translation: Shemu (season)</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1899,2149,99,92"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1899.06563,2240.33546h49.54545v0h49.54545v-45.90909v-45.90909h-49.54545h-49.54545v45.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_117af69f-4ece-4c02-9dbe-f99735a8f2b5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539361069216",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:17:49",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10nineteen.svg\" alt=\"\" width=\"75\" height=\"41\" />Type: DateTransliteration: 19Translation: (day) 19",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/10nineteen.svg\" alt=\"\" width=\"75\" height=\"41\" /><br /><br />Type: Date<br /><br />Transliteration: 19<br /><br />Translation: (day) 19</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1761,2164,142,120"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1760.52018,2283.97182h70.81818v0h70.81818v-60.09091v-60.09091h-70.81818h-70.81818v60.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f761361c-45c3-405e-9352-6a6fcb952c09\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360481599",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:08:01",
+            "dcterms:modified" : "2018-10-24T09:56:23",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8sX.svg\" alt=\"\" width=\"79\" height=\"43\" />Type: VerbTransliteration sXTranslation: written",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8sX.svg\" alt=\"\" width=\"79\" height=\"43\" /><br /><br />Type: Verb<br /><br />Transliteration sX<br /><br />Translation: written</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=485,1707,175,294"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M485.41271,2000.19976h87.72727v0h87.72727v-146.81818v-146.81818h-87.72727h-87.72727v146.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f35bc145-e61b-4e9b-96c6-cd94526810d2\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"9.42545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1539360436383",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-10-12T18:07:16",
+            "dcterms:modified" : "2018-10-24T10:01:58",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8i.svg\" alt=\"\" width=\"71\" height=\"58\" />Type: -Transliteration: <span class=\"transliteration\">i͗Translation: -",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/8i.svg\" alt=\"\" width=\"71\" height=\"58\" /><br /><br />Type: -<br /><br />Transliteration: <em><span class=\"transliteration\">i͗</span></em><br /><br />Translation: -</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=662,1720,93,90"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M662.13998,1809.29067h46.27273v0h46.27273v-44.81818v-44.81818h-46.27273h-46.27273v44.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a0a19965-9667-4761-a993-48935b712824\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1.57415\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519691964",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:54:51",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/P-louvre-7852-v1.svg\" alt=\"di-imn-pA-anx\" width=\"192\" height=\"26\" />Type: NameTransliteration: di-Imn-pA-anXTranslation: Diamunpaankh",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/P-louvre-7852-v1.svg\" alt=\"di-imn-pA-anx\" width=\"192\" height=\"26\" /><br /><br />Type: Name<br /><br />Transliteration: di-Imn-pA-anX<br /><br />Translation: Diamunpaankh</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1690,644,326,212"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1942.80462,731.50144l29.09091,-23.63636l40.90909,0.90909l3.63636,-35.45455l-42.72727,-25.45455l-40.90909,-0.90909l-62.72727,-2.72727l-38.18182,2.72727h-46.36364l-37.27273,6.36364l-47.27273,3.63636l-10.90909,33.63636l22.72727,32.72727h40.90909l13.63636,14.54545l2.72727,34.54545v26.36364l-2.72727,27.27273l-2.72727,20.90909l18.18182,9.09091l9.09091,-14.54545l7.27273,-18.18182l4.54545,-38.18182l-3.63636,-23.63636l-6.36364,-36.36364l29.09091,-4.54545l46.36364,5.45455l38.18182,2.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_96d4c059-77fb-4252-953f-cf5226accda2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519734778",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:55:34",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna.svg\" alt=\"2Hna\" width=\"53\" height=\"26\" />\nType: PrepositionTranslitartion: HnaTranslation: together with\n&nbsp;\n&nbsp;",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna.svg\" alt=\"2Hna\" width=\"53\" height=\"26\" /></p>\n<p>Type: Preposition<br /><br />Translitartion: Hna<br /><br />Translation: together with</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1447,659,186,126"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1458.25916,735.13781l33.63636,0.90909l30.90909,0.90909h23.63636h11.81818l-5.45455,25.45455l-3.63636,15.45455l17.27273,7.27273l19.09091,-25.45455l5.45455,-10l31.81818,6.36364l10.90909,-9.09091v-26.36364l-11.81818,-13.63636l-9.09091,-18.18182l-13.63636,-16.36364l-32.72727,-9.09091l-32.72727,-4.54545l-42.72727,3.63636l-16.36364,5.45455l-20,9.09091l-7.27273,10.90909l0.90909,15.45455l2.72727,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_196ee84e-6416-47d9-a958-4f47c0463681\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519788805",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:56:28",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Imnpayfit.svg\" alt=\"\" width=\"182\" height=\"29\" />Type: NameTransliteration: Imn-pAy=f-itTranslation: Amunpaiefit",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Imnpayfit.svg\" alt=\"\" width=\"182\" height=\"29\" /><br /><br />Type: Name<br /><br />Transliteration: Imn-pAy=f-it<br /><br />Translation: Amunpaiefit</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1036,648,415,221"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1398.25916,749.68326l21.81818,-9.09091l11.81818,-20.90909l10.90909,-20l8.18182,-27.27273l0.90909,-15.45455l-18.18182,3.63636l-24.54545,5.45455l-37.27273,-3.63636l-36.36364,6.36364l-10,-18.18182l-20,9.09091l-10.90909,17.27273l-30.90909,8.18182l-22.72727,-1.81818l-6.36364,-21.81818l-16.36364,-13.63636l-16.36364,17.27273l-13.63636,2.72727l-30,5.45455l-30,-9.09091l-18.18182,20l-2.72727,12.72727l21.81818,9.09091l19.09091,3.63636l8.18182,10l-31.81818,43.63636l-27.27273,33.63636l-27.27273,25.45455l-25.45455,32.72727l-8.18182,12.72727l17.27273,0.90909l22.72727,-22.72727l29.09091,-25.45455l26.36364,-29.09091l15.45455,-22.72727l20.90909,-20.90909l14.54545,-4.54545l24.54545,-0.90909l13.63636,0.90909l-12.72727,30.90909l19.09091,12.72727l24.54545,-12.72727l12.72727,-22.72727l20.90909,-0.90909l39.09091,3.63636l53.63636,1.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_2d0cb010-cc8a-44df-9d90-77f77042aff9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519829941",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:57:09",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna2.svg\" alt=\"\" width=\"58\" height=\"28\" />Type: PrepositionTransliteration: HnaTranslation: together with",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna2.svg\" alt=\"\" width=\"58\" height=\"28\" /><br /><br />Type: Preposition<br /><br />Transliteration: Hna<br /><br />Translation: together with</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=909,650,174,171"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1017.35007,816.0469l18.18182,4.54545l16.36364,-44.54545l25.45455,-23.63636l5.45455,-25.45455l-13.63636,-16.36364l-15.45455,5.45455l10,-59.09091l-27.27273,-7.27273l-24.54545,27.27273l-22.72727,-14.54545l-36.36364,4.54545l-26.36364,8.18182l-17.27273,17.27273v19.09091l21.81818,3.63636l-14.54545,15.45455l1.81818,21.81818l23.63636,-5.45455h26.36364l22.72727,-2.72727l12.72727,-5.45455l7.27273,10.90909l-2.72727,19.09091l1.81818,28.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_609fffd7-406d-4784-bcdd-2948931eb64a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519880755",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:58:00",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Pn-iwiww.svg\" alt=\"\" width=\"98\" height=\"28\" />Type: NameTransliteration: Pn-iwiw=wTranslation: Peniwiwu",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Pn-iwiww.svg\" alt=\"\" width=\"98\" height=\"28\" /><br /><br />Type: Name<br /><br />Transliteration: Pn-iwiw=w<br /><br />Translation: Peniwiwu</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=575,657,333,180"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M817.35007,750.59235l65.45455,-6.36364l23.63636,-16.36364l0.90909,-20l-36.36364,-3.63636l10,-23.63636l-14.54545,-6.36364l-15.45455,5.45455v-20.90909l-30.90909,-1.81818l-15.45455,14.54545l-35.45455,-5.45455h-38.18182l-14.54545,10.90909l-29.09091,2.72727l-35.45455,3.63636l-35.45455,-7.27273l-16.36364,8.18182l-10,30.90909l0.90909,39.09091l-4.54545,33.63636l-11.81818,47.27273l20,1.81818l20.90909,-33.63636l7.27273,-34.54545l37.27273,-0.90909l24.54545,7.27273l27.27273,-18.18182l25.45455,-5.45455l25.45455,3.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_a4b4b57b-c38e-4094-a54a-b34bdd886333\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519922816",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:58:42",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna3.svg\" alt=\"\" width=\"71\" height=\"21\" />Type: PrepositionTransliteration: HnaTranslation: together with",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/2Hna3.svg\" alt=\"\" width=\"71\" height=\"21\" /><br /><br />Type: Preposition<br /><br />Transliteration: Hna<br /><br />Translation: together with</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=286,653,291,159"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M490,812.41053h20l9.09091,-15.45455l20,-10.90909l26.36364,-7.27273l11.81818,-20l-8.18182,-26.36364l-20.90909,-7.27273l-10.90909,-6.36364v-56.36364l-15.45455,-9.09091l-33.63636,10.90909l-45.45455,6.36364l-45.45455,2.72727l-41.81818,0.90909l-34.54545,8.18182l-34.54545,-1.81818l6.36364,98.18182l89.09091,-10.90909l114.54545,-26.36364l-4.54545,40.90909l-8.18182,13.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_4932e7be-abcc-42d9-80c8-08e9fc086421\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541519963142",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T16:59:23",
+            "dcterms:modified" : "2018-11-06T17:00:32",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3wAH-mw-1.svg\" alt=\"\" width=\"196\" height=\"57\" />Type:&nbsp;Transliteration: wAH-mwTranslation: Choachyte",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3wAH-mw-1.svg\" alt=\"\" width=\"196\" height=\"57\" /><br /><br />Type:&nbsp;<br /><br /><br />Transliteration: wAH-mw<br /><br />Translation: Choachyte</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1790,777,345,162"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2030.09091,893.31962l101.81818,1.81818l2.72727,-20.90909l-24.54545,-16.36364l4.54545,-53.63636l-22.72727,-14.54545l-61.81818,20.90909l-16.36364,-33.63636l-29.09091,11.81818l-34.54545,20l-61.81818,-5.45455l-45.45455,-15.45455l-17.27273,16.36364l-2.72727,18.18182l23.63636,10l-56.36364,35.45454l16.36363,29.09091l47.27273,25.45455l-1.81818,16.36364l29.09091,-3.63636l15.45455,-34.54545l29.09091,2.72727l52.72727,-4.54545l-1.81818,23.63636l34.54545,3.63636l3.63636,-30.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_fa49824b-9300-44ed-adbe-fe27b101937c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541520014357",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T17:00:14",
+            "dcterms:modified" : "2018-11-06T17:01:43",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/r9pA.svg\" alt=\"\" width=\"41\" height=\"18\" />Type: pronounTransliteration: pATranslation the",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/r9pA.svg\" alt=\"\" width=\"41\" height=\"18\" /><br /><br />Type: pronoun<br /><br />Transliteration: pA<br /><br />Translation the</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1695,821,109,84"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1703.72764,902.42118l35.45455,1.81818l16.36364,-6.36364l42.72727,1.81818l5.45455,-21.81818l-14.54545,-12.72727l-19.09091,-10l-24.54545,8.18182l9.09091,-42.72727h-23.63636l-18.18182,10l-18.18182,17.27273l5.45455,33.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_300a06eb-8d37-46e6-8c6f-ca7156030ca0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.71787\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541520136982",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T17:02:17",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3imi-rmSa.svg\" alt=\"\" width=\"74\" height=\"43\" />Type: NounTransliteration: imi-r mSaTranslation: Overseer of the army",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3imi-rmSa.svg\" alt=\"\" width=\"74\" height=\"43\" /><br /><br />Type: Noun<br /><br />Transliteration: imi-r mSa<br /><br />Translation: Overseer of the army</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1511,772,185,185"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1593.95892,929.84047h38.18182l29.09091,-11.81818l27.27273,-19.09091l7.27273,-21.81818l-5.45455,-25.45455l-20,-12.72727l-25.45455,17.27273l-22.72727,2.72727l-10,-33.63636l-37.27273,4.54545l31.81818,-33.63636l-21.81818,-24.54545l-28.18182,27.27273l-33.63636,9.09091l6.36364,33.63636v28.18182l-9.09091,59.09091l-9.09091,20.90909l25.45455,6.36364l20,-30l10.90909,-15.45455h17.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_0edda207-2fcd-483c-b90f-26e1b3221800\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541520167595",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T17:02:47",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3sA.svg\" alt=\"\" width=\"50\" height=\"41\" />Type: NounTransliteration: sAtranslation: son",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3sA.svg\" alt=\"\" width=\"50\" height=\"41\" /><br /><br />Type: Noun<br /><br />Transliteration: sA<br /><br />translation: son</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=1450,847,77,80"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1466.68619,908.02229l20,18.18182l13.63636,0.90909l12.72727,-11.81818l14.54545,-17.27273l-1.81818,-16.36364l-15.45455,-1.81818l3.63636,-14.54545l-5.45455,-15.45455l-38.18182,-2.72727l-14.54545,15.45455l-5.45455,18.18182l13.63636,3.63636l-7.27273,18.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_425ec824-95c6-48e6-a4d5-5f98a3d28ae1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541520213910",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T17:03:33",
+            "dcterms:modified" : "2018-11-06T17:04:01",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3a-r-n-imn-1.svg\" alt=\"\" width=\"199\" height=\"34\" />Type: NameTransliteration: a-r-n-ImnTranslation: Arenamun",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3a-r-n-imn-1.svg\" alt=\"\" width=\"199\" height=\"34\" /><br /><br />Type: Name<br /><br />Transliteration: a-r-n-Imn<br /><br />Translation: Arenamun</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=919,803,531,121"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1330.32256,909.84047l28.18182,1.81818l16.36364,-14.54545l19.09091,-0.90909l17.27273,9.09091l26.36364,-4.54545l7.27273,-12.72727l0.90909,-18.18182l-35.45455,-3.63636l33.63636,-31.81818l5.45455,-20.90909l-20,-10l-25.45455,4.54545l-23.63636,9.09091l-26.36364,8.18182l-24.54545,10.90909l-16.36364,-11.81818l-28.18182,2.72727l-12.72727,17.27273l-7.27273,-31.81818l-20.90909,-8.18182l-45.45455,6.36364l-16.36364,20l-30.90909,1.81818l-27.27273,-4.54545l-20.90909,12.72727l-2.72727,15.45455l-14.54545,8.18182l-70.90909,6.36364l-60.90909,-36.36364l-35.45454,12.72727l11.81818,77.27273l93.63636,-18.18182l40.90909,-5.45455l35.45455,3.63636l17.27273,-4.54545l17.27273,9.09091l26.36364,-8.18182l27.27273,2.72727l20.90909,-4.54545l16.36364,9.09091l25.45455,5.45455l30.90909,0.90909l26.36364,-15.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null}\" id=\"rough_path_df57ecca-9c89-4516-8bd4-599699c42968\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        }, {
+            "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1541520276275",
+            "@type" : "oa:Annotation",
+            "dcterms:created" : "2018-11-06T17:04:36",
+            "resource" : [ {
+            "@type" : "dctypes:Text",
+            "http://dev.llgc.org.uk/sas/full_text" : "<img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3Hna-1.svg\" alt=\"\" width=\"46\" height=\"28\" />Type: PrepositionTransliteration: HnaTranslation: together with",
+            "format" : "text/html",
+            "chars" : "<p><img src=\"../abnormalhieratic/wp-content/uploads/2018/10/3Hna-1.svg\" alt=\"\" width=\"46\" height=\"28\" /><br /><br />Type: Preposition<br /><br />Transliteration: Hna<br /><br />Translation: together with</p>"
+            } ],
+            "on" : [ {
+            "@type" : "oa:SpecificResource",
+            "within" : {
+                "@id" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
+                "@type" : "sc:Manifest"
+            },
+            "selector" : {
+                "@type" : "oa:Choice",
+                "default" : {
+                "@type" : "oa:FragmentSelector",
+                "value" : "xywh=774,817,148,183"
+                },
+                "item" : {
+                "@type" : "oa:SvgSelector",
+                "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M879.41346,999.84047l25.45455,-10l9.09091,-38.18182l6.36364,-49.09091l-9.09091,-49.09091l10.90909,-32.72727l-17.27273,-3.63636l-35.45455,36.36364l-13.63636,9.09091l-14.54545,-28.18182l-28.18182,12.72727l-29.09091,12.72727l-10,20v11.81818l19.09091,2.72727l-12.72727,24.54545l66.36364,3.63636l34.54545,-10.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_5ee24248-93f6-42c8-98d6-720a6da96f4f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                }
+            },
+            "full" : "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1"
+            } ],
+            "motivation" : [ "sc:painting" ]
+        } 
+    ]
+}

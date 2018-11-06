@@ -59,6 +59,12 @@
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7851/canvas/recto"
                 }
+              ],
+              "otherResources": [
+                {
+                  "@type": "oa:AnnotationList",
+                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7851-recto-annolist.json"
+                }
               ]
             },
             {
