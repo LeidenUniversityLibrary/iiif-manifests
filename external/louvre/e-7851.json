@@ -7,7 +7,7 @@
     "metadata":[
       {
         "label":"Date",
-        "value":"8th century BCE"
+        "value":"7th century BCE"
       }
     ],
     "description": "This is a papyrus with Abnormal Hieratic script",
@@ -23,7 +23,7 @@
     }],
   
     "license": "http://example.org/license.html",
-    "attribution": "Hosted by Leiden University, with permission of Musée du Louvre, Paris, France. All rights reserved.",
+    "attribution": "Hosted by Leiden University. Images: © Musée du Louvre, Paris, France; all rights reserved.",
     
     
     "sequences": [
@@ -58,12 +58,6 @@
                       "width":2621
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7851/canvas/recto"
-                }
-              ],
-              "otherContent": [
-                {
-                  "@type": "sc:AnnotationList",
-                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7851-recto-annolist.json"
                 }
               ]
             },
