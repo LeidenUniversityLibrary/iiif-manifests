@@ -3,7 +3,7 @@
     "@type": "sc:Manifest",
     "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852.json",
   
-    "label":"P. Louvre 7852",
+    "label":"P. Louvre E 7852",
     "metadata":[
       {
         "label":"Date",
@@ -13,11 +13,11 @@
     "description": "This is a papyrus with Abnormal Hieratic script",
     "related": {
       "@id": "https://www.trismegistos.org/daht/detail.php?tm=46144",
-      "label": "P. Louvre 7852 in Trismegistos (TM 46144)",
+      "label": "P. Louvre E 7852 in Trismegistos (TM 46144)",
       "format": "text/html"
     },
   
-    "license": "http://example.org/license.html",
+    "license": "https://lab.library.universiteitleiden.nl/abnormalhieratic/index.php/content-and-code-licenses/",
     "attribution": "Hosted by Leiden University. Images: © Musée du Louvre, Paris, France; all rights reserved.",
     
     
@@ -32,7 +32,7 @@
             {
               "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7852/canvas/p1",
               "@type": "sc:Canvas",
-              "label": "P. Louvre 7852 A",
+              "label": "P. Louvre E 7852 A",
               "height":3500,
               "width":2621,
               "images": [
