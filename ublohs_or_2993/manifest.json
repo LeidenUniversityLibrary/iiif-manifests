@@ -3,7 +3,12 @@
   "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/manifest.json",
   "@type": "sc:Manifest",
   "label": "Or. 2993",
-  "description": "",
+  "related": {
+    "@id": "http://hdl.handle.net/1887.1/item:2039629",
+    "label": "This item in Leiden Digital Collections",
+    "format": "text/html"
+  },
+  "description": "Manāqib Śaikh al-Islām Ibn Taimiyya",
   "attribution": "Provided by Leiden University",
   "metadata": {
     "label": "Author",
