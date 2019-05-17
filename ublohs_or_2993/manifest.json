@@ -14,6 +14,7 @@
     "label": "Author",
     "value": "Ibn 'Abd al-Hadi (Ibn Qudama al-Maqdisi), Muhammad Ibn Ahmad (-1344)"
   },
+  "viewingDirection": "right-to-left",
   "sequences": [
     {
       "@type": "sc:Sequence",
