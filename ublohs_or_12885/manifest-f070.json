@@ -27,14 +27,14 @@
               "@type": "oa:Annotation", 
               "motivation": "sc:painting", 
               "resource": {
-                "@id": "https://digitalscholarship.nl/iiif/2/4653286_ublohs_or_12885_f070a.ptif/full/full/0/default.jpg", 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653286_ublohs_or_12885_f070a.ptif/full/full/0/default.jpg", 
                 "@type": "dctypes:Image", 
                 "format": "image/jpeg", 
                 "height": 2252, 
                 "width": 1455, 
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://digitalscholarship.nl/iiif/2/4653286_ublohs_or_12885_f070a.ptif", 
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653286_ublohs_or_12885_f070a.ptif", 
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }, 
@@ -54,14 +54,14 @@
               "@type": "oa:Annotation", 
               "motivation": "sc:painting", 
               "resource": {
-                "@id": "https://digitalscholarship.nl/iiif/2/4653287_ublohs_or_12885_f070b.ptif/full/full/0/default.jpg", 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653287_ublohs_or_12885_f070b.ptif/full/full/0/default.jpg", 
                 "@type": "dctypes:Image", 
                 "format": "image/jpeg", 
                 "height": 2251, 
                 "width": 1455, 
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://digitalscholarship.nl/iiif/2/4653287_ublohs_or_12885_f070b.ptif", 
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653287_ublohs_or_12885_f070b.ptif", 
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }, 

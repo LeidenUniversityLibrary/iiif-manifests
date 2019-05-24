@@ -77,12 +77,12 @@
                 "@id": "https://digitalscholarship.nl/manifests/NKP/0001/annotation/image1",
                 "motivation": "sc:painting",
                 "resource":{
-                    "@id": "https://digitalscholarship.nl/iiif/2/UBL09_0001_01.jpg/full/full/0/default.jpg",
+                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBL09_0001_01.jpg/full/full/0/default.jpg",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
                     "service": {
                         "@context": "http://iiif.io/api/image/2/context.json",
-                        "@id": "https://digitalscholarship.nl/iiif/2/UBL09_0001_01.jpg",
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBL09_0001_01.jpg",
                         "profile": "http://iiif.io/api/image/2/level2.json"
                     },
                     "height":12576,
