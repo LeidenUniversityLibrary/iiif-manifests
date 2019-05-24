@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digitalscholarship.nl/manifests/KB_760_E68/manifest.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/KB_760_E68/manifest.json",
   "@type": "sc:Manifest",
   "label": "KB 760 E68",
   "sequences": [

@@ -4,7 +4,7 @@
     "label": "UBL MS BPL 14A (Der naturen bloeme)",
     "description": "Manuscript BPL 14A contains the famous Der naturen bloeme by Jacob van Maerlant",
     "attribution": "Provided by Leiden University Libraries' Special Collections",
-    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
+    "@id": "https://iiif.universiteitleiden.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid-book.json",
     "sequences": [{
         "@type": "sc:Sequence",
         "viewingHint": "paged",

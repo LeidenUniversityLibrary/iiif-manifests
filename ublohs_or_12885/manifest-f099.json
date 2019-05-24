@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/manifest-f099.json", 
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f099.json", 
   "@type": "sc:Manifest", 
   "label": "Or. 12.885, f099", 
   "metadata": [
