@@ -1,0 +1,60 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-186.json",
+  
+    "label":"WLK-T-186",
+    "metadata":[
+      {
+        "label":"Date",
+        "value":"20th century"
+      },
+      {
+          "label": "Creator",
+          "value": "Jan Wolkers"
+      }
+    ],
+    "description": "Drawing by Jan Wolkers",
+
+    "attribution": "Hosted by Leiden University. All rights reserved.",
+    
+    
+    "sequences": [
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-186/sequence/normal",
+          "@type": "sc:Sequence",
+          "label": "Default sequence",
+          "viewingDirection": "left-to-right",
+          "viewingHint": "individuals",
+          "canvases": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-186/canvas/p1",
+              "@type": "sc:Canvas",
+              "label": "WLK-T-186",
+              "height":2443,
+              "width":1936,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-186/annotation/image1",
+                  "motivation": "sc:painting",
+                  "resource":{
+                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-186.jpg/full/full/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-186.jpg",
+                          "profile": "http://iiif.io/api/image/2/level2.json"
+                      },
+                      "height":2443,
+                      "width":1936
+                  },
+                  "on": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-186/canvas/p1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+  }

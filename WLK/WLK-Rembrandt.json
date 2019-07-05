@@ -1,0 +1,60 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Manifest",
+    "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt.json",
+  
+    "label":"WLK-Rembrandt",
+    "metadata":[
+      {
+        "label":"Date",
+        "value":"20th century"
+      },
+      {
+          "label": "Creator",
+          "value": "Jan Wolkers"
+      }
+    ],
+    "description": "Jan Wolkers with a painting by Rembrandt",
+
+    "attribution": "Hosted by Leiden University. All rights reserved.",
+    
+    
+    "sequences": [
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt/sequence/normal",
+          "@type": "sc:Sequence",
+          "label": "Default sequence",
+          "viewingDirection": "left-to-right",
+          "viewingHint": "individuals",
+          "canvases": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt/canvas/p1",
+              "@type": "sc:Canvas",
+              "label": "WLK-Rembrandt",
+              "height":4921,
+              "width":4893,
+              "images": [
+                {
+                  "@type": "oa:Annotation",
+                  "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt/annotation/image1",
+                  "motivation": "sc:painting",
+                  "resource":{
+                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/Wolkers_met_Rembrandt.ptif/full/full/0/default.jpg",
+                      "@type": "dctypes:Image",
+                      "format": "image/jpeg",
+                      "service": {
+                          "@context": "http://iiif.io/api/image/2/context.json",
+                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-Rembrandt.jpg",
+                          "profile": "http://iiif.io/api/image/2/level2.json"
+                      },
+                      "height":4921,
+                      "width":4893
+                  },
+                  "on": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt/canvas/p1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+  }
