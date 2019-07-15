@@ -44,7 +44,7 @@
                       "format": "image/jpeg",
                       "service": {
                           "@context": "http://iiif.io/api/image/2/context.json",
-                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-Rembrandt.jpg",
+                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/Wolkers_met_Rembrandt.ptif",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
                       "height":4921,
