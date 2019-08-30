@@ -3,7 +3,7 @@
     "@type": "sc:Manifest",
     "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-Rembrandt.json",
   
-    "label":"WLK-Rembrandt",
+    "label":"WLK-Rembrandt: Steye Raviez, Portret van Jan Wolkers met een reproductie van een zelfportret van Rembrandt",
     "metadata":[
       {
         "label":"Date",
@@ -11,10 +11,10 @@
       },
       {
           "label": "Creator",
-          "value": "Jan Wolkers"
+          "value": "Steye Raviez"
       }
     ],
-    "description": "Jan Wolkers with a painting by Rembrandt",
+    "description": "Portret van Jan Wolkers met een reproductie van een zelfportret van Rembrandt",
 
     "attribution": "Hosted by Leiden University. All rights reserved.",
     
