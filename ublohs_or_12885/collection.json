@@ -1,525 +1,540 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/collection.json", 
-  "@type": "sc:Collection", 
-  "label": "Or. 12.885", 
-  "description": "Leiden University Library possesses 104 Arabic documents written on papyrus and paper. They bear the inventory numbers Or. 8264 and Or. 12885. The majority of these documents date from the A.H. 3rd/A.D. 9th century; a papyrus with Koranic text has been dated to the 1st/7th century and some paper documents may date from as late as the 7th/13th century. These documents cover a wide range of subjects, including private life, administration, commerce, law, religion and scholarship.\n\nThe collection of Arabic papyri and paper documents with the inventory number Or. 12885 was acquired by Leiden University Library in 1973 from the Leiden private dealer A.A. Fatatri.\n\nThis digital collection makes images of these documents available online together with preliminary transcriptions and metadata based on an unpublished catalogue by Petra M. Sijpesteijn, which has been enhanced in 2015-2017 by Jelle Bruning, Yasmin Ismail, Nasreen Sahebali, and Vincent Sterel.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/collection.json",
+  "@type": "sc:Collection",
+  "label": "Or. 12.885",
+  "description": "Leiden University Library possesses 104 Arabic documents written on papyrus and paper. They bear the inventory numbers Or. 8264 and Or. 12.885. The majority of these documents date from the A.H. 3rd/A.D. 9th century; a papyrus with Koranic text has been dated to the 1st/7th century and some paper documents may date from as late as the 7th/13th century. These documents cover a wide range of subjects, including private life, administration, commerce, law, religion and scholarship.\n\nThe collection of Arabic papyri and paper documents with the inventory number Or. 12.885 was acquired by Leiden University Library in 1973 from the Leiden private dealer A.A. Fatatri.\n\nThis digital collection makes images of these documents available online together with preliminary transcriptions and metadata based on an unpublished catalogue by Petra M. Sijpesteijn, which has been enhanced in 2015-2017 by Jelle Bruning, Yasmin Ismail, Nasreen Sahebali, and Vincent Sterel.",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
+  "related": {
+    "label": "Persistent identifier for the collection",
+    "@id": "https://hdl.handle.net/1887.1/item:1577177",
+    "format": "text/html"
+  },
   "manifests": [
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f001.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f001.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f001"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f002.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f002.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f002"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f003.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f003.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f003"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f004.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f004.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f004"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f005.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f005.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f005"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f006.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f006.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f006"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f007.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f007"
-    }, 
-    {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f008.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f008.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f008"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f009.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f007.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f007"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f009.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f009"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f010.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f010.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f010"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f011.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f011.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f011"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f012.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f012"
-    }, 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f012-1.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f012-1"
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f013.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f012-2.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f012-2"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f013.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f013"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f014.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f014.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f014"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f015.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f015.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f015"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f016.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f016.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f016"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f017.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f017.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f017"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f018.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f018"
-    }, 
-    {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f019.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f019"
-    }, 
-    {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f020.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f020.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f020"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f021.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f018.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f018"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f021.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f021"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f022.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f022.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f022"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f023.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f023"
-    }, 
-    {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f024.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f024.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f024"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f025.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f025"
-    }, 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f023.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f023"
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f026.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f026.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f026"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f027.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f025.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f025"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f027.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f027"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f028.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f028.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f028"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f029.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f029.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f029"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f030.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f030.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f030"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f031.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f031.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f031"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f032.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f032.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f032"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f033.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f033.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f033"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f034.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f034.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f034"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f035.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f035.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f035"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f036.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f036.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f036"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f037.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f037.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f037"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f038.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f038.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f038"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f039.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f039.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f039"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f040.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f040.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f040"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f041.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f041.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f041"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f042.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f042.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f042"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f043.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f043.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f043"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f044.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f044.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f044"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f045.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f045.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f045"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f046.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f046.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f046"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f047.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f019.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f019"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f047.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f047"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f048.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f048.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f048"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f049.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f049.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f049"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f050.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f050"
-    }, 
-    {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f051.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f051.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f051"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f052.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f050.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f050"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f052.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f052"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f053.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f053.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f053"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f054.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f054.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f054"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f055.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f055.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f055"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f056.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f056.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f056"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f057.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f057.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f057"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f058.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f058.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f058"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f059.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f059.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f059"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f060.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f060.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f060"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f061"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f062.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f062.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f062"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f063.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f063.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f063"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f064.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f064.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f064"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f065.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f065.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f065"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f066.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f066.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f066"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f067.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f067.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f067"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f068.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f068.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f068"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f069.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f069.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f069"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f070.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f070.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f070"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f071.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f071.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f071"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f072.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f072.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f072"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f073.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f073.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f073"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f074.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f074.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f074"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f075.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f075.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f075"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f076.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f076.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f076"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f077.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f077.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f077"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f078.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f078.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f078"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f079.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f079.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f079"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f080.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f080.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f080"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f081.json", 
-      "@type": "sc:Manifest", 
-      "label": "Or. 12.885, f081"
-    }, 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f081-2.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f081-2"
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f082.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f082.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f082"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f083.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f083.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f083"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f084.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f084.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f084"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f085.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f085.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f085"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f086.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f086.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f086"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f087.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f087.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f087"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f088.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f088.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f088"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f089.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f089.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f089"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f090.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f090.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f090"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f091.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f091.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f091"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f092.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f092.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f092"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f093.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f093.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f093"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f094.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f094.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f094"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f095.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f095.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f095"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f096.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f096.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f096"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f097.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f097.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f097"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f098.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f098.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f098"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f099.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f099.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f099"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f100.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f100.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f100"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f101.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f101.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f101"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f102.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f102.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f102"
-    }, 
+    },
     {
-      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f103.json", 
-      "@type": "sc:Manifest", 
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f103.json",
+      "@type": "sc:Manifest",
       "label": "Or. 12.885, f103"
+    },
+    {
+      "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f081-1.json",
+      "@type": "sc:Manifest",
+      "label": "Or. 12.885, f081-1"
     }
   ]
 }

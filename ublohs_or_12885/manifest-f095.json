@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f095.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f095", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f095.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f095",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Recto\n1 \u0627]\u0648 \u0645\u0646 \u064a\u0642\u0648\u0645 \u0645\u0642\u0627\u0645\u0647 \u0641\u0640[\u0640\u0649] \u0630\u0644\u0640[\u0640\u0643\n2 \u0644\u0627 \u064a\u062d\u0640]\u0640\u062a\u062c \u0628\u062d\u062c\u0629 \u0628\u0633\u0628\u0628 \u0645\u0646 \u0627\u0644\u0627[\u0633\u0628\u0627\u0628\n3 "
+    },
+    {
+      "label": "Dimensions",
+      "value": "3.7 \u00d7 5.5 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto"
+    },
+    {
+      "label": "Date",
+      "value": "[9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "3rd/9th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "The papyrus is incomplete on all four sides."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": ""
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "legal document"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": "debt acknowledgement"
+    },
+    {
+      "label": "Personal names",
+      "value": ""
+    },
+    {
+      "label": "Place names",
+      "value": ""
+    },
+    {
+      "label": "Further remarks",
+      "value": ""
+    },
+    {
+      "label": "Content description",
+      "value": "Debt acknowledgement containing the formula announcing that whoever will present this document can collect the the debt inscribed in it (l. 1) and that no evidence can be presented against this debt acknowledgement (l. 2)."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "There are no diacritical dots."
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "Debt acknowledgement containing the formula announcing that whoever will present this document can collect the the debt inscribed in it (l. 1) and that no evidence can be presented against this debt acknowledgement (l. 2).",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f095a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f095a", 
-          "height": 1280, 
-          "width": 1307, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f095a.json",
+          "@type": "sc:Canvas",
+          "label": "f095a",
+          "height": 1280,
+          "width": 1307,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f095a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f095a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653338_ublohs_or_12885_f095a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1280, 
-                "width": 1307, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653338_ublohs_or_12885_f095a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1280,
+                "width": 1307,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653338_ublohs_or_12885_f095a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653338_ublohs_or_12885_f095a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f095a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f095a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577204",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f095b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f095b", 
-          "height": 1307, 
-          "width": 1280, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f095b.json",
+          "@type": "sc:Canvas",
+          "label": "f095b",
+          "height": 1307,
+          "width": 1280,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f095b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f095b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653339_ublohs_or_12885_f095b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1307, 
-                "width": 1280, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653339_ublohs_or_12885_f095b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1307,
+                "width": 1280,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653339_ublohs_or_12885_f095b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653339_ublohs_or_12885_f095b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f095b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f095b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577209",
+            "format": "text/html"
+          }
         }
       ]
     }

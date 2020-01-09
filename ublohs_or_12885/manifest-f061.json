@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f061", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f061",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Reserved by J. Bruning/P.M. Sijpesteijn"
+    },
+    {
+      "label": "Dimensions",
+      "value": "36 \u00d7 20.5 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "3rd/9th c"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "There are many lacunae in the text"
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": "The cutting lines have been preserved on the left side and partly at the top and bottom sides"
+    },
+    {
+      "label": "Complete?",
+      "value": "The right side of the papyrus has been torn off with considerable loss of text"
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": "commercial; towns; papyrus; linen; request; money"
+    },
+    {
+      "label": "Personal names",
+      "value": "A\u1e25mad; Mu\u1e25ammad b. \u02bfAbd All\u0101h"
+    },
+    {
+      "label": "Place names",
+      "value": "Dams\u016b; Basra; Baghdad"
+    },
+    {
+      "label": "Further remarks",
+      "value": ""
+    },
+    {
+      "label": "Content description",
+      "value": "This is a commercial letter addressed to two persons. Several towns in Syria and Egypt are mentioned and the letter refers to the purchase of papyrus and linen. The letter opens with the familiar remark that the sender is in good health (l. 4) followed by the announcement that he has received a letter from Cairo from the addressees before someone\u00b4s departure (l. 6). The addressees have been asked to buy papyrus and linen in a previous letter (l. 9), a request which is referred to in this letter together with some remark related to the seller and his leaving the town of Ramsin and arriving in Damascus (l. 10). Amounts of money (l. 11) and the sender\u00b4s partner are mentioned as well as several other place names."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "some dots"
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "This is a commercial letter addressed to two persons. Several towns in Syria and Egypt are mentioned and the letter refers to the purchase of papyrus and linen. The letter opens with the familiar remark that the sender is in good health (l. 4) followed by the announcement that he has received a letter from Cairo from the addressees before someone\u00b4s departure (l. 6). The addressees have been asked to buy papyrus and linen in a previous letter (l. 9), a request which is referred to in this letter together with some remark related to the seller and his leaving the town of Ramsin and arriving in Damascus (l. 10). Amounts of money (l. 11) and the sender\u00b4s partner are mentioned as well as several other place names.",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f061a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f061a", 
-          "height": 4407, 
-          "width": 2558, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json",
+          "@type": "sc:Canvas",
+          "label": "f061a",
+          "height": 4407,
+          "width": 2558,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f061a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 4407, 
-                "width": 2558, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4407,
+                "width": 2558,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f061a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577198",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f061b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f061b", 
-          "height": 4407, 
-          "width": 2557, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json",
+          "@type": "sc:Canvas",
+          "label": "f061b",
+          "height": 4407,
+          "width": 2557,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f061b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 4407, 
-                "width": 2557, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4407,
+                "width": 2557,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f061b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577255",
+            "format": "text/html"
+          }
         }
       ]
     }

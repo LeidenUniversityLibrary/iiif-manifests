@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f063.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f063", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f063.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f063",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Recto\n1\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0   ] traces  [ \n2   ] ... \u0640\u0649 \u0628\u0647 \u062f\u064a\u0646\u0631 \u0648\u0643\u062a\u0628 \u062b\u0645\u0646 \u0627\u0644\u0637\u0644\u0627 [ \n3   [ traces  ] \n4   [ traces  ] \n5   ] \u0648\u0633\u0646\u0629 \u0648\u0633\u062a\u064a\u0646 \u0633\u0646\u0629 [  \n\u00a0\nVerso\n1 \u0645\u0646] \u0639\u0628\u062f \u0627\u0644\u0645\u0644\u0643 \u0628\u0646 \u0634\u0647\u0631\\\u0633\u0647\u0646 \u0627\u0644\u0649 \u062d\u0640[\n2  ]\u0640\u0649\u0649\u0639\u062f \u0633\u0644\u0627\u0645 \u0639\u0644\u064a\u0643 \u0641\u0627\u0646\u0649 \u0627\u062d\u0645\u0640[\u0640\u062f\n3  [ \u0627\u0644\u064a\u0643 \u0627\u0644\u0644\u200d\u0647 \u0627\u0644\u0630\u064a \u0644\u0627 \u0627\u0644\u0647 [\u0627\u0644\u0627 \u0647\u0648\n4   \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0]  traces [ "
+    },
+    {
+      "label": "Dimensions",
+      "value": "8 \u00d7 14.7 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[8th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "2nd/8th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "Recto: The text is incomplete on all sides. The black ink has faded so that the text is unreadable in all but two lines. Several lacunae have damaged the papyrus and the first and last lines consist of traces of letters only. \nVerso: Considering the continuation of a common formula in lines 2-3, it seems that not much of the document\u2019s left and right hand sides is broken off."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": ""
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": ""
+    },
+    {
+      "label": "Personal names",
+      "value": "\u02bfAbd al-Malik b. \u2026"
+    },
+    {
+      "label": "Place names",
+      "value": ""
+    },
+    {
+      "label": "Further remarks",
+      "value": "The handwriting points to an early date. The letters have been elongated Along the papyrus fibresly and large spaces have been left blank between the words. Initial kaf has a hairpin shape. The nun has a perfect semi-circular form. The letter sad and ta' have rectangular shape and have been elongated Along the papyrus fibresly.\nOn the basis of the handwriting should the letter on the verso be dated later than the letter on the recto"
+    },
+    {
+      "label": "Content description",
+      "value": "Verso: This is the end of a letter in which the sender conveys greetings to the addressee (l. 2). At the end of his letter the sender uses the same formula that was used to open letters in the first two Muslim centuries (l. 3)."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "There is one diacritical dot"
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "Verso: This is the end of a letter in which the sender conveys greetings to the addressee (l. 2). At the end of his letter the sender uses the same formula that was used to open letters in the first two Muslim centuries (l. 3).",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f063a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f063a", 
-          "height": 966, 
-          "width": 1811, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f063a.json",
+          "@type": "sc:Canvas",
+          "label": "f063a",
+          "height": 966,
+          "width": 1811,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f063a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f063a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653272_ublohs_or_12885_f063a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 966, 
-                "width": 1811, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653272_ublohs_or_12885_f063a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 966,
+                "width": 1811,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653272_ublohs_or_12885_f063a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653272_ublohs_or_12885_f063a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f063a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f063a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577293",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f063b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f063b", 
-          "height": 966, 
-          "width": 1810, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f063b.json",
+          "@type": "sc:Canvas",
+          "label": "f063b",
+          "height": 966,
+          "width": 1810,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f063b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f063b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653273_ublohs_or_12885_f063b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 966, 
-                "width": 1810, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653273_ublohs_or_12885_f063b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 966,
+                "width": 1810,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653273_ublohs_or_12885_f063b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653273_ublohs_or_12885_f063b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f063b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f063b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577368",
+            "format": "text/html"
+          }
         }
       ]
     }

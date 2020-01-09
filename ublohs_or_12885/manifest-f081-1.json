@@ -1,0 +1,164 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f081-1.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f081-1",
+  "metadata": [
+    {
+      "label": "Arabic text",
+      "value": "Reserved by J. Bruning/P.M. Sijpesteijn"
+    },
+    {
+      "label": "Dimensions",
+      "value": "Fragment 1: 12.7 \u00d7 10.6 cm; fragment 2: 4.7 \u00d7 3.7 cm; fragment 3: 3.2 \u00d7 1.5 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "3rd/9th century"
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Along the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "Badly preserved papyrus. Parts of the original document have been torn off on all sides; tears run through large parts of the largest fragment; the bottom of the recto is severely faded. The two minor fragments are very small. One contains a few letters; the other only the remnants of writing."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thick"
+    },
+    {
+      "label": "Cutting lines",
+      "value": "No"
+    },
+    {
+      "label": "Complete?",
+      "value": "No"
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": "Private letter; names; greetings"
+    },
+    {
+      "label": "Personal names",
+      "value": "Mu\u1e25ammad b. \u2026; ]-denticle-l b. Sulaym\u0101n"
+    },
+    {
+      "label": "Place names",
+      "value": ""
+    },
+    {
+      "label": "Further remarks",
+      "value": "Or. 12885-81-1 contains three pieces of papyrus. The largest and smallest papyrus seem not to belong together: the scripts and the colour of these fragments do not match. The other small fragment may belong to the largest fragment, but this remains uncertain."
+    },
+    {
+      "label": "Content description",
+      "value": "Largest fragment:\nThe recto contains a private letter. The contents remain obscure. It mentions that someone\u2019s need for something was explained (line 3: tafs\u012br m\u0101 ya\u1e25t\u0101j il\u0101). The letter further mentions two persons (line 4: ] b. Sulaym\u0101n and Mu\u1e25ammad b. [) and that something had befallen on the sender (line 5: a\u1e63abtu bihi). Line 6-8 are faded. In line 6, the phrase wakkala Muslim/Hish\u0101m b. [ or wa-kull muslim .. [ can be read.\nThe verso contains the end of a private letter. Closing formulae are found in line 2 (al-sal\u0101m \u02bfa]layka wa-ra\u1e25mat all\u0101h wa-barak[\u0101tuhu). In line 3, the sender conveys greetings to the addressee on behalf of a third person (N.N. yuqri\u02be \u02bfalay]ka al-sal\u0101m kath\u012bran). Lines 4 and 5 contain afterthoughts, expressing the wish that the addressee is nearby or that the sender receives a reply soon (line 4: wa-arj\u016b an yak\u016bna kit\u0101buka min qar\u012bb in sh\u0101\u02bea a[ll\u0101h)."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "Yes"
+    }
+  ],
+  "description": "Largest fragment:\nThe recto contains a private letter. The contents remain obscure. It mentions that someone\u2019s need for something was explained (line 3: tafs\u012br m\u0101 ya\u1e25t\u0101j il\u0101). The letter further mentions two persons (line 4: ] b. Sulaym\u0101n and Mu\u1e25ammad b. [) and that something had befallen on the sender (line 5: a\u1e63abtu bihi). Line 6-8 are faded. In line 6, the phrase wakkala Muslim/Hish\u0101m b. [ or wa-kull muslim .. [ can be read.\nThe verso contains the end of a private letter. Closing formulae are found in line 2 (al-sal\u0101m \u02bfa]layka wa-ra\u1e25mat all\u0101h wa-barak[\u0101tuhu). In line 3, the sender conveys greetings to the addressee on behalf of a third person (N.N. yuqri\u02be \u02bfalay]ka al-sal\u0101m kath\u012bran). Lines 4 and 5 contain afterthoughts, expressing the wish that the addressee is nearby or that the sender receives a reply soon (line 4: wa-arj\u016b an yak\u016bna kit\u0101buka min qar\u012bb in sh\u0101\u02bea a[ll\u0101h).",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-1a.json",
+          "@type": "sc:Canvas",
+          "label": "f081-1a",
+          "height": 1752,
+          "width": 1837,
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f081-1a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653308_ublohs_or_12885_f081-1a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1752,
+                "width": 1837,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653308_ublohs_or_12885_f081-1a.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-1a.json"
+            }
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577203",
+            "format": "text/html"
+          }
+        },
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-1b.json",
+          "@type": "sc:Canvas",
+          "label": "f081-1b",
+          "height": 1752,
+          "width": 1837,
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f081-1b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653309_ublohs_or_12885_f081-1b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1752,
+                "width": 1837,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653309_ublohs_or_12885_f081-1b.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-1b.json"
+            }
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577260",
+            "format": "text/html"
+          }
+        }
+      ]
+    }
+  ]
+}

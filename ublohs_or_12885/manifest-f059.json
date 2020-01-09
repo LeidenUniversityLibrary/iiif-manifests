@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f059.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f059", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f059.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f059",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Recto\n1 ] \u0642\u0627\u0644 \u064a\u0646\u0638\u0627\u0631 \u0648\u0627\u0646 \u0627\u0644\u062c\u0628\u0627\u0644 \u0643\u0644\u0647\u0627 [\n2 ] .. \u0645\u0646 \u0627\u0644\u062c\u0628\u0627\u0644 \u0642\u0627\u0644 \u0627\u0639\u0638\u0645\u0643 \u064a\u0627 \u0631\u0628 [\n3 ] ... \u0639\u0644\u064a\u0643 \u0641\u0627\u0646\u0640..\u0627\u062d . \u0644 \u0627\u0644\u0627 \u0643\u062a\u0628\u062a [\n4 ] \u0627\u0643\u0646\u0646\u0627\u0647\u0627 \u0648\u0627\u0643\u062b\u0631 \u0645\u0627 \u0644\u0646\u0627 \u0628\u0627\u0644\u0634\u0643\u0631 \u0627\u0644\u0644\u200d\u0647 \u0627\u0644\u0640[\n5 ] \u0639\u0645\u0631 \u0628\u0646 \u0639\u0648\u0641 \u0642\u0627\u0644 \u0644\u0645\u0627 \u0639\u0645\u0631\u0648 \u0628\u0646 \u0627\u0644\u0639\u0627\u0635 \u0641\u062a\u062d \u0645\u0635\u0631 \u0627[\n6 ] . \u0642\u0627\u0645 \u0628\u0644\u0639\u0627\u0641\u064a\u0629 \u062c\u0627\u0631\u064a\u0629 \u0628\u0643\u0631 \\[[\u0628\u064a\u0646 \u0627\u0628\u0648\u064a\u0647\u0627\\]] [\n7 ] \u0643\u062a\u0628\u062a \u0627\u0644\u0649 \u0646\u064a\u0644 \u0645\u0635\u0631 \u0628\u0643\u062a\u0627\u0628  \u0641\u0627\u0644\u0642\u0640(\u0640\u064a\u0640\u062a\u0640)\u0640\u0647 \u0641\u064a\u0647 [\n8 ] \u0645\u0646 \u0639\u0645\u0631 \u0628\u0646 \u0627\u0644\u062e\u0637\u0627\u0628 \u0627\u0644\u0649 \u0646\u064a\u0644 \u0645\u0635\u0631 \u0633\u0644\u0645 \u0639\u0644\u064a\u0643 \u0641\u0627\u0646\u064a [\u0627\u062d\u0645\u062f \u0627\u0644\u064a\u0643 \u0627\u0644\u0644\u200d\u0647 \u0627\u0644\u0630\u064a \u0644\u0627 \u0627\u0644\u0647 \u0627\u0644\u0627 \u0647\u0648]\n10 \u0648 ... ] \u0627\u0644\u0644\u200d\u0647 \u0644\u0646\u0627 \u0641\u064a\u0643 \u0643\u0646\u062a \u0627\u0646\u0645\u0627 \u062a\u062c\u0631\u064a . [\u0641\u064a\u0647 \u0642\u0628\u0644\u0643\n11 ] \u0639\u0645\u0631\u0648 \u0628\u0646 \u0627\u0644\u0639\u0627\u0635 \u0643\u062a\u0627\u0628 [\u0639\u0645\u0631 \u0628\u0646 \u0627\u0644\u062e\u0637\u0627\u0628\n\u00a0\nVerso\n1 ] ... \u0639\u0628\u062f \u0627\u0644\u0645\u0644\u0643 .. [\n2 ] \u0645\u0639\u062f\u0627\u0646 \u0639\u0644\u0649 \u062e\u0645\u0633\u0629 \u0639\u0634\u0631 \u0627\u0635\u0628\u0639 \u0645\u0646 \u0623\u0631\u0628\u0639\u0629 [\n3 ] ... \u0627\u062d\u062f \u0637\u0646\u0628\u0629 \u0648\u0645\u0627\u0629 ... [\n4 ] \u0627\u0628\u0646 \u0627\u0628\u064a \u064a\u0632\u064a\u062f \u0639\u0644\u0649 \u0627\u0644\u062e\u0631\u0627\u062c \u0648\u0627\u0644\u0630\u064a \u0628\u0642\u0649 \u0641\u064a \u0627\u0644\u0645\u0639\u062f\u0627\u0646 \u0623\u0631\u0628\u0639\u0629 [\n5 \\[[...\\]] \u0627\u062d\u062f \u0639\u0634\u0631 \u0627\u0635\u0628\u0639 [\n6 ] \u0639\u0628\u064a\u062f \u0627\u0644\u0644\u200d\u0647 \u0628\u0646 \u0627\u0644\u062d\u0628\u062d\u0627\u0628 \u0648\u0627\u0642\u0631 \u0627\u0644\u062e\u064a\u0631 [\n7 ] \u0645\u0639\u062f\u0627\u0646 \u062a\u0633\u0639\u0629 \u0627\u0639\u0634\u0631 \u0627\u0635\u0628\u0639 \u0645\u0646 \u0645\u0627\u0629 \u0639\u0640[\n8 ] \u0627\u0644\u0649 \u0645\u0639\u062f\u0627\u0646 \u0639\u0644\u0649 \u0639\u0634\u0631\u0629 \u0623\u0635\u0627\u0628\u0639 \u0645\u0646 \u062e\u0645\u0633\u0629 \u0645\u0627[\u064a\u0629\n9 ] \u0627\u0644\u062d\u0628\u062d\u0627\u0628 \u0639\u0644\u0649 \u0623\u0631\u0628\u0639\u0629 \u0639\u0634\u0631\u064a\u0646 \u0627\u0635\u0628\u0639 . \u0627\u0644\u0645\u0640[\n10 ] ... \u0639\u0634\u0631\u064a\u0646 \u0648\u0633\u0628\u0639 \u0645\u0627\u064a\u0629 \u0623\u0635\u0627\u0628\u0639 [\n11 ] \u0648\u0627\u0631\u0628\u0639 \u0645\u0627\u064a\u0629 \u0644\u0628 \u0648\u062a\u0633\u0639\u0629 \u0648\u0627\u0631\u0628\u0639\u0648\u0646 \u0627\u0644\u0640[\n12 ]...\n13 ]... \u0641\u064a \u0633\u0646\u0629 \u062a\u0633\u0639 \u0648\u0645\u0627\u064a\u0629 \u0639\u0632\u0644 \u062d\u0641\u0635 \u0628\u0646 \u0627\u0644\u0648\u0644\u064a\u062f \u0639\u0640[\n14 ] \u0640\u0647\u0627 \u062a\u0648\u0641\u0649 \u0639\u0628\u062f \u0627\u0644\u0645\u0644\u0643 \u0628\u0646 \u0631\u0641\u0627\u0639\u0629 ...\n15 ] \u0639\u0644\u0649 \u0647\u0634\u0627\u0645 \u0627\u0645\u064a\u0631 \u0627\u0644\u0645\u0648\u0645\u0646\u064a\u0646 \u064a\u0644\u062d\u0642 \u062b\u0644\u062b\u0629 \u0627\u0644\u0641 \u0631\u062c\u0644\n16 ]...\n\u00a0"
+    },
+    {
+      "label": "Dimensions",
+      "value": "15.2 \u00d7 10 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "3rd/9th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "The papyrus is broken off on all four sides. The papyrus fibres are frayed on the sides and in many places the fibres have gotten lose or have disappeared causing lacunae in the text.\nThe bottom half of the papyrus on the recto is covered by mud making the writing illegible. Some lines on the verso are partially crossed out. The text is incomplete on all sides."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": ""
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "literary text"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": "history Egypt; conquest; slave; Nile"
+    },
+    {
+      "label": "Personal names",
+      "value": "\u02bfUmar b. \u02bfAwf; \u02bfAmr b. al-\u02bf\u0100\u1e63; \u02bfUmar b. al-Kha\u1e6d\u1e6d\u0101b; Hish\u0101m"
+    },
+    {
+      "label": "Place names",
+      "value": "Mi\u1e63r; N\u012bl"
+    },
+    {
+      "label": "Further remarks",
+      "value": "This anecdote is preserved in Ibn \u02bfAbd al-\u1e24akam's (d. 870) Futu\u1e25 Mi\u1e63r; Muqaddasi, BGA 3, 207; Ibn Faq\u012bh, Kit\u0101b al-buld\u0101n, BGA 5, 65-6.\u00a0\n\u00a0\nReserved by P.M. Sijpesteijn."
+    },
+    {
+      "label": "Content description",
+      "value": "Historical text relating several events from the early Islamic history of Egypt. On the recto a version of the story that after the conquest of Egypt \u02bfAmr b. al-\u02bf\u0100\u1e63 abolished the Coptic custom to sacrifice a virgin slavegirl (l. 6) to the Nile river in the month Ba'una to ensure the rising of the water. When\u00a0 \u02bfAmr heard of this custom he prohibited announcing that \"Islam abolishes everything that preceded it.\" When the Nile water did not rise that year, \u02bfAmr wrote the caliph \u02bfUmar b. al-Kha\u1e6d\u1e6d\u0101b who\u00a0subsequently wrote a letter to the Nile ordering it to rise its waters as it was God who made its waters rise. The version in the papyrus diverges at some points from the version known to us from that preserved in the literary sources."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "There are some diacritical dots."
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "Historical text relating several events from the early Islamic history of Egypt. On the recto a version of the story that after the conquest of Egypt \u02bfAmr b. al-\u02bf\u0100\u1e63 abolished the Coptic custom to sacrifice a virgin slavegirl (l. 6) to the Nile river in the month Ba'una to ensure the rising of the water. When\u00a0 \u02bfAmr heard of this custom he prohibited announcing that \"Islam abolishes everything that preceded it.\" When the Nile water did not rise that year, \u02bfAmr wrote the caliph \u02bfUmar b. al-Kha\u1e6d\u1e6d\u0101b who\u00a0subsequently wrote a letter to the Nile ordering it to rise its waters as it was God who made its waters rise. The version in the papyrus diverges at some points from the version known to us from that preserved in the literary sources.",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f059a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f059a", 
-          "height": 2748, 
-          "width": 2304, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f059a.json",
+          "@type": "sc:Canvas",
+          "label": "f059a",
+          "height": 2748,
+          "width": 2304,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f059a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f059a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653264_ublohs_or_12885_f059a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 2748, 
-                "width": 2304, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653264_ublohs_or_12885_f059a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2748,
+                "width": 2304,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653264_ublohs_or_12885_f059a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653264_ublohs_or_12885_f059a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f059a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f059a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577266",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f059b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f059b", 
-          "height": 2748, 
-          "width": 2304, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f059b.json",
+          "@type": "sc:Canvas",
+          "label": "f059b",
+          "height": 2748,
+          "width": 2304,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f059b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f059b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653265_ublohs_or_12885_f059b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 2748, 
-                "width": 2304, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653265_ublohs_or_12885_f059b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2748,
+                "width": 2304,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653265_ublohs_or_12885_f059b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653265_ublohs_or_12885_f059b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f059b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f059b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577306",
+            "format": "text/html"
+          }
         }
       ]
     }

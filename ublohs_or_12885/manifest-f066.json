@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f066.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f066", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f066.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f066",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Recto\n1 \u0627\u062a\u0645 \u0646\u0639\u0645\u062a\u0647] \u0639\u0644\u064a\u0643 \u0648\u0632\u0627\u062f \u0641\u064a \u0627\u062d\u0633\u0627\u0646\u0647 \u0627\u0644\u064a\u0643 \u0648\u0639\u0646\u062f\u0643 [\u0627\u0639\u0632\u0643 \u0648]\u0627\u0643\u0631\u0645\u0643 \u0627\u0644\u0644\u200d\u0647 \n2 \u00a0\u00a0\u00a0\u00a0\u00a0  ] ... \u0643\u062a\u0628\u062a \u0647\u0630\u064a \u0627\u0644\u062e\u0637\u0628 \u0627\u0644\u064a\u0643 \u0639\u0644\u0649 \u0637\u0631\u064a\u0642 \u0627\u0644\u0641\u0633\u0637\u0627\u0637\n3 \u00a0\u0648\u0627\u0646\u0627 \u0628\u062d\u0627\u0644 \u0639\u0627\u0641\u064a\u0629 \u0648\u0644\u0644\u200d\u0647[ \u0645\u062d\u0645\u0648\u062f \u0648\u0645\u0634\u0643\u0648\u0631\n4 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0[... \u0648\u0643\u0644\u0641 \u0645\u0639\n5  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0]\u0640\u0627 \u0641\u064a\u0647\u0645  \u064a\u062d\u0645\u0644\u0647 ]...\n\u00a0\nVerso\n1 \u0644\u0627\u0628\u064a \u062c\u0639\u0641\u0631 \u0627\u0643\u0631\u0645\u0647 \u0627\u0644\u0644\u200d\u0647\n2\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0vac.\n3\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0traces"
+    },
+    {
+      "label": "Dimensions",
+      "value": "12 \u00d7 13 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "3rd/9th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "The right and left sides as well as the bottom sides are incomplete. Only on the top side the original cutting line is visible. The bottom right hand corner is broken off and there are several lacunae in the text. "
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thick"
+    },
+    {
+      "label": "Cutting lines",
+      "value": ""
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": "lectures"
+    },
+    {
+      "label": "Personal names",
+      "value": "Ab\u016b Ja\u02bffar"
+    },
+    {
+      "label": "Place names",
+      "value": "al-Fus\u1e6da\u1e6d"
+    },
+    {
+      "label": "Further remarks",
+      "value": "We can deduct from the missing words in lines one and two that about half of the papyrus is missing on the right side. This assumption is supported by the fact that half of the address on the verso has disappeared."
+    },
+    {
+      "label": "Content description",
+      "value": "Recto: The basmala seems to be missing from the beginning of the letter, while the opening formulae seem to be complete (l. 1). The second line starts with an invocation that usually followed a remark about the health of the writer (l. 3). The text exhibits unconventional ligatures. \nThe sender mentions that he has written two lectures for the addressee about al-Fustat (l. 2). He also refers to freights (ll. 5; 6). "
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "There is one diacritical dot in line 3. In several places unconventional ligatures occur."
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "Recto: The basmala seems to be missing from the beginning of the letter, while the opening formulae seem to be complete (l. 1). The second line starts with an invocation that usually followed a remark about the health of the writer (l. 3). The text exhibits unconventional ligatures. \nThe sender mentions that he has written two lectures for the addressee about al-Fustat (l. 2). He also refers to freights (ll. 5; 6). ",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f066a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f066a", 
-          "height": 1704, 
-          "width": 1659, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f066a.json",
+          "@type": "sc:Canvas",
+          "label": "f066a",
+          "height": 1704,
+          "width": 1659,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f066a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f066a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653278_ublohs_or_12885_f066a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1704, 
-                "width": 1659, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653278_ublohs_or_12885_f066a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1704,
+                "width": 1659,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653278_ublohs_or_12885_f066a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653278_ublohs_or_12885_f066a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f066a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f066a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577301",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f066b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f066b", 
-          "height": 1707, 
-          "width": 1659, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f066b.json",
+          "@type": "sc:Canvas",
+          "label": "f066b",
+          "height": 1707,
+          "width": 1659,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f066b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f066b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653279_ublohs_or_12885_f066b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1707, 
-                "width": 1659, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653279_ublohs_or_12885_f066b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1707,
+                "width": 1659,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653279_ublohs_or_12885_f066b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653279_ublohs_or_12885_f066b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f066b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f066b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577196",
+            "format": "text/html"
+          }
         }
       ]
     }

@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f071.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f071", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f071.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f071",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Reserved by J. Bruning/P.M. Sijpesteijn"
+    },
+    {
+      "label": "Dimensions",
+      "value": "17.8 \u00d7 13 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[10th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "4th/10th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Along the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "Recto: The paper has been folded ten times Along the papyrus fibresly. The right side has been torn off causing a loss of text in the beginning of the lines on the recto. On the other three sides the original cutting lines have been preserved. In the middle on the left half of the papyrus is a large lacuna. There are many ink spots between the lines.\u00a0\nVerso: This letter consists of twenty lines written on the verso of which three lines upside down above the text and one line in the right margin. The last four lines of the letter are written on the recto upside down in the top margin. Because these four lines of the letter on the verso are complete, while the letter on the recto misses the right half, we can conclude that the letter on the recto was written before the one on the verso. The letter is complete at the top."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": ""
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": ""
+    },
+    {
+      "label": "Personal names",
+      "value": ""
+    },
+    {
+      "label": "Place names",
+      "value": ""
+    },
+    {
+      "label": "Further remarks",
+      "value": "The nine lines on the\u00a0recto have been written in a different handwriting than the verso."
+    },
+    {
+      "label": "Content description",
+      "value": "Recto: The basmala is missing from the top of the letter which starts with the opening blessings for the addressee (l. 1). The addressee is adressed as \"my lord and my master\" (l. 9). The sender refers to his living expenses (l. 5) and requests the addressee to send him certain products of choice quality (l. 6), amongst others winter grain (l. 7) asks the addressee to send him part of a product that must be good and selected. The letter ends with eulogies similar to the ones it started with (l. 9).\n\u00a0\nVerso: This letter starts with opening blessings on the addressee who is addressed as \"my lord\" (l. 2). The sender mentions that he received a letter from the addressee (l. 3). The letter contains many phrases referring to God's power and might (l. 10) and other religious references (l. 8) and ends with the conveyance of greetings (l. 16)."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "There are several diacritical dots and sin has an oblique stroke over it."
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "Recto: The basmala is missing from the top of the letter which starts with the opening blessings for the addressee (l. 1). The addressee is adressed as \"my lord and my master\" (l. 9). The sender refers to his living expenses (l. 5) and requests the addressee to send him certain products of choice quality (l. 6), amongst others winter grain (l. 7) asks the addressee to send him part of a product that must be good and selected. The letter ends with eulogies similar to the ones it started with (l. 9).\n\u00a0\nVerso: This letter starts with opening blessings on the addressee who is addressed as \"my lord\" (l. 2). The sender mentions that he received a letter from the addressee (l. 3). The letter contains many phrases referring to God's power and might (l. 10) and other religious references (l. 8) and ends with the conveyance of greetings (l. 16).",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f071a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f071a", 
-          "height": 2173, 
-          "width": 1590, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f071a.json",
+          "@type": "sc:Canvas",
+          "label": "f071a",
+          "height": 2173,
+          "width": 1590,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f071a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f071a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653288_ublohs_or_12885_f071a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 2173, 
-                "width": 1590, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653288_ublohs_or_12885_f071a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2173,
+                "width": 1590,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653288_ublohs_or_12885_f071a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653288_ublohs_or_12885_f071a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f071a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f071a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577277",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f071b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f071b", 
-          "height": 2173, 
-          "width": 1590, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f071b.json",
+          "@type": "sc:Canvas",
+          "label": "f071b",
+          "height": 2173,
+          "width": 1590,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f071b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f071b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653289_ublohs_or_12885_f071b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 2173, 
-                "width": 1590, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653289_ublohs_or_12885_f071b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2173,
+                "width": 1590,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653289_ublohs_or_12885_f071b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653289_ublohs_or_12885_f071b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f071b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f071b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577228",
+            "format": "text/html"
+          }
         }
       ]
     }

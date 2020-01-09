@@ -1,8 +1,8 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f086.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f081-2.json",
   "@type": "sc:Manifest",
-  "label": "Or. 12.885, f086",
+  "label": "Or. 12.885, f081-2",
   "metadata": [
     {
       "label": "Arabic text",
@@ -10,7 +10,7 @@
     },
     {
       "label": "Dimensions",
-      "value": "15 \u00d7 13 cm"
+      "value": "24.5 \u00d7 22 cm"
     },
     {
       "label": "Printed side",
@@ -18,11 +18,11 @@
     },
     {
       "label": "Date",
-      "value": "[13th century]"
+      "value": "[9th century]"
     },
     {
       "label": "Date (in original VRE)",
-      "value": "7th/13th c."
+      "value": ""
     },
     {
       "label": "Language",
@@ -30,15 +30,15 @@
     },
     {
       "label": "Direction of writing",
-      "value": "Along the papyrus fibres"
+      "value": "Perpendicular to the papyrus fibres"
     },
     {
       "label": "Condition",
-      "value": "The paper has been cut off straight on the top, bottom and left sides resulting in the loss of some letters at the end of lines as well as the loss of the bottom half of the letter. The right half has been torn off resulting in the loss of half of the text. In line 3 a lacuna has damaged one word. There are traces of an earlier text at the top of the letter written upside down."
+      "value": ""
     },
     {
       "label": "Pen weight",
-      "value": "Thin"
+      "value": "Thick"
     },
     {
       "label": "Cutting lines",
@@ -54,7 +54,7 @@
     },
     {
       "label": "Publishing",
-      "value": "Unpublished"
+      "value": "Published"
     },
     {
       "label": "Requisition history",
@@ -66,7 +66,7 @@
     },
     {
       "label": "Personal names",
-      "value": "Ab\u016b \u02bfAbd All\u0101h al-Hussayn b. Muhammad b. \u02bfAbd All\u0101h"
+      "value": ""
     },
     {
       "label": "Place names",
@@ -78,14 +78,13 @@
     },
     {
       "label": "Content description",
-      "value": "Letter to Ab\u016b \u02bfAbd All\u0101h al-Hussayn b. Muhammad b. \u02bfAbd All\u0101h who is informed that the sender received several letters from him (l. 2)."
+      "value": ""
     },
     {
       "label": "Diacritical dots",
-      "value": "There are several diacritical dots and many unconventional ligatures."
+      "value": ""
     }
   ],
-  "description": "Letter to Ab\u016b \u02bfAbd All\u0101h al-Hussayn b. Muhammad b. \u02bfAbd All\u0101h who is informed that the sender received several letters from him (l. 2).",
   "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
@@ -95,66 +94,66 @@
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f086a.json",
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-2a.json",
           "@type": "sc:Canvas",
-          "label": "f086a",
-          "height": 1872,
-          "width": 1647,
+          "label": "f081-2a",
+          "height": 3013,
+          "width": 2690,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f086a-anno.json",
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f081-2a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653320_ublohs_or_12885_f086a.ptif/full/full/0/default.jpg",
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653310_ublohs_or_12885_f081-2a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 1872,
-                "width": 1647,
+                "height": 3013,
+                "width": 2690,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653320_ublohs_or_12885_f086a.ptif",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653310_ublohs_or_12885_f081-2a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f086a.json"
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-2a.json"
             }
           ],
           "related": {
             "label": "Persistent identifier for recto",
-            "@id": "https://hdl.handle.net/1887.1/item:1577275",
+            "@id": "https://hdl.handle.net/1887.1/item:1577307",
             "format": "text/html"
           }
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f086b.json",
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-2b.json",
           "@type": "sc:Canvas",
-          "label": "f086b",
-          "height": 1872,
-          "width": 1647,
+          "label": "f081-2b",
+          "height": 3014,
+          "width": 2689,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f086b-anno.json",
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f081-2b-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653321_ublohs_or_12885_f086b.ptif/full/full/0/default.jpg",
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653311_ublohs_or_12885_f081-2b.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
-                "height": 1872,
-                "width": 1647,
+                "height": 3014,
+                "width": 2689,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653321_ublohs_or_12885_f086b.ptif",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653311_ublohs_or_12885_f081-2b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f086b.json"
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f081-2b.json"
             }
           ],
           "related": {
             "label": "Persistent identifier for verso",
-            "@id": "https://hdl.handle.net/1887.1/item:1577257",
+            "@id": "https://hdl.handle.net/1887.1/item:1577183",
             "format": "text/html"
           }
         }

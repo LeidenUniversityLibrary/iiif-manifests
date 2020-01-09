@@ -1,0 +1,164 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f012-1.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f012-1",
+  "metadata": [
+    {
+      "label": "Arabic text",
+      "value": "Upper fragment\nRecto\n1\u00a0\u0628\u0640[\u0640\u0633\u0645\n\u00a0\nVerso\n1 ]\u00a0\u00a0\u00a0\u00a0\u00a0 \u0645\u0646 \u0639\u0628\u064a\u062f \u0628\u0646 \u062d\u0645\u0627\u062f"
+    },
+    {
+      "label": "Dimensions",
+      "value": "21 \u00d7 12 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "Upper fragment: [9th century]; lower fragment: [8th or 9th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": "Upper fragment: 3rd/9th c. Lower fragment: 2nd/8th or 3rd/9th c."
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Perpendicular to the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": "Both fragments are partially preserved and contain few words. The ink of the lower fragment is much faded, making them hardly legible."
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thick"
+    },
+    {
+      "label": "Cutting lines",
+      "value": "Upper fragment: The original cutting lines have been preserved at the top and right-hand sides. Lower fragment: The original cutting lines have been preserved at the top, bottom and left-hand side."
+    },
+    {
+      "label": "Complete?",
+      "value": "No"
+    },
+    {
+      "label": "Kind",
+      "value": "letter and a document of uncertain nature"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": ""
+    },
+    {
+      "label": "Personal names",
+      "value": "\u02bfUbayd b. \u1e24amm\u0101d"
+    },
+    {
+      "label": "Place names",
+      "value": ""
+    },
+    {
+      "label": "Further remarks",
+      "value": "The folder of Or 12885-12[a] contains two pieces of papyrus. They do not belong together. The colour of the papyrus sheets is different, the fibres of are pointing in different directions, and the (what is legible of) the handwritings is not the same."
+    },
+    {
+      "label": "Content description",
+      "value": "Upper fragment: The recto contains only the first letter of the basmala and on the verso the name of the sender is preserved."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": "No"
+    }
+  ],
+  "description": "Upper fragment: The recto contains only the first letter of the basmala and on the verso the name of the sender is preserved.",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
+      "canvases": [
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f012-1a.json",
+          "@type": "sc:Canvas",
+          "label": "f012-1a",
+          "height": 1213,
+          "width": 1644,
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f012-1a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653168_ublohs_or_12885_f012-1-1a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1213,
+                "width": 1644,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653168_ublohs_or_12885_f012-1-1a.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f012-1a.json"
+            }
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577218",
+            "format": "text/html"
+          }
+        },
+        {
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f012-1b.json",
+          "@type": "sc:Canvas",
+          "label": "f012-1b",
+          "height": 1216,
+          "width": 1644,
+          "images": [
+            {
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f012-1b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653169_ublohs_or_12885_f012-1-1b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1216,
+                "width": 1644,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653169_ublohs_or_12885_f012-1-1b.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f012-1b.json"
+            }
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577179",
+            "format": "text/html"
+          }
+        }
+      ]
+    }
+  ]
+}

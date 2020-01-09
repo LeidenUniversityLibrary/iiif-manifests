@@ -1,73 +1,162 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json", 
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f068.json", 
-  "@type": "sc:Manifest", 
-  "label": "Or. 12.885, f068", 
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f068.json",
+  "@type": "sc:Manifest",
+  "label": "Or. 12.885, f068",
   "metadata": [
     {
-      "label": "Original production date", 
-      "value": "[8th-12th century]"
+      "label": "Arabic text",
+      "value": "Reserved by J. Bruning/P.M. Sijpesteijn"
+    },
+    {
+      "label": "Dimensions",
+      "value": "16.7 \u00d7 12 cm"
+    },
+    {
+      "label": "Printed side",
+      "value": "Recto; Verso"
+    },
+    {
+      "label": "Date",
+      "value": "[11th or 12th century]"
+    },
+    {
+      "label": "Date (in original VRE)",
+      "value": ""
+    },
+    {
+      "label": "Language",
+      "value": "Arabic"
+    },
+    {
+      "label": "Direction of writing",
+      "value": "Along the papyrus fibres"
+    },
+    {
+      "label": "Condition",
+      "value": ""
+    },
+    {
+      "label": "Pen weight",
+      "value": "Thin"
+    },
+    {
+      "label": "Cutting lines",
+      "value": "All cutting lines have been preserved"
+    },
+    {
+      "label": "Complete?",
+      "value": ""
+    },
+    {
+      "label": "Kind",
+      "value": "letter"
+    },
+    {
+      "label": "Publishing",
+      "value": "Unpublished"
+    },
+    {
+      "label": "Requisition history",
+      "value": ""
+    },
+    {
+      "label": "Keywords",
+      "value": ""
+    },
+    {
+      "label": "Personal names",
+      "value": "Ab\u016b Is\u1e25\u0101q Ibr\u0101h\u012bm b. Y\u0101q\u016bt"
+    },
+    {
+      "label": "Place names",
+      "value": "Mi\u1e63r; Iskandiriyya; Maghrib"
+    },
+    {
+      "label": "Further remarks",
+      "value": ""
+    },
+    {
+      "label": "Content description",
+      "value": "This commercial letter starts with extensive blessings and greetings for the addressee Ab\u016b Is\u1e25\u0101q Ibr\u0101h\u012bm b. Y\u0101q\u016bt, who is addressed in the rest of the letter as \"my brother\" and with a more polite form of address (l. 7 \u1e25a\u1e0dratuka). The addressee is located in Cairo where the sender visits him regularly (l. 12; l. 9). Two men have come from Maghrib, the sender writes, who have told him that the Maghreb is so full that people started to emigrate (l. 10-11). On the verso side the sender announces that there is good wheat for sale in his town eight waybas for one dinar and bread costs three ar\u1e6d\u0101l for one dirham. This was apparently a good price as he adds that this constituted a great blessing (l. 5). The sender discusses the price of textiles in Cairo. He also writes that a request to buy a turban for a certain Ab\u016b A\u02bfl\u0101 could not be met for less than one and a half dinar (ll. 7-9). Ab\u016b A\u02bfl\u0101's request to buy him chickpeas, however, the sender was able to fulfill for a price of fifty dirham (l. 9). The sender finally writes that something was included in his letter."
+    },
+    {
+      "label": "Diacritical dots",
+      "value": ""
     }
-  ], 
-  "description": "This is a papyrus fragment.", 
-  "attribution": "Provided by Leiden University Libraries' Special Collections.", 
+  ],
+  "description": "This commercial letter starts with extensive blessings and greetings for the addressee Ab\u016b Is\u1e25\u0101q Ibr\u0101h\u012bm b. Y\u0101q\u016bt, who is addressed in the rest of the letter as \"my brother\" and with a more polite form of address (l. 7 \u1e25a\u1e0dratuka). The addressee is located in Cairo where the sender visits him regularly (l. 12; l. 9). Two men have come from Maghrib, the sender writes, who have told him that the Maghreb is so full that people started to emigrate (l. 10-11). On the verso side the sender announces that there is good wheat for sale in his town eight waybas for one dinar and bread costs three ar\u1e6d\u0101l for one dirham. This was apparently a good price as he adds that this constituted a great blessing (l. 5). The sender discusses the price of textiles in Cairo. He also writes that a request to buy a turban for a certain Ab\u016b A\u02bfl\u0101 could not be met for less than one and a half dinar (ll. 7-9). Ab\u016b A\u02bfl\u0101's request to buy him chickpeas, however, the sender was able to fulfill for a price of fifty dirham (l. 9). The sender finally writes that something was included in his letter.",
+  "attribution": "Provided by Leiden University Libraries' Special Collections.",
   "sequences": [
     {
-      "@type": "sc:Sequence", 
+      "@type": "sc:Sequence",
+      "label": "Default sequence",
+      "viewingDirection": "right-to-left",
+      "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f068a.json", 
-          "@type": "sc:Canvas", 
-          "label": "f068a", 
-          "height": 1932, 
-          "width": 1545, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f068a.json",
+          "@type": "sc:Canvas",
+          "label": "f068a",
+          "height": 1932,
+          "width": 1545,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f068a-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f068a-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653282_ublohs_or_12885_f068a.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1932, 
-                "width": 1545, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653282_ublohs_or_12885_f068a.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1932,
+                "width": 1545,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653282_ublohs_or_12885_f068a.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653282_ublohs_or_12885_f068a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f068a.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f068a.json"
             }
-          ]
-        }, 
+          ],
+          "related": {
+            "label": "Persistent identifier for recto",
+            "@id": "https://hdl.handle.net/1887.1/item:1577322",
+            "format": "text/html"
+          }
+        },
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f068b.json", 
-          "@type": "sc:Canvas", 
-          "label": "f068b", 
-          "height": 1932, 
-          "width": 1545, 
+          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f068b.json",
+          "@type": "sc:Canvas",
+          "label": "f068b",
+          "height": 1932,
+          "width": 1545,
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_12885/annotation/f068b-anno.json", 
-              "@type": "oa:Annotation", 
-              "motivation": "sc:painting", 
+              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f068b-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653283_ublohs_or_12885_f068b.ptif/full/full/0/default.jpg", 
-                "@type": "dctypes:Image", 
-                "format": "image/jpeg", 
-                "height": 1932, 
-                "width": 1545, 
+                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653283_ublohs_or_12885_f068b.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1932,
+                "width": 1545,
                 "service": {
-                  "@context": "http://iiif.io/api/image/2/context.json", 
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653283_ublohs_or_12885_f068b.ptif", 
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653283_ublohs_or_12885_f068b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
-              }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_12885/canvas/f068b.json"
+              },
+              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f068b.json"
             }
-          ]
+          ],
+          "related": {
+            "label": "Persistent identifier for verso",
+            "@id": "https://hdl.handle.net/1887.1/item:1577272",
+            "format": "text/html"
+          }
         }
       ]
     }
