@@ -64,7 +64,11 @@
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto"
                 }
-              ]
+              ],
+              "otherContent": {
+                "@id": "https://lab.library.universiteitleiden.nl/abnormalhieratic/wp-json/mirador-anno/v1/list?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fmanifests%2Fexternal%2Flouvre%2Fe-7856%2Fcanvas%2Frecto",
+                "@type": "sc:AnnotationList"
+              }
             },
             {
               "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso",
@@ -96,7 +100,11 @@
                   },
                   "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso"
                 }
-              ]
+              ],
+              "otherContent": {
+                "@id": "https://lab.library.universiteitleiden.nl/abnormalhieratic/wp-json/mirador-anno/v1/list?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fmanifests%2Fexternal%2Flouvre%2Fe-7856%2Fcanvas%2Fverso",
+                "@type": "sc:AnnotationList"
+              }
             }
           ]
         }
