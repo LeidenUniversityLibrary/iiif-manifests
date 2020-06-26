@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/vgg_q_9/manifest.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/vgg_q_9/manifest.json",
   "@type": "sc:Manifest",
   "label": "VGG Q 9",
   "sequences": [

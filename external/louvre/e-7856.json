@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856.json",
+    "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856.json",
   
     "label":"P. Louvre E 7856",
     "metadata":[
@@ -28,14 +28,14 @@
     
     "sequences": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/sequence/normal",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/sequence/normal",
           "@type": "sc:Sequence",
           "label": "Default sequence",
           "viewingDirection": "right-to-left",
           "viewingHint": "paged",
           "canvases": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto",
               "@type": "sc:Canvas",
               "label": "P. Louvre E 7856 Recto",
               "related": [{
@@ -48,7 +48,7 @@
               "images": [
                 {
                   "@type": "oa:Annotation",
-                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/annotation/image1",
+                  "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/annotation/image1",
                   "motivation": "sc:painting",
                   "resource":{
                       "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7856_recto.jpg/full/full/0/default.jpg",
@@ -62,7 +62,7 @@
                       "height":2548,
                       "width":2121
                   },
-                  "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto"
+                  "on": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/recto"
                 }
               ],
               "otherContent": {
@@ -71,7 +71,7 @@
               }
             },
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso",
               "@type": "sc:Canvas",
               "label": "P. Louvre E 7856 Verso",
               "related": [{
@@ -84,7 +84,7 @@
               "images": [
                 {
                   "@type": "oa:Annotation",
-                  "@id": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/annotation/image2",
+                  "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/annotation/image2",
                   "motivation": "sc:painting",
                   "resource":{
                       "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7856_verso.jpg/full/full/0/default.jpg",
@@ -98,7 +98,7 @@
                       "height":2534,
                       "width":2116
                   },
-                  "on": "https://iiif.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso"
+                  "on": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7856/canvas/verso"
                 }
               ],
               "otherContent": {

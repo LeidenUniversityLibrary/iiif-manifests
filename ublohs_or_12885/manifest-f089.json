@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f089.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f089.json",
   "@type": "sc:Manifest",
   "label": "Or. 12.885, f089",
   "metadata": [
@@ -95,14 +95,14 @@
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089a.json",
           "@type": "sc:Canvas",
           "label": "f089a",
           "height": 1368,
           "width": 972,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f089a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f089a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -117,7 +117,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089a.json"
             }
           ],
           "related": {
@@ -127,14 +127,14 @@
           }
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089b.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089b.json",
           "@type": "sc:Canvas",
           "label": "f089b",
           "height": 1368,
           "width": 972,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f089b-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f089b-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
@@ -149,7 +149,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089b.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f089b.json"
             }
           ],
           "related": {

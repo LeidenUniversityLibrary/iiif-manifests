@@ -3,7 +3,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "label": "Der naturen bloeme with 'split canvases', default, thumbnails, pyramid TIFF",
     "viewingHint": "paged",
-    "@id": "https://iiif.universiteitleiden.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid.json",
+    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/manifest-split-default-pyramid.json",
     "sequences": [{
         "@type": "sc:Sequence",
         "canvases": [
