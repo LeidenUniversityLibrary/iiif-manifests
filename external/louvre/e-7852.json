@@ -46,12 +46,12 @@
                   "@id": "https://lab.library.universiteitleiden.nl/manifests/external/louvre/e-7852/annotation/image1",
                   "motivation": "sc:painting",
                   "resource":{
-                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg/full/full/0/default.jpg",
+                      "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg/full/full/0/default.jpg",
                       "@type": "dctypes:Image",
                       "format": "image/jpeg",
                       "service": {
                           "@context": "http://iiif.io/api/image/2/context.json",
-                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg",
+                          "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Louvre_E_7852a.jpg",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
                       "height":3500,

@@ -39,12 +39,12 @@
                   "@id": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-37/annotation/image1",
                   "motivation": "sc:painting",
                   "resource":{
-                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-37.jpg/full/full/0/default.jpg",
+                      "@id": "https://lab.library.universiteitleiden.nl/iiif/2/WLK-T-37.jpg/full/full/0/default.jpg",
                       "@type": "dctypes:Image",
                       "format": "image/jpeg",
                       "service": {
                           "@context": "http://iiif.io/api/image/2/context.json",
-                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-37.jpg",
+                          "@id": "https://lab.library.universiteitleiden.nl/iiif/2/WLK-T-37.jpg",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
                       "height":1674,
