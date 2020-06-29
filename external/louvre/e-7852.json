@@ -61,7 +61,7 @@
                 }
               ],
               "otherContent": {
-                "@id": "https://lab.library.universiteitleiden.nl/abnormalhieratic/wp-json/mirador-anno/v1/list?uri=https%3A%2F%2Fiiif.universiteitleiden.nl%2Fmanifests%2Fexternal%2Flouvre%2Fe-7852%2Fcanvas%2Fp1",
+                "@id": "https://lab.library.universiteitleiden.nl/abnormalhieratic/wp-json/mirador-anno/v1/list?uri=https%3A%2F%2Flab.library.universiteitleiden.nl%2Fmanifests%2Fexternal%2Flouvre%2Fe-7852%2Fcanvas%2Fp1",
                 "@type": "sc:AnnotationList"
               }
             }
