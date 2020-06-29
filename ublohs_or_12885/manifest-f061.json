@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/manifest-f061.json",
   "@type": "sc:Manifest",
   "label": "Or. 12.885, f061",
   "metadata": [
@@ -95,29 +95,29 @@
       "viewingHint": "paged",
       "canvases": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json",
           "@type": "sc:Canvas",
           "label": "f061a",
           "height": 4407,
           "width": 2558,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 4407,
                 "width": 2558,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/4653268_ublohs_or_12885_f061a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061a.json"
             }
           ],
           "related": {
@@ -127,29 +127,29 @@
           }
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json",
           "@type": "sc:Canvas",
           "label": "f061b",
           "height": 4407,
           "width": 2557,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061b-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/annotation/f061b-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 4407,
                 "width": 2557,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/4653269_ublohs_or_12885_f061b.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_12885/canvas/f061b.json"
             }
           ],
           "related": {

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/manifest.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/manifest.json",
   "@type": "sc:Manifest",
   "label": "Or. 2993",
   "related": {
@@ -20,677 +20,677 @@
       "@type": "sc:Sequence",
       "canvases": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band1.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band1.json",
           "@type": "sc:Canvas",
           "label": "0000_band1",
           "width": 1212,
           "height": 2106,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band1-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band1-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band1.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band1.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band1.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band1.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 1212,
                 "height": 2106
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band1.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band1.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band2.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band2.json",
           "@type": "sc:Canvas",
           "label": "0000_band2",
           "width": 2017,
           "height": 2871,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band2-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band2-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band2.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band2.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band2.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band2.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 2017,
                 "height": 2871
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band2.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band2.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band3.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band3.json",
           "@type": "sc:Canvas",
           "label": "0000_band3",
           "width": 146,
           "height": 2803,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band3-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band3-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band3.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band3.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band3.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band3.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 146,
                 "height": 2803
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band3.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band3.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band4.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band4.json",
           "@type": "sc:Canvas",
           "label": "0000_band4",
           "width": 2012,
           "height": 2874,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band4-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_band4-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band4.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band4.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band4.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_band4.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 2012,
                 "height": 2874
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band4.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_band4.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_opening01-(incl-f001a).json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_opening01-(incl-f001a).json",
           "@type": "sc:Canvas",
           "label": "0000_opening01-(incl-f001a)",
           "width": 4005,
           "height": 2945,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_opening01-(incl-f001a)-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/0000_opening01-(incl-f001a)-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_opening01-(incl-f001a).ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_opening01-(incl-f001a).ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_opening01-(incl-f001a).ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_0000_opening01-(incl-f001a).ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2945
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_opening01-(incl-f001a).json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/0000_opening01-(incl-f001a).json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f001b-002a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f001b-002a.json",
           "@type": "sc:Canvas",
           "label": "f001b-002a",
           "width": 4005,
           "height": 2945,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f001b-002a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f001b-002a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f001b-002a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f001b-002a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f001b-002a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f001b-002a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2945
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f001b-002a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f001b-002a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f002b-003a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f002b-003a.json",
           "@type": "sc:Canvas",
           "label": "f002b-003a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f002b-003a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f002b-003a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f002b-003a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f002b-003a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f002b-003a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f002b-003a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f002b-003a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f002b-003a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f003b-004a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f003b-004a.json",
           "@type": "sc:Canvas",
           "label": "f003b-004a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f003b-004a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f003b-004a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f003b-004a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f003b-004a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f003b-004a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f003b-004a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f003b-004a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f003b-004a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f004b-005a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f004b-005a.json",
           "@type": "sc:Canvas",
           "label": "f004b-005a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f004b-005a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f004b-005a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f004b-005a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f004b-005a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f004b-005a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f004b-005a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f004b-005a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f004b-005a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f005b-006a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f005b-006a.json",
           "@type": "sc:Canvas",
           "label": "f005b-006a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f005b-006a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f005b-006a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f005b-006a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f005b-006a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f005b-006a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f005b-006a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f005b-006a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f005b-006a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f006b-007a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f006b-007a.json",
           "@type": "sc:Canvas",
           "label": "f006b-007a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f006b-007a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f006b-007a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f006b-007a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f006b-007a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f006b-007a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f006b-007a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f006b-007a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f006b-007a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f007b-008a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f007b-008a.json",
           "@type": "sc:Canvas",
           "label": "f007b-008a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f007b-008a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f007b-008a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f007b-008a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f007b-008a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f007b-008a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f007b-008a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f007b-008a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f007b-008a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f008b-009a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f008b-009a.json",
           "@type": "sc:Canvas",
           "label": "f008b-009a",
           "width": 4005,
           "height": 2944,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f008b-009a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f008b-009a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f008b-009a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f008b-009a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f008b-009a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f008b-009a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 4005,
                 "height": 2944
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f008b-009a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f008b-009a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f009b-010a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f009b-010a.json",
           "@type": "sc:Canvas",
           "label": "f009b-010a",
           "width": 3960,
           "height": 2915,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f009b-010a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f009b-010a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f009b-010a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f009b-010a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f009b-010a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f009b-010a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2915
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f009b-010a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f009b-010a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f010b-011a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f010b-011a.json",
           "@type": "sc:Canvas",
           "label": "f010b-011a",
           "width": 3960,
           "height": 2915,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f010b-011a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f010b-011a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f010b-011a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f010b-011a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f010b-011a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f010b-011a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2915
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f010b-011a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f010b-011a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f011b-012a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f011b-012a.json",
           "@type": "sc:Canvas",
           "label": "f011b-012a",
           "width": 3960,
           "height": 2915,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f011b-012a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f011b-012a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f011b-012a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f011b-012a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f011b-012a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f011b-012a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2915
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f011b-012a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f011b-012a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f012b-013a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f012b-013a.json",
           "@type": "sc:Canvas",
           "label": "f012b-013a",
           "width": 3960,
           "height": 2915,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f012b-013a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f012b-013a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f012b-013a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f012b-013a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f012b-013a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f012b-013a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2915
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f012b-013a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f012b-013a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f013b-014a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f013b-014a.json",
           "@type": "sc:Canvas",
           "label": "f013b-014a",
           "width": 3960,
           "height": 2915,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f013b-014a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f013b-014a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f013b-014a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f013b-014a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f013b-014a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f013b-014a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2915
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f013b-014a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f013b-014a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f014b-015a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f014b-015a.json",
           "@type": "sc:Canvas",
           "label": "f014b-015a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f014b-015a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f014b-015a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f014b-015a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f014b-015a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f014b-015a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f014b-015a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f014b-015a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f014b-015a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f015b-016a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f015b-016a.json",
           "@type": "sc:Canvas",
           "label": "f015b-016a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f015b-016a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f015b-016a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f015b-016a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f015b-016a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f015b-016a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f015b-016a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f015b-016a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f015b-016a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f016b-017a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f016b-017a.json",
           "@type": "sc:Canvas",
           "label": "f016b-017a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f016b-017a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f016b-017a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f016b-017a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f016b-017a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f016b-017a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f016b-017a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f016b-017a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f016b-017a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f017b-018a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f017b-018a.json",
           "@type": "sc:Canvas",
           "label": "f017b-018a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f017b-018a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f017b-018a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f017b-018a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f017b-018a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f017b-018a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f017b-018a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f017b-018a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f017b-018a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f018b-019a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f018b-019a.json",
           "@type": "sc:Canvas",
           "label": "f018b-019a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f018b-019a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f018b-019a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f018b-019a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f018b-019a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f018b-019a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f018b-019a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f018b-019a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f018b-019a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f019b-020a.json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f019b-020a.json",
           "@type": "sc:Canvas",
           "label": "f019b-020a",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f019b-020a-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/f019b-020a-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f019b-020a.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f019b-020a.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f019b-020a.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_f019b-020a.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f019b-020a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/f019b-020a.json"
             }
           ]
         },
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/XXXX_opening02-(incl-f020b).json",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/XXXX_opening02-(incl-f020b).json",
           "@type": "sc:Canvas",
           "label": "XXXX_opening02-(incl-f020b)",
           "width": 3960,
           "height": 2916,
           "images": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/XXXX_opening02-(incl-f020b)-anno.json",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/annotation/XXXX_opening02-(incl-f020b)-anno.json",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_XXXX_opening02-(incl-f020b).ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_XXXX_opening02-(incl-f020b).ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_XXXX_opening02-(incl-f020b).ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBLOHS_Or_2993_XXXX_opening02-(incl-f020b).ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 },
                 "width": 3960,
                 "height": 2916
               },
-              "on": "https://iiif.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/XXXX_opening02-(incl-f020b).json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_2993/canvas/XXXX_opening02-(incl-f020b).json"
             }
           ]
         }

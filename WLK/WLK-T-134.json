@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-134.json",
+    "@id": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-134.json",
   
     "label":"WLK-T-134: Zelfportret van de kunstenaar",
     "metadata":[
@@ -21,14 +21,14 @@
     
     "sequences": [
         {
-          "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-134/sequence/normal",
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-134/sequence/normal",
           "@type": "sc:Sequence",
           "label": "Default sequence",
           "viewingDirection": "left-to-right",
           "viewingHint": "individuals",
           "canvases": [
             {
-              "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-134/canvas/p1",
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-134/canvas/p1",
               "@type": "sc:Canvas",
               "label": "WLK-T-134",
               "height":2233,
@@ -36,21 +36,21 @@
               "images": [
                 {
                   "@type": "oa:Annotation",
-                  "@id": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-134/annotation/image1",
+                  "@id": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-134/annotation/image1",
                   "motivation": "sc:painting",
                   "resource":{
-                      "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-134.jpg/full/full/0/default.jpg",
+                      "@id": "https://lab.library.universiteitleiden.nl/iiif/2/WLK-T-134.jpg/full/full/0/default.jpg",
                       "@type": "dctypes:Image",
                       "format": "image/jpeg",
                       "service": {
                           "@context": "http://iiif.io/api/image/2/context.json",
-                          "@id": "https://iiif.universiteitleiden.nl/iiif/2/WLK-T-134.jpg",
+                          "@id": "https://lab.library.universiteitleiden.nl/iiif/2/WLK-T-134.jpg",
                           "profile": "http://iiif.io/api/image/2/level2.json"
                       },
                       "height":2233,
                       "width":1897
                   },
-                  "on": "https://iiif.universiteitleiden.nl/manifests/WLK/WLK-T-134/canvas/p1"
+                  "on": "https://lab.library.universiteitleiden.nl/manifests/WLK/WLK-T-134/canvas/p1"
                 }
               ]
             }

@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://iiif.universiteitleiden.nl/manifests/KB_760_E68/manifest.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/KB_760_E68/manifest.json",
   "@type": "sc:Manifest",
   "label": "KB 760 E68",
   "sequences": [
@@ -19,14 +19,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_01.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -46,14 +46,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2684,
                 "width": 2017,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_02.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -73,14 +73,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2541,
                 "width": 1909,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_03.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -100,14 +100,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_04.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -127,14 +127,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2596,
                 "width": 1951,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_05.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -154,14 +154,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_06.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -181,14 +181,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2618,
                 "width": 1967,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_07.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -208,14 +208,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_08.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -235,14 +235,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2596,
                 "width": 1951,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_09.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -262,14 +262,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_10.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -289,14 +289,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_11.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -316,14 +316,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_12.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -343,14 +343,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_13.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -370,14 +370,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_14.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -397,14 +397,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2574,
                 "width": 1934,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_15.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -424,14 +424,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_16.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -451,14 +451,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2574,
                 "width": 1934,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_17.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -478,14 +478,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_18.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -505,14 +505,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_19.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -532,14 +532,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_20.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -559,14 +559,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_21.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -586,14 +586,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_22.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -613,14 +613,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_23.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -640,14 +640,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_24.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -667,14 +667,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_25.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -694,14 +694,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_26.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -721,14 +721,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_27.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -748,14 +748,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_28.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -775,14 +775,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2629,
                 "width": 1976,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_29.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -802,14 +802,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_30.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -829,14 +829,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2618,
                 "width": 1967,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_31.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -856,14 +856,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_32.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -883,14 +883,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2618,
                 "width": 1967,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_33.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -910,14 +910,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_34.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -937,14 +937,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2618,
                 "width": 1967,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_35.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -964,14 +964,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_36.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -991,14 +991,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2618,
                 "width": 1967,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_37.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1018,14 +1018,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2640,
                 "width": 1984,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_38.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1045,14 +1045,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2596,
                 "width": 1951,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_39.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1072,14 +1072,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_40.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1099,14 +1099,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2596,
                 "width": 1951,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_41.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1126,14 +1126,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_42.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1153,14 +1153,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_43.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1180,14 +1180,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_44.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1207,14 +1207,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_45.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1234,14 +1234,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_46.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1261,14 +1261,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_47.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1288,14 +1288,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_48.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1315,14 +1315,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_49.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1342,14 +1342,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_50.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1369,14 +1369,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_51.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1396,14 +1396,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_52.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1423,14 +1423,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_53.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1450,14 +1450,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_54.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1477,14 +1477,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_55.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1504,14 +1504,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_56.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1531,14 +1531,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_57.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1558,14 +1558,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_58.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1585,14 +1585,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_59.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1612,14 +1612,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_60.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1639,14 +1639,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_61.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1666,14 +1666,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_62.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1693,14 +1693,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_63.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1720,14 +1720,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_64.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1747,14 +1747,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_65.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1774,14 +1774,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_66.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1801,14 +1801,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_67.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1828,14 +1828,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_68.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1855,14 +1855,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_69.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1882,14 +1882,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_70.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1909,14 +1909,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_71.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1936,14 +1936,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2662,
                 "width": 2000,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_72.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1963,14 +1963,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_73.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -1990,14 +1990,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_74.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2017,14 +2017,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_75.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2044,14 +2044,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_76.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2071,14 +2071,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2585,
                 "width": 1943,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_77.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2098,14 +2098,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_78.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2125,14 +2125,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2574,
                 "width": 1934,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_79.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2152,14 +2152,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_80.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2179,14 +2179,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2574,
                 "width": 1934,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_81.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2206,14 +2206,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_82.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2233,14 +2233,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2574,
                 "width": 1934,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_83.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2260,14 +2260,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2684,
                 "width": 2017,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_84.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2287,14 +2287,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2541,
                 "width": 1909,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_85.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2314,14 +2314,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2673,
                 "width": 2009,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_86.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
@@ -2341,14 +2341,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif/full/full/0/default.jpg",
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif/full/full/0/default.jpg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "height": 2563,
                 "width": 1926,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://iiif.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/1650_Voorzigtige_Dolheit_Hof_spel_In_five_act_Page_87.ptif",
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               },
