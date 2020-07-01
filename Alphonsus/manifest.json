@@ -1,0 +1,3037 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Alphonsus_en_Thebasile",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a001.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a001",
+          "height": 3254,
+          "width": 2622,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a001-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a001.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3254,
+                "width": 2622,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a001.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a001.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a002.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a002",
+          "height": 3396,
+          "width": 2662,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a002-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a002.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3396,
+                "width": 2662,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a002.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a002.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a003.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a003",
+          "height": 3251,
+          "width": 2583,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a003-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a003.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3251,
+                "width": 2583,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a003.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a003.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a004.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a004",
+          "height": 3345,
+          "width": 2665,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a004-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a004.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3345,
+                "width": 2665,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a004.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a004.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a005.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a005",
+          "height": 3098,
+          "width": 2468,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a005-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a005.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3098,
+                "width": 2468,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a005.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a005.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a006.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a006",
+          "height": 3244,
+          "width": 2468,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a006-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a006.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3244,
+                "width": 2468,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a006.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a006.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a007.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a007",
+          "height": 3475,
+          "width": 2714,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a007-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a007.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3475,
+                "width": 2714,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a007.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a007.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a008.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a008",
+          "height": 3354,
+          "width": 2574,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a008-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a008.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3354,
+                "width": 2574,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a008.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a008.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a009.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a009",
+          "height": 3524,
+          "width": 2823,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a009-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a009.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3524,
+                "width": 2823,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a009.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a009.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a010.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a010",
+          "height": 3503,
+          "width": 2766,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a010-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a010.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3503,
+                "width": 2766,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a010.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a010.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a011.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a011",
+          "height": 3396,
+          "width": 2654,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a011-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a011.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3396,
+                "width": 2654,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a011.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a011.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a012.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673a012",
+          "height": 3611,
+          "width": 2757,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673a012-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a012.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3611,
+                "width": 2757,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673a012.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673a012.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p001.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p001",
+          "height": 3583,
+          "width": 2862,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p001-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p001.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3583,
+                "width": 2862,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p001.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p001.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p002.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p002",
+          "height": 3535,
+          "width": 2745,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p002-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p002.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3535,
+                "width": 2745,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p002.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p002.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p003.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p003",
+          "height": 3455,
+          "width": 2755,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p003-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p003.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3455,
+                "width": 2755,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p003.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p003.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p004.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p004",
+          "height": 3515,
+          "width": 2843,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p004-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p004.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3515,
+                "width": 2843,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p004.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p004.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p005.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p005",
+          "height": 3560,
+          "width": 2787,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p005-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p005.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3560,
+                "width": 2787,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p005.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p005.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p006.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p006",
+          "height": 3440,
+          "width": 2677,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p006-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p006.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3440,
+                "width": 2677,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p006.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p006.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p007.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p007",
+          "height": 3357,
+          "width": 2618,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p007-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p007.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3357,
+                "width": 2618,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p007.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p007.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p008.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p008",
+          "height": 3539,
+          "width": 2753,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p008-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p008.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3539,
+                "width": 2753,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p008.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p008.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p009.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p009",
+          "height": 3293,
+          "width": 2624,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p009-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p009.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3293,
+                "width": 2624,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p009.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p009.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p010.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p010",
+          "height": 3321,
+          "width": 2657,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p010-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p010.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3321,
+                "width": 2657,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p010.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p010.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p011.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p011",
+          "height": 3279,
+          "width": 2706,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p011-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p011.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3279,
+                "width": 2706,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p011.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p011.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p012.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p012",
+          "height": 3443,
+          "width": 2756,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p012-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p012.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3443,
+                "width": 2756,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p012.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p012.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p013.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p013",
+          "height": 3665,
+          "width": 2835,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p013-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p013.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3665,
+                "width": 2835,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p013.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p013.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p014.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p014",
+          "height": 3440,
+          "width": 2824,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p014-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p014.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3440,
+                "width": 2824,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p014.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p014.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p015.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p015",
+          "height": 3684,
+          "width": 2867,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p015-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p015.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3684,
+                "width": 2867,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p015.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p015.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p016.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p016",
+          "height": 3370,
+          "width": 2660,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p016-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p016.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3370,
+                "width": 2660,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p016.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p016.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p017.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p017",
+          "height": 3502,
+          "width": 2786,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p017-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p017.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3502,
+                "width": 2786,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p017.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p017.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p018.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p018",
+          "height": 3442,
+          "width": 2705,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p018-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p018.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3442,
+                "width": 2705,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p018.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p018.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p019.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p019",
+          "height": 3568,
+          "width": 2821,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p019-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p019.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3568,
+                "width": 2821,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p019.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p019.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p020.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p020",
+          "height": 3435,
+          "width": 2768,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p020-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p020.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3435,
+                "width": 2768,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p020.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p020.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p021.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p021",
+          "height": 3392,
+          "width": 2660,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p021-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p021.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3392,
+                "width": 2660,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p021.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p021.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p022.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p022",
+          "height": 3230,
+          "width": 2634,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p022-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p022.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3230,
+                "width": 2634,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p022.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p022.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p023.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p023",
+          "height": 3446,
+          "width": 2810,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p023-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p023.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3446,
+                "width": 2810,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p023.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p023.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p024.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p024",
+          "height": 3535,
+          "width": 2809,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p024-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p024.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3535,
+                "width": 2809,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p024.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p024.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p025.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p025",
+          "height": 3379,
+          "width": 2780,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p025-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p025.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3379,
+                "width": 2780,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p025.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p025.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p026.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p026",
+          "height": 3318,
+          "width": 2683,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p026-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p026.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3318,
+                "width": 2683,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p026.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p026.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p027.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p027",
+          "height": 3317,
+          "width": 2669,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p027-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p027.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3317,
+                "width": 2669,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p027.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p027.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p028.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p028",
+          "height": 3565,
+          "width": 2803,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p028-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p028.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3565,
+                "width": 2803,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p028.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p028.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p029.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p029",
+          "height": 3179,
+          "width": 2532,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p029-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p029.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3179,
+                "width": 2532,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p029.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p029.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p030.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p030",
+          "height": 3349,
+          "width": 2784,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p030-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p030.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3349,
+                "width": 2784,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p030.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p030.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p031.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p031",
+          "height": 3458,
+          "width": 2717,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p031-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p031.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3458,
+                "width": 2717,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p031.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p031.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p032.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p032",
+          "height": 3371,
+          "width": 2692,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p032-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p032.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3371,
+                "width": 2692,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p032.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p032.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p033.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p033",
+          "height": 3181,
+          "width": 2649,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p033-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p033.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3181,
+                "width": 2649,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p033.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p033.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p034.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p034",
+          "height": 3266,
+          "width": 2624,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p034-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p034.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3266,
+                "width": 2624,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p034.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p034.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p035.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p035",
+          "height": 3146,
+          "width": 2593,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p035-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p035.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3146,
+                "width": 2593,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p035.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p035.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p036.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p036",
+          "height": 3334,
+          "width": 2599,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p036-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p036.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3334,
+                "width": 2599,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p036.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p036.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p037.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p037",
+          "height": 3452,
+          "width": 2846,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p037-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p037.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3452,
+                "width": 2846,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p037.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p037.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p038.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p038",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p038-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p038.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p038.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p038.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p039.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p039",
+          "height": 3670,
+          "width": 2884,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p039-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p039.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3670,
+                "width": 2884,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p039.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p039.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p040.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p040",
+          "height": 3513,
+          "width": 2820,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p040-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p040.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3513,
+                "width": 2820,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p040.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p040.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p041.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p041",
+          "height": 3453,
+          "width": 2736,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p041-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p041.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3453,
+                "width": 2736,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p041.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p041.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p042.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p042",
+          "height": 3335,
+          "width": 2731,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p042-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p042.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3335,
+                "width": 2731,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p042.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p042.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p043.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p043",
+          "height": 3397,
+          "width": 2785,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p043-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p043.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3397,
+                "width": 2785,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p043.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p043.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p044.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p044",
+          "height": 3544,
+          "width": 2739,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p044-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p044.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3544,
+                "width": 2739,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p044.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p044.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p045.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p045",
+          "height": 3740,
+          "width": 2889,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p045-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p045.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3740,
+                "width": 2889,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p045.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p045.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p046.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p046",
+          "height": 3393,
+          "width": 2621,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p046-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p046.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3393,
+                "width": 2621,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p046.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p046.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p047.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p047",
+          "height": 3747,
+          "width": 3000,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p047-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p047.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3747,
+                "width": 3000,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p047.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p047.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p048.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p048",
+          "height": 3360,
+          "width": 2774,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p048-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p048.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3360,
+                "width": 2774,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p048.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p048.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p049.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p049",
+          "height": 3120,
+          "width": 2678,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p049-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p049.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3120,
+                "width": 2678,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p049.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p049.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p050.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p050",
+          "height": 3427,
+          "width": 2664,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p050-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p050.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3427,
+                "width": 2664,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p050.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p050.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p051.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p051",
+          "height": 3336,
+          "width": 2746,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p051-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p051.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3336,
+                "width": 2746,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p051.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p051.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p052.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p052",
+          "height": 3482,
+          "width": 2661,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p052-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p052.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3482,
+                "width": 2661,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p052.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p052.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p053.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p053",
+          "height": 3456,
+          "width": 2828,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p053-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p053.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3456,
+                "width": 2828,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p053.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p053.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p054.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p054",
+          "height": 3492,
+          "width": 2782,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p054-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p054.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3492,
+                "width": 2782,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p054.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p054.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p055.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p055",
+          "height": 3768,
+          "width": 2973,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p055-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p055.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3768,
+                "width": 2973,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p055.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p055.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p056.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p056",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p056-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p056.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p056.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p056.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p057.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p057",
+          "height": 3250,
+          "width": 2745,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p057-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p057.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3250,
+                "width": 2745,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p057.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p057.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p058.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p058",
+          "height": 3306,
+          "width": 2654,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p058-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p058.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3306,
+                "width": 2654,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p058.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p058.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p059.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p059",
+          "height": 3508,
+          "width": 2783,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p059-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p059.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3508,
+                "width": 2783,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p059.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p059.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p060.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p060",
+          "height": 3409,
+          "width": 2636,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p060-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p060.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3409,
+                "width": 2636,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p060.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p060.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p061.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p061",
+          "height": 3678,
+          "width": 2799,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p061-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p061.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3678,
+                "width": 2799,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p061.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p061.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p062.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p062",
+          "height": 3479,
+          "width": 2820,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p062-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p062.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3479,
+                "width": 2820,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p062.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p062.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p063.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p063",
+          "height": 3542,
+          "width": 2806,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p063-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p063.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3542,
+                "width": 2806,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p063.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p063.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p064.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p064",
+          "height": 3430,
+          "width": 2758,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p064-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p064.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3430,
+                "width": 2758,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p064.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p064.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p065.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p065",
+          "height": 3364,
+          "width": 2885,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p065-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p065.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3364,
+                "width": 2885,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p065.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p065.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p066.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p066",
+          "height": 3387,
+          "width": 2740,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p066-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p066.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3387,
+                "width": 2740,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p066.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p066.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p067.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p067",
+          "height": 3539,
+          "width": 2859,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p067-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p067.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3539,
+                "width": 2859,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p067.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p067.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p068.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p068",
+          "height": 3094,
+          "width": 2516,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p068-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p068.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3094,
+                "width": 2516,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p068.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p068.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p069.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p069",
+          "height": 3309,
+          "width": 2652,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p069-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p069.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3309,
+                "width": 2652,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p069.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p069.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p070.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p070",
+          "height": 3392,
+          "width": 2708,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p070-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p070.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3392,
+                "width": 2708,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p070.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p070.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p071.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p071",
+          "height": 3333,
+          "width": 2648,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p071-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p071.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3333,
+                "width": 2648,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p071.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p071.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p072.json",
+          "@type": "sc:Canvas",
+          "label": "BieAlphonsus1673p072",
+          "height": 3382,
+          "width": 2757,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/BieAlphonsus1673p072-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p072.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3382,
+                "width": 2757,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/BieAlphonsus1673p072.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/BieAlphonsus1673p072.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p073.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p073",
+          "height": 3404,
+          "width": 2787,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p073-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p073.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3404,
+                "width": 2787,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p073.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p073.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p074.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p074",
+          "height": 3384,
+          "width": 2788,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p074-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p074.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3384,
+                "width": 2788,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p074.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p074.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p075.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p075",
+          "height": 3342,
+          "width": 2819,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p075-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p075.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3342,
+                "width": 2819,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p075.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p075.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p076.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p076",
+          "height": 3300,
+          "width": 2565,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p076-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p076.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3300,
+                "width": 2565,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p076.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p076.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p077.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p077",
+          "height": 3382,
+          "width": 2667,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p077-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p077.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3382,
+                "width": 2667,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p077.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p077.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p078.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p078",
+          "height": 3312,
+          "width": 2665,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p078-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p078.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3312,
+                "width": 2665,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p078.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p078.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p079.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p079",
+          "height": 3288,
+          "width": 2639,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p079-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p079.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3288,
+                "width": 2639,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p079.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p079.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p080.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p080",
+          "height": 3523,
+          "width": 2791,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p080-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p080.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3523,
+                "width": 2791,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p080.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p080.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p081.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p081",
+          "height": 3116,
+          "width": 2594,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p081-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p081.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3116,
+                "width": 2594,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p081.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p081.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p082.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p082",
+          "height": 3686,
+          "width": 2874,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p082-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p082.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3686,
+                "width": 2874,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p082.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p082.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p083.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p083",
+          "height": 3464,
+          "width": 2845,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p083-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p083.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3464,
+                "width": 2845,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p083.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p083.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p084.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p084",
+          "height": 3530,
+          "width": 2823,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p084-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p084.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3530,
+                "width": 2823,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p084.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p084.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p085.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p085",
+          "height": 3543,
+          "width": 2871,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p085-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p085.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3543,
+                "width": 2871,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p085.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p085.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p086.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p086",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p086-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p086.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p086.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p086.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p087.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p087",
+          "height": 3504,
+          "width": 2707,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p087-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p087.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3504,
+                "width": 2707,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p087.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p087.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p088.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p088",
+          "height": 3348,
+          "width": 2629,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p088-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p088.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3348,
+                "width": 2629,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p088.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p088.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p089.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p089",
+          "height": 3258,
+          "width": 2737,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p089-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p089.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3258,
+                "width": 2737,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p089.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p089.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p090.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p090",
+          "height": 3236,
+          "width": 2605,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p090-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p090.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3236,
+                "width": 2605,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p090.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p090.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p091.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p091",
+          "height": 3330,
+          "width": 2837,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p091-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p091.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3330,
+                "width": 2837,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p091.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p091.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p092.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p092",
+          "height": 3371,
+          "width": 2588,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p092-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p092.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3371,
+                "width": 2588,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p092.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p092.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p093.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p093",
+          "height": 3664,
+          "width": 2879,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p093-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p093.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3664,
+                "width": 2879,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p093.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p093.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p094.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p094",
+          "height": 3522,
+          "width": 2730,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p094-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p094.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3522,
+                "width": 2730,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p094.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p094.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p095.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p095",
+          "height": 3494,
+          "width": 2735,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p095-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p095.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3494,
+                "width": 2735,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p095.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p095.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p096.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p096",
+          "height": 3378,
+          "width": 2676,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p096-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p096.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3378,
+                "width": 2676,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p096.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p096.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p097.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p097",
+          "height": 3182,
+          "width": 2687,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p097-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p097.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3182,
+                "width": 2687,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p097.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p097.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p098.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p098",
+          "height": 3198,
+          "width": 2561,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p098-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p098.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3198,
+                "width": 2561,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p098.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p098.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p099.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p099",
+          "height": 3469,
+          "width": 2751,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p099-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p099.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3469,
+                "width": 2751,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p099.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p099.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p100.json",
+          "@type": "sc:Canvas",
+          "label": "Borssesnyers1673p100",
+          "height": 3374,
+          "width": 2728,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/annotation/Borssesnyers1673p100-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p100.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 3374,
+                "width": 2728,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/Borssesnyers1673p100.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Alphonsus_en_Thebasile/canvas/Borssesnyers1673p100.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

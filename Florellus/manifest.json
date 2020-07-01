@@ -1,0 +1,4036 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Florellus",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/1.json",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/1-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124042.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124042.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/1.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/2.json",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/2-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124058.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124058.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/2.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/3.json",
+          "@type": "sc:Canvas",
+          "label": "3",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/3-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124109.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124109.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/3.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/4.json",
+          "@type": "sc:Canvas",
+          "label": "4",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/4-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124125.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124125.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/4.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/5.json",
+          "@type": "sc:Canvas",
+          "label": "5",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/5-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124133.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124133.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/5.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/6.json",
+          "@type": "sc:Canvas",
+          "label": "6",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/6-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124145.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124145.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/6.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/7.json",
+          "@type": "sc:Canvas",
+          "label": "7",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/7-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124152.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124152.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/7.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/8.json",
+          "@type": "sc:Canvas",
+          "label": "8",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/8-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124204.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124204.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/8.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/9.json",
+          "@type": "sc:Canvas",
+          "label": "9",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/9-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124211.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124211.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/9.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/10.json",
+          "@type": "sc:Canvas",
+          "label": "10",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/10-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124222.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124222.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/10.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/11.json",
+          "@type": "sc:Canvas",
+          "label": "11",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/11-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124229.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124229.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/11.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/12.json",
+          "@type": "sc:Canvas",
+          "label": "12",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/12-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124237.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124237.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/12.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/13.json",
+          "@type": "sc:Canvas",
+          "label": "13",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/13-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124242.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124242.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/13.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/14.json",
+          "@type": "sc:Canvas",
+          "label": "14",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/14-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124250.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124250.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/14.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/15.json",
+          "@type": "sc:Canvas",
+          "label": "15",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/15-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124254.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124254.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/15.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/16.json",
+          "@type": "sc:Canvas",
+          "label": "16",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/16-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124303.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124303.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/16.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/17.json",
+          "@type": "sc:Canvas",
+          "label": "17",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/17-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124308.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124308.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/17.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/18.json",
+          "@type": "sc:Canvas",
+          "label": "18",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/18-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124317.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124317.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/18.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/19.json",
+          "@type": "sc:Canvas",
+          "label": "19",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/19-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124325.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124325.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/19.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/20.json",
+          "@type": "sc:Canvas",
+          "label": "20",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/20-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124333.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124333.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/20.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/21.json",
+          "@type": "sc:Canvas",
+          "label": "21",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/21-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124338.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124338.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/21.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/22.json",
+          "@type": "sc:Canvas",
+          "label": "22",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/22-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124346.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124346.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/22.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/23.json",
+          "@type": "sc:Canvas",
+          "label": "23",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/23-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124351.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124351.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/23.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/24.json",
+          "@type": "sc:Canvas",
+          "label": "24",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/24-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124359.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124359.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/24.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/25.json",
+          "@type": "sc:Canvas",
+          "label": "25",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/25-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124409.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124409.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/25.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/26.json",
+          "@type": "sc:Canvas",
+          "label": "26",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/26-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124421.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124421.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/26.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/27.json",
+          "@type": "sc:Canvas",
+          "label": "27",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/27-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124425.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124425.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/27.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/28.json",
+          "@type": "sc:Canvas",
+          "label": "28",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/28-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124448.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124448.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/28.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/29.json",
+          "@type": "sc:Canvas",
+          "label": "29",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/29-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124454.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124454.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/29.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/30.json",
+          "@type": "sc:Canvas",
+          "label": "30",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/30-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124504.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124504.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/30.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/31.json",
+          "@type": "sc:Canvas",
+          "label": "31",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/31-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124508.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124508.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/31.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/32.json",
+          "@type": "sc:Canvas",
+          "label": "32",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/32-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124518.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124518.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/32.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/33.json",
+          "@type": "sc:Canvas",
+          "label": "33",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/33-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124522.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124522.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/33.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/34.json",
+          "@type": "sc:Canvas",
+          "label": "34",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/34-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124539.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124539.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/34.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/35.json",
+          "@type": "sc:Canvas",
+          "label": "35",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/35-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124600.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124600.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/35.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/36.json",
+          "@type": "sc:Canvas",
+          "label": "36",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/36-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124613.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124613.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/36.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/37.json",
+          "@type": "sc:Canvas",
+          "label": "37",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/37-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124620.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124620.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/37.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/38.json",
+          "@type": "sc:Canvas",
+          "label": "38",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/38-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124705.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124705.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/38.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/39.json",
+          "@type": "sc:Canvas",
+          "label": "39",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/39-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124709.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124709.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/39.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/40.json",
+          "@type": "sc:Canvas",
+          "label": "40",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/40-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124720.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124720.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/40.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/41.json",
+          "@type": "sc:Canvas",
+          "label": "41",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/41-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124724.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124724.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/41.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/42.json",
+          "@type": "sc:Canvas",
+          "label": "42",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/42-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124732.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124732.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/42.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/43.json",
+          "@type": "sc:Canvas",
+          "label": "43",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/43-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124736.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124736.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/43.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/44.json",
+          "@type": "sc:Canvas",
+          "label": "44",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/44-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124748.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124748.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/44.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/45.json",
+          "@type": "sc:Canvas",
+          "label": "45",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/45-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124751.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124751.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/45.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/46.json",
+          "@type": "sc:Canvas",
+          "label": "46",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/46-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124819.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124819.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/46.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/47.json",
+          "@type": "sc:Canvas",
+          "label": "47",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/47-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124839.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124839.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/47.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/48.json",
+          "@type": "sc:Canvas",
+          "label": "48",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/48-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124849.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124849.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/48.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/49.json",
+          "@type": "sc:Canvas",
+          "label": "49",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/49-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124853.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124853.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/49.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/50.json",
+          "@type": "sc:Canvas",
+          "label": "50",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/50-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124901.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124901.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/50.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/51.json",
+          "@type": "sc:Canvas",
+          "label": "51",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/51-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124931.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124931.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/51.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/52.json",
+          "@type": "sc:Canvas",
+          "label": "52",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/52-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124939.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124939.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/52.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/53.json",
+          "@type": "sc:Canvas",
+          "label": "53",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/53-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124942.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124942.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/53.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/54.json",
+          "@type": "sc:Canvas",
+          "label": "54",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/54-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124950.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124950.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/54.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/55.json",
+          "@type": "sc:Canvas",
+          "label": "55",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/55-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124953.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_124953.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/55.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/56.json",
+          "@type": "sc:Canvas",
+          "label": "56",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/56-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125001.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125001.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/56.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/57.json",
+          "@type": "sc:Canvas",
+          "label": "57",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/57-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125005.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125005.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/57.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/58.json",
+          "@type": "sc:Canvas",
+          "label": "58",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/58-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125010.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125010.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/58.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/59.json",
+          "@type": "sc:Canvas",
+          "label": "59",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/59-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125013.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125013.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/59.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/60.json",
+          "@type": "sc:Canvas",
+          "label": "60",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/60-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125021.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125021.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/60.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/61.json",
+          "@type": "sc:Canvas",
+          "label": "61",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/61-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125027.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125027.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/61.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/62.json",
+          "@type": "sc:Canvas",
+          "label": "62",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/62-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125035.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125035.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/62.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/63.json",
+          "@type": "sc:Canvas",
+          "label": "63",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/63-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125038.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125038.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/63.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/64.json",
+          "@type": "sc:Canvas",
+          "label": "64",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/64-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125047.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125047.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/64.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/65.json",
+          "@type": "sc:Canvas",
+          "label": "65",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/65-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125050.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125050.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/65.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/66.json",
+          "@type": "sc:Canvas",
+          "label": "66",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/66-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125100.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125100.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/66.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/67.json",
+          "@type": "sc:Canvas",
+          "label": "67",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/67-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125104.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125104.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/67.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/68.json",
+          "@type": "sc:Canvas",
+          "label": "68",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/68-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125113.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125113.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/68.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/69.json",
+          "@type": "sc:Canvas",
+          "label": "69",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/69-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125121.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125121.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/69.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/70.json",
+          "@type": "sc:Canvas",
+          "label": "70",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/70-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125130.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125130.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/70.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/71.json",
+          "@type": "sc:Canvas",
+          "label": "71",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/71-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125133.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125133.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/71.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/72.json",
+          "@type": "sc:Canvas",
+          "label": "72",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/72-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125139.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125139.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/72.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/73.json",
+          "@type": "sc:Canvas",
+          "label": "73",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/73-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125142.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125142.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/73.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/74.json",
+          "@type": "sc:Canvas",
+          "label": "74",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/74-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125149.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125149.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/74.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/75.json",
+          "@type": "sc:Canvas",
+          "label": "75",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/75-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125153.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125153.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/75.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/76.json",
+          "@type": "sc:Canvas",
+          "label": "76",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/76-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125201.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125201.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/76.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/77.json",
+          "@type": "sc:Canvas",
+          "label": "77",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/77-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125206.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125206.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/77.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/78.json",
+          "@type": "sc:Canvas",
+          "label": "78",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/78-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125212.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125212.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/78.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/79.json",
+          "@type": "sc:Canvas",
+          "label": "79",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/79-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125215.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125215.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/79.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/80.json",
+          "@type": "sc:Canvas",
+          "label": "80",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/80-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125222.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125222.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/80.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/81.json",
+          "@type": "sc:Canvas",
+          "label": "81",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/81-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125224.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125224.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/81.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/82.json",
+          "@type": "sc:Canvas",
+          "label": "82",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/82-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125235.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125235.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/82.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/83.json",
+          "@type": "sc:Canvas",
+          "label": "83",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/83-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125242.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125242.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/83.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/84.json",
+          "@type": "sc:Canvas",
+          "label": "84",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/84-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125251.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125251.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/84.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/85.json",
+          "@type": "sc:Canvas",
+          "label": "85",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/85-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125254.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125254.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/85.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/86.json",
+          "@type": "sc:Canvas",
+          "label": "86",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/86-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125302.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125302.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/86.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/87.json",
+          "@type": "sc:Canvas",
+          "label": "87",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/87-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125305.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125305.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/87.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/88.json",
+          "@type": "sc:Canvas",
+          "label": "88",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/88-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125311.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125311.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/88.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/89.json",
+          "@type": "sc:Canvas",
+          "label": "89",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/89-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125315.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125315.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/89.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/90.json",
+          "@type": "sc:Canvas",
+          "label": "90",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/90-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125347.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125347.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/90.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/91.json",
+          "@type": "sc:Canvas",
+          "label": "91",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/91-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125351.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125351.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/91.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/92.json",
+          "@type": "sc:Canvas",
+          "label": "92",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/92-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125412.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125412.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/92.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/93.json",
+          "@type": "sc:Canvas",
+          "label": "93",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/93-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125416.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125416.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/93.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/94.json",
+          "@type": "sc:Canvas",
+          "label": "94",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/94-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125424.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125424.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/94.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/95.json",
+          "@type": "sc:Canvas",
+          "label": "95",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/95-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125428.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125428.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/95.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/96.json",
+          "@type": "sc:Canvas",
+          "label": "96",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/96-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125437.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125437.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/96.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/97.json",
+          "@type": "sc:Canvas",
+          "label": "97",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/97-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125440.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125440.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/97.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/98.json",
+          "@type": "sc:Canvas",
+          "label": "98",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/98-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125446.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125446.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/98.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/99.json",
+          "@type": "sc:Canvas",
+          "label": "99",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/99-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125449.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125449.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/99.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/100.json",
+          "@type": "sc:Canvas",
+          "label": "100",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/100-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125500.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125500.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/100.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/101.json",
+          "@type": "sc:Canvas",
+          "label": "101",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/101-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125503.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125503.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/101.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/102.json",
+          "@type": "sc:Canvas",
+          "label": "102",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/102-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125512.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125512.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/102.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/103.json",
+          "@type": "sc:Canvas",
+          "label": "103",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/103-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125515.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125515.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/103.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/104.json",
+          "@type": "sc:Canvas",
+          "label": "104",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/104-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125523.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125523.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/104.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/105.json",
+          "@type": "sc:Canvas",
+          "label": "105",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/105-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125527.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125527.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/105.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/106.json",
+          "@type": "sc:Canvas",
+          "label": "106",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/106-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125536.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125536.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/106.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/107.json",
+          "@type": "sc:Canvas",
+          "label": "107",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/107-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125539.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125539.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/107.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/108.json",
+          "@type": "sc:Canvas",
+          "label": "108",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/108-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125607.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125607.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/108.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/109.json",
+          "@type": "sc:Canvas",
+          "label": "109",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/109-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125612.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125612.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/109.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/110.json",
+          "@type": "sc:Canvas",
+          "label": "110",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/110-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125621.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125621.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/110.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/111.json",
+          "@type": "sc:Canvas",
+          "label": "111",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/111-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125624.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125624.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/111.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/112.json",
+          "@type": "sc:Canvas",
+          "label": "112",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/112-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125632.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125632.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/112.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/113.json",
+          "@type": "sc:Canvas",
+          "label": "113",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/113-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125636.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125636.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/113.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/114.json",
+          "@type": "sc:Canvas",
+          "label": "114",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/114-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125642.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125642.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/114.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/115.json",
+          "@type": "sc:Canvas",
+          "label": "115",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/115-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125645.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125645.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/115.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/116.json",
+          "@type": "sc:Canvas",
+          "label": "116",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/116-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125652.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125652.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/116.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/117.json",
+          "@type": "sc:Canvas",
+          "label": "117",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/117-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125655.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125655.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/117.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/118.json",
+          "@type": "sc:Canvas",
+          "label": "118",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/118-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125702.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125702.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/118.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/119.json",
+          "@type": "sc:Canvas",
+          "label": "119",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/119-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125705.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125705.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/119.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/120.json",
+          "@type": "sc:Canvas",
+          "label": "120",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/120-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125711.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125711.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/120.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/121.json",
+          "@type": "sc:Canvas",
+          "label": "121",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/121-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125714.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125714.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/121.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/122.json",
+          "@type": "sc:Canvas",
+          "label": "122",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/122-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125721.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125721.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/122.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/123.json",
+          "@type": "sc:Canvas",
+          "label": "123",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/123-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125723.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125723.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/123.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/124.json",
+          "@type": "sc:Canvas",
+          "label": "124",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/124-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125729.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125729.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/124.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/125.json",
+          "@type": "sc:Canvas",
+          "label": "125",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/125-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125735.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125735.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/125.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/126.json",
+          "@type": "sc:Canvas",
+          "label": "126",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/126-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125745.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125745.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/126.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/127.json",
+          "@type": "sc:Canvas",
+          "label": "127",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/127-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125748.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125748.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/127.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/128.json",
+          "@type": "sc:Canvas",
+          "label": "128",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/128-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125754.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125754.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/128.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/129.json",
+          "@type": "sc:Canvas",
+          "label": "129",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/129-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125759.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125759.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/129.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/130.json",
+          "@type": "sc:Canvas",
+          "label": "130",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/130-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125806.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125806.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/130.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/131.json",
+          "@type": "sc:Canvas",
+          "label": "131",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/131-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125808.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125808.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/131.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/132.json",
+          "@type": "sc:Canvas",
+          "label": "132",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/132-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125814.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125814.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/132.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/133.json",
+          "@type": "sc:Canvas",
+          "label": "133",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/133-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125816.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125816.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/133.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/134.json",
+          "@type": "sc:Canvas",
+          "label": "134",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/134-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125826.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125826.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/134.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/135.json",
+          "@type": "sc:Canvas",
+          "label": "135",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/135-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125828.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125828.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/135.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/136.json",
+          "@type": "sc:Canvas",
+          "label": "136",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/136-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125834.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125834.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/136.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/137.json",
+          "@type": "sc:Canvas",
+          "label": "137",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/137-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125839.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125839.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/137.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/138.json",
+          "@type": "sc:Canvas",
+          "label": "138",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/138-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125846.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125846.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/138.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/139.json",
+          "@type": "sc:Canvas",
+          "label": "139",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/139-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125848.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125848.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/139.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/140.json",
+          "@type": "sc:Canvas",
+          "label": "140",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/140-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125855.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125855.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/140.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/141.json",
+          "@type": "sc:Canvas",
+          "label": "141",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/141-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125858.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125858.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/141.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/142.json",
+          "@type": "sc:Canvas",
+          "label": "142",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/142-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125903.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125903.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/142.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/143.json",
+          "@type": "sc:Canvas",
+          "label": "143",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/143-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125905.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125905.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/143.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/144.json",
+          "@type": "sc:Canvas",
+          "label": "144",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/144-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125912.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125912.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/144.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/145.json",
+          "@type": "sc:Canvas",
+          "label": "145",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/145-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125914.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125914.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/145.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/146.json",
+          "@type": "sc:Canvas",
+          "label": "146",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/146-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125921.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125921.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/146.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/147.json",
+          "@type": "sc:Canvas",
+          "label": "147",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/147-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125923.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125923.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/147.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/148.json",
+          "@type": "sc:Canvas",
+          "label": "148",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/148-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125929.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125929.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/148.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/149.json",
+          "@type": "sc:Canvas",
+          "label": "149",
+          "height": 4032,
+          "width": 3024,
+          "images": [
+            {
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/Florellus/annotation/149-anno.json",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125931.ptif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4032,
+                "width": 3024,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://lab.library.universiteitleiden.nl/iiif/2/20171201_125931.ptif",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://lab.library.universiteitleiden.nl/manifests/Florellus/canvas/149.json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
