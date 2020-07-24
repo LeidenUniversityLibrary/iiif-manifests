@@ -59,14 +59,14 @@
   
   "sequences": [
       {
-        "@id": "https://digitalscholarship.nl/manifests/NKP/0001/sequence/normal",
+        "@id": "https://lab.library.universiteitleiden.nl/manifests/NKP/0001/sequence/normal",
         "@type": "sc:Sequence",
         "label": "The True Sequence",
         "viewingDirection": "left-to-right",
         "viewingHint": "individuals",
         "canvases": [
           {
-            "@id": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1",
+            "@id": "https://lab.library.universiteitleiden.nl/manifests/NKP/0001/canvas/p1",
             "@type": "sc:Canvas",
             "label": "the poster",
             "height":12576,
@@ -74,7 +74,7 @@
             "images": [
               {
                 "@type": "oa:Annotation",
-                "@id": "https://digitalscholarship.nl/manifests/NKP/0001/annotation/image1",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/NKP/0001/annotation/image1",
                 "motivation": "sc:painting",
                 "resource":{
                     "@id": "https://lab.library.universiteitleiden.nl/iiif/2/UBL09_0001_01.jpg/full/full/0/default.jpg",
@@ -88,12 +88,12 @@
                     "height":12576,
                     "width":9255
                 },
-                "on": "https://digitalscholarship.nl/manifests/NKP/0001/canvas/p1"
+                "on": "https://lab.library.universiteitleiden.nl/manifests/NKP/0001/canvas/p1"
               }
             ],
             "otherContent": [
                 {
-                    "@id": "https://digitalscholarship.nl/manifests/NKP/0001-annolist.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/NKP/0001-annolist.json",
                     "@type": "sc:AnnotationList"
                 }
             ]
