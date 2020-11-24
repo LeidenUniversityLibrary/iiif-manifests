@@ -10,14 +10,14 @@
       "@type": "sc:Sequence", 
       "canvases": [
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_8264/canvas/f001a.json", 
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/canvas/f001a.json", 
           "@type": "sc:Canvas", 
           "label": "f001a", 
           "height": 1923, 
           "width": 3207, 
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_8264/annotation/f001a-anno.json", 
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/annotation/f001a-anno.json", 
               "@type": "oa:Annotation", 
               "motivation": "sc:painting", 
               "resource": {
@@ -32,19 +32,19 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_8264/canvas/f001a.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/canvas/f001a.json"
             }
           ]
         }, 
         {
-          "@id": "https://digitalscholarship.nl/manifests/ublohs_or_8264/canvas/f001b.json", 
+          "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/canvas/f001b.json", 
           "@type": "sc:Canvas", 
           "label": "f001b", 
           "height": 1923, 
           "width": 3195, 
           "images": [
             {
-              "@id": "https://digitalscholarship.nl/manifests/ublohs_or_8264/annotation/f001b-anno.json", 
+              "@id": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/annotation/f001b-anno.json", 
               "@type": "oa:Annotation", 
               "motivation": "sc:painting", 
               "resource": {
@@ -59,7 +59,7 @@
                   "profile": "http://iiif.io/api/image/2/level2.json"
                 }
               }, 
-              "on": "https://digitalscholarship.nl/manifests/ublohs_or_8264/canvas/f001b.json"
+              "on": "https://lab.library.universiteitleiden.nl/manifests/ublohs_or_8264/canvas/f001b.json"
             }
           ]
         }

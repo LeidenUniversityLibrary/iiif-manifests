@@ -7,13 +7,13 @@
         "@type": "sc:Sequence",
         "canvases": [
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band1.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band1.json",
                 "@type": "sc:Canvas",
                 "label": "0000_band1",
                 "height": 2526,
                 "width": 1548,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_band1-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_band1-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -28,17 +28,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band1.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band1.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band2.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band2.json",
                 "@type": "sc:Canvas",
                 "label": "0000_band2",
                 "height": 4144,
                 "width": 3087,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_band2-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_band2-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -53,17 +53,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band2.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band2.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band3.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band3.json",
                 "@type": "sc:Canvas",
                 "label": "0000_band3",
                 "height": 3915,
                 "width": 620,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_band3-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_band3-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -78,17 +78,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band3.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band3.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band4.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band4.json",
                 "@type": "sc:Canvas",
                 "label": "0000_band4",
                 "height": 4070,
                 "width": 2940,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_band4-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_band4-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -103,17 +103,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_band4.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_band4.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening01.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening01.json",
                 "@type": "sc:Canvas",
                 "label": "0000_opening01",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_opening01-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_opening01-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -128,17 +128,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening01.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening01.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening02.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening02.json",
                 "@type": "sc:Canvas",
                 "label": "0000_opening02",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_opening02-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_opening02-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -153,17 +153,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening02.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening02.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening03-(incl-f001r).json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening03-(incl-f001r).json",
                 "@type": "sc:Canvas",
                 "label": "0000_opening03-(incl-f001r)",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/0000_opening03-(incl-f001r)-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/0000_opening03-(incl-f001r)-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -178,21 +178,21 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/0000_opening03-(incl-f001r).json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/0000_opening03-(incl-f001r).json"
                 }],
                 "otherContent": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annolist1.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annolist1.json",
                     "@type": "sc:AnnotationList"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f001v-002r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f001v-002r.json",
                 "@type": "sc:Canvas",
                 "label": "f001v-002r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f001v-002r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f001v-002r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -207,17 +207,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f001v-002r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f001v-002r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f002v-003r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f002v-003r.json",
                 "@type": "sc:Canvas",
                 "label": "f002v-003r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f002v-003r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f002v-003r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -232,17 +232,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f002v-003r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f002v-003r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f003v-004r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f003v-004r.json",
                 "@type": "sc:Canvas",
                 "label": "f003v-004r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f003v-004r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f003v-004r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -257,17 +257,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f003v-004r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f003v-004r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f004v-005r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f004v-005r.json",
                 "@type": "sc:Canvas",
                 "label": "f004v-005r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f004v-005r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f004v-005r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -282,17 +282,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f004v-005r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f004v-005r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f005v-006r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f005v-006r.json",
                 "@type": "sc:Canvas",
                 "label": "f005v-006r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f005v-006r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f005v-006r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -307,17 +307,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f005v-006r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f005v-006r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f006v-007r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f006v-007r.json",
                 "@type": "sc:Canvas",
                 "label": "f006v-007r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f006v-007r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f006v-007r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -332,17 +332,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f006v-007r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f006v-007r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f007v-008r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f007v-008r.json",
                 "@type": "sc:Canvas",
                 "label": "f007v-008r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f007v-008r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f007v-008r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -357,17 +357,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f007v-008r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f007v-008r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f008v-009r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f008v-009r.json",
                 "@type": "sc:Canvas",
                 "label": "f008v-009r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f008v-009r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f008v-009r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -382,17 +382,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f008v-009r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f008v-009r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f009v-010r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f009v-010r.json",
                 "@type": "sc:Canvas",
                 "label": "f009v-010r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f009v-010r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f009v-010r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -407,17 +407,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f009v-010r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f009v-010r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f010v-011r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f010v-011r.json",
                 "@type": "sc:Canvas",
                 "label": "f010v-011r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f010v-011r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f010v-011r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -432,17 +432,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f010v-011r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f010v-011r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f011v-012r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f011v-012r.json",
                 "@type": "sc:Canvas",
                 "label": "f011v-012r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f011v-012r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f011v-012r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -457,17 +457,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f011v-012r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f011v-012r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f012v-013r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f012v-013r.json",
                 "@type": "sc:Canvas",
                 "label": "f012v-013r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f012v-013r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f012v-013r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -482,17 +482,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f012v-013r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f012v-013r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f013v-014r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f013v-014r.json",
                 "@type": "sc:Canvas",
                 "label": "f013v-014r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f013v-014r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f013v-014r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -507,17 +507,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f013v-014r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f013v-014r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f014v-015r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f014v-015r.json",
                 "@type": "sc:Canvas",
                 "label": "f014v-015r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f014v-015r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f014v-015r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -532,17 +532,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f014v-015r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f014v-015r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f015v-016r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f015v-016r.json",
                 "@type": "sc:Canvas",
                 "label": "f015v-016r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f015v-016r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f015v-016r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -557,17 +557,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f015v-016r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f015v-016r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f016v-017r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f016v-017r.json",
                 "@type": "sc:Canvas",
                 "label": "f016v-017r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f016v-017r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f016v-017r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -582,17 +582,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f016v-017r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f016v-017r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f017v-018r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f017v-018r.json",
                 "@type": "sc:Canvas",
                 "label": "f017v-018r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f017v-018r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f017v-018r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -607,17 +607,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f017v-018r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f017v-018r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f018v-019r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f018v-019r.json",
                 "@type": "sc:Canvas",
                 "label": "f018v-019r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f018v-019r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f018v-019r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -632,17 +632,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f018v-019r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f018v-019r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f019v-020r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f019v-020r.json",
                 "@type": "sc:Canvas",
                 "label": "f019v-020r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f019v-020r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f019v-020r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -657,17 +657,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f019v-020r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f019v-020r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f020v-021r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f020v-021r.json",
                 "@type": "sc:Canvas",
                 "label": "f020v-021r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f020v-021r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f020v-021r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -682,17 +682,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f020v-021r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f020v-021r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f021v-022r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f021v-022r.json",
                 "@type": "sc:Canvas",
                 "label": "f021v-022r",
                 "height": 4122,
                 "width": 5800,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f021v-022r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f021v-022r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -707,17 +707,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f021v-022r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f021v-022r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f022v-023r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f022v-023r.json",
                 "@type": "sc:Canvas",
                 "label": "f022v-023r",
                 "height": 4122,
                 "width": 5820,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f022v-023r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f022v-023r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -732,17 +732,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f022v-023r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f022v-023r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f023v-024r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f023v-024r.json",
                 "@type": "sc:Canvas",
                 "label": "f023v-024r",
                 "height": 4089,
                 "width": 5853,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f023v-024r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f023v-024r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -757,17 +757,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f023v-024r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f023v-024r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f024v-025r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f024v-025r.json",
                 "@type": "sc:Canvas",
                 "label": "f024v-025r",
                 "height": 4089,
                 "width": 5853,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f024v-025r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f024v-025r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -782,17 +782,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f024v-025r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f024v-025r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f025v-026r.json",
                 "@type": "sc:Canvas",
                 "label": "f025v-026r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f025v-026r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f025v-026r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -807,17 +807,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f025v-026r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f025v-026r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f026v-027r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f026v-027r.json",
                 "@type": "sc:Canvas",
                 "label": "f026v-027r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f026v-027r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f026v-027r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -832,17 +832,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f026v-027r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f026v-027r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f027v-028r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f027v-028r.json",
                 "@type": "sc:Canvas",
                 "label": "f027v-028r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f027v-028r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f027v-028r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -857,17 +857,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f027v-028r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f027v-028r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f028v-029r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f028v-029r.json",
                 "@type": "sc:Canvas",
                 "label": "f028v-029r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f028v-029r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f028v-029r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -882,17 +882,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f028v-029r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f028v-029r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f029v-030r.json",
                 "@type": "sc:Canvas",
                 "label": "f029v-030r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f029v-030r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f029v-030r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -907,17 +907,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f029v-030r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f029v-030r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f030v-031r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f030v-031r.json",
                 "@type": "sc:Canvas",
                 "label": "f030v-031r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f030v-031r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f030v-031r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -932,17 +932,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f030v-031r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f030v-031r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f031v-032r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f031v-032r.json",
                 "@type": "sc:Canvas",
                 "label": "f031v-032r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f031v-032r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f031v-032r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -957,17 +957,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f031v-032r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f031v-032r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f032v-033r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f032v-033r.json",
                 "@type": "sc:Canvas",
                 "label": "f032v-033r",
                 "height": 4063,
                 "width": 5910,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f032v-033r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f032v-033r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -982,17 +982,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f032v-033r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f032v-033r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f033v-034r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f033v-034r.json",
                 "@type": "sc:Canvas",
                 "label": "f033v-034r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f033v-034r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f033v-034r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1007,17 +1007,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f033v-034r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f033v-034r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f034v-035r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f034v-035r.json",
                 "@type": "sc:Canvas",
                 "label": "f034v-035r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f034v-035r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f034v-035r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1032,17 +1032,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f034v-035r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f034v-035r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f035v-036r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f035v-036r.json",
                 "@type": "sc:Canvas",
                 "label": "f035v-036r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f035v-036r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f035v-036r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1057,17 +1057,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f035v-036r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f035v-036r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f036v-037r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f036v-037r.json",
                 "@type": "sc:Canvas",
                 "label": "f036v-037r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f036v-037r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f036v-037r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1082,17 +1082,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f036v-037r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f036v-037r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f037v-038r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f037v-038r.json",
                 "@type": "sc:Canvas",
                 "label": "f037v-038r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f037v-038r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f037v-038r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1107,17 +1107,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f037v-038r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f037v-038r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f038v-039r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f038v-039r.json",
                 "@type": "sc:Canvas",
                 "label": "f038v-039r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f038v-039r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f038v-039r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1132,17 +1132,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f038v-039r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f038v-039r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f039v-040r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f039v-040r.json",
                 "@type": "sc:Canvas",
                 "label": "f039v-040r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f039v-040r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f039v-040r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1157,17 +1157,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f039v-040r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f039v-040r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f040v-041r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f040v-041r.json",
                 "@type": "sc:Canvas",
                 "label": "f040v-041r",
                 "height": 4063,
                 "width": 5967,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f040v-041r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f040v-041r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1182,17 +1182,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f040v-041r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f040v-041r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f041v-042r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f041v-042r.json",
                 "@type": "sc:Canvas",
                 "label": "f041v-042r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f041v-042r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f041v-042r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1207,17 +1207,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f041v-042r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f041v-042r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f042v-043r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f042v-043r.json",
                 "@type": "sc:Canvas",
                 "label": "f042v-043r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f042v-043r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f042v-043r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1232,17 +1232,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f042v-043r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f042v-043r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f043v-044r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f043v-044r.json",
                 "@type": "sc:Canvas",
                 "label": "f043v-044r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f043v-044r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f043v-044r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1257,17 +1257,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f043v-044r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f043v-044r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f044v-045r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f044v-045r.json",
                 "@type": "sc:Canvas",
                 "label": "f044v-045r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f044v-045r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f044v-045r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1282,17 +1282,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f044v-045r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f044v-045r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f045v-046r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f045v-046r.json",
                 "@type": "sc:Canvas",
                 "label": "f045v-046r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f045v-046r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f045v-046r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1307,17 +1307,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f045v-046r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f045v-046r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f046v-047r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f046v-047r.json",
                 "@type": "sc:Canvas",
                 "label": "f046v-047r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f046v-047r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f046v-047r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1332,17 +1332,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f046v-047r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f046v-047r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f047v-048r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f047v-048r.json",
                 "@type": "sc:Canvas",
                 "label": "f047v-048r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f047v-048r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f047v-048r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1357,17 +1357,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f047v-048r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f047v-048r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f048v-049r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f048v-049r.json",
                 "@type": "sc:Canvas",
                 "label": "f048v-049r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f048v-049r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f048v-049r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1382,17 +1382,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f048v-049r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f048v-049r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f049v-050r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f049v-050r.json",
                 "@type": "sc:Canvas",
                 "label": "f049v-050r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f049v-050r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f049v-050r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1407,17 +1407,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f049v-050r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f049v-050r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f050v-051r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f050v-051r.json",
                 "@type": "sc:Canvas",
                 "label": "f050v-051r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f050v-051r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f050v-051r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1432,17 +1432,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f050v-051r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f050v-051r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f051v-052r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f051v-052r.json",
                 "@type": "sc:Canvas",
                 "label": "f051v-052r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f051v-052r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f051v-052r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1457,17 +1457,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f051v-052r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f051v-052r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f052v-053r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f052v-053r.json",
                 "@type": "sc:Canvas",
                 "label": "f052v-053r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f052v-053r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f052v-053r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1482,17 +1482,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f052v-053r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f052v-053r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f053v-054r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f053v-054r.json",
                 "@type": "sc:Canvas",
                 "label": "f053v-054r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f053v-054r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f053v-054r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1507,17 +1507,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f053v-054r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f053v-054r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f054v-055r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f054v-055r.json",
                 "@type": "sc:Canvas",
                 "label": "f054v-055r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f054v-055r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f054v-055r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1532,17 +1532,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f054v-055r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f054v-055r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f055v-056r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f055v-056r.json",
                 "@type": "sc:Canvas",
                 "label": "f055v-056r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f055v-056r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f055v-056r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1557,17 +1557,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f055v-056r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f055v-056r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f056v-057r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f056v-057r.json",
                 "@type": "sc:Canvas",
                 "label": "f056v-057r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f056v-057r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f056v-057r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1582,17 +1582,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f056v-057r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f056v-057r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f057v-058r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f057v-058r.json",
                 "@type": "sc:Canvas",
                 "label": "f057v-058r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f057v-058r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f057v-058r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1607,17 +1607,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f057v-058r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f057v-058r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f058v-059r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f058v-059r.json",
                 "@type": "sc:Canvas",
                 "label": "f058v-059r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f058v-059r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f058v-059r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1632,17 +1632,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f058v-059r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f058v-059r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f059v-060r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f059v-060r.json",
                 "@type": "sc:Canvas",
                 "label": "f059v-060r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f059v-060r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f059v-060r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1657,17 +1657,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f059v-060r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f059v-060r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f061v-062r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f061v-062r.json",
                 "@type": "sc:Canvas",
                 "label": "f061v-062r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f061v-062r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f061v-062r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1682,17 +1682,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f061v-062r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f061v-062r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f062v-063r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f062v-063r.json",
                 "@type": "sc:Canvas",
                 "label": "f062v-063r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f062v-063r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f062v-063r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1707,17 +1707,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f062v-063r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f062v-063r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f063v-064r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f063v-064r.json",
                 "@type": "sc:Canvas",
                 "label": "f063v-064r",
                 "height": 4063,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f063v-064r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f063v-064r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1732,17 +1732,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f063v-064r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f063v-064r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f064v-065r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f064v-065r.json",
                 "@type": "sc:Canvas",
                 "label": "f064v-065r",
                 "height": 4063,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f064v-065r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f064v-065r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1757,17 +1757,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f064v-065r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f064v-065r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f065v-066r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f065v-066r.json",
                 "@type": "sc:Canvas",
                 "label": "f065v-066r",
                 "height": 4063,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f065v-066r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f065v-066r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1782,17 +1782,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f065v-066r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f065v-066r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f066v-067r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f066v-067r.json",
                 "@type": "sc:Canvas",
                 "label": "f066v-067r",
                 "height": 4063,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f066v-067r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f066v-067r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1807,17 +1807,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f066v-067r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f066v-067r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f067v-068r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f067v-068r.json",
                 "@type": "sc:Canvas",
                 "label": "f067v-068r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f067v-068r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f067v-068r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1832,17 +1832,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f067v-068r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f067v-068r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f068v-069r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f068v-069r.json",
                 "@type": "sc:Canvas",
                 "label": "f068v-069r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f068v-069r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f068v-069r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1857,17 +1857,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f068v-069r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f068v-069r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f069v-070r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f069v-070r.json",
                 "@type": "sc:Canvas",
                 "label": "f069v-070r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f069v-070r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f069v-070r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1882,17 +1882,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f069v-070r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f069v-070r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f070v-071r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f070v-071r.json",
                 "@type": "sc:Canvas",
                 "label": "f070v-071r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f070v-071r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f070v-071r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1907,17 +1907,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f070v-071r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f070v-071r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f071v-072r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f071v-072r.json",
                 "@type": "sc:Canvas",
                 "label": "f071v-072r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f071v-072r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f071v-072r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1932,17 +1932,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f071v-072r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f071v-072r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f072v-073r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f072v-073r.json",
                 "@type": "sc:Canvas",
                 "label": "f072v-073r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f072v-073r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f072v-073r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1957,17 +1957,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f072v-073r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f072v-073r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f073v-074r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f073v-074r.json",
                 "@type": "sc:Canvas",
                 "label": "f073v-074r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f073v-074r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f073v-074r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -1982,17 +1982,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f073v-074r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f073v-074r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f074v-075r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f074v-075r.json",
                 "@type": "sc:Canvas",
                 "label": "f074v-075r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f074v-075r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f074v-075r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2007,17 +2007,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f074v-075r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f074v-075r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f075v-076r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f075v-076r.json",
                 "@type": "sc:Canvas",
                 "label": "f075v-076r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f075v-076r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f075v-076r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2032,17 +2032,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f075v-076r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f075v-076r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f076v-077r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f076v-077r.json",
                 "@type": "sc:Canvas",
                 "label": "f076v-077r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f076v-077r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f076v-077r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2057,17 +2057,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f076v-077r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f076v-077r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f077v-078r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f077v-078r.json",
                 "@type": "sc:Canvas",
                 "label": "f077v-078r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f077v-078r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f077v-078r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2082,17 +2082,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f077v-078r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f077v-078r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f078v-079r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f078v-079r.json",
                 "@type": "sc:Canvas",
                 "label": "f078v-079r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f078v-079r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f078v-079r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2107,17 +2107,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f078v-079r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f078v-079r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f079v-080r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f079v-080r.json",
                 "@type": "sc:Canvas",
                 "label": "f079v-080r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f079v-080r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f079v-080r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2132,17 +2132,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f079v-080r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f079v-080r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f080v-081r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f080v-081r.json",
                 "@type": "sc:Canvas",
                 "label": "f080v-081r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f080v-081r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f080v-081r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2157,17 +2157,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f080v-081r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f080v-081r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f081v-082r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f081v-082r.json",
                 "@type": "sc:Canvas",
                 "label": "f081v-082r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f081v-082r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f081v-082r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2182,17 +2182,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f081v-082r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f081v-082r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f060v-061r.json",
                 "@type": "sc:Canvas",
                 "label": "f060v-061r",
                 "height": 4063,
                 "width": 6019,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f060v-061r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f060v-061r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2207,17 +2207,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f060v-061r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f060v-061r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f083v-084r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f083v-084r.json",
                 "@type": "sc:Canvas",
                 "label": "f083v-084r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f083v-084r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f083v-084r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2232,17 +2232,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f083v-084r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f083v-084r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f084v-085r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f084v-085r.json",
                 "@type": "sc:Canvas",
                 "label": "f084v-085r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f084v-085r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f084v-085r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2257,17 +2257,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f084v-085r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f084v-085r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f085v-086r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f085v-086r.json",
                 "@type": "sc:Canvas",
                 "label": "f085v-086r",
                 "height": 4008,
                 "width": 6086,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f085v-086r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f085v-086r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2282,17 +2282,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f085v-086r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f085v-086r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f086v-087r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f086v-087r.json",
                 "@type": "sc:Canvas",
                 "label": "f086v-087r",
                 "height": 4008,
                 "width": 6086,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f086v-087r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f086v-087r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2307,17 +2307,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f086v-087r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f086v-087r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f087v-088r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f087v-088r.json",
                 "@type": "sc:Canvas",
                 "label": "f087v-088r",
                 "height": 4008,
                 "width": 6086,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f087v-088r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f087v-088r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2332,17 +2332,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f087v-088r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f087v-088r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f088v-089r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f088v-089r.json",
                 "@type": "sc:Canvas",
                 "label": "f088v-089r",
                 "height": 4008,
                 "width": 6086,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f088v-089r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f088v-089r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2357,17 +2357,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f088v-089r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f088v-089r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f089v-090r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f089v-090r.json",
                 "@type": "sc:Canvas",
                 "label": "f089v-090r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f089v-090r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f089v-090r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2382,17 +2382,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f089v-090r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f089v-090r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f090v-091r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f090v-091r.json",
                 "@type": "sc:Canvas",
                 "label": "f090v-091r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f090v-091r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f090v-091r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2407,17 +2407,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f090v-091r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f090v-091r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f091v-092r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f091v-092r.json",
                 "@type": "sc:Canvas",
                 "label": "f091v-092r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f091v-092r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f091v-092r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2432,17 +2432,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f091v-092r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f091v-092r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f092v-093r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f092v-093r.json",
                 "@type": "sc:Canvas",
                 "label": "f092v-093r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f092v-093r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f092v-093r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2457,17 +2457,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f092v-093r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f092v-093r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f093v-094r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f093v-094r.json",
                 "@type": "sc:Canvas",
                 "label": "f093v-094r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f093v-094r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f093v-094r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2482,17 +2482,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f093v-094r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f093v-094r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f094v-095r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f094v-095r.json",
                 "@type": "sc:Canvas",
                 "label": "f094v-095r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f094v-095r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f094v-095r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2507,17 +2507,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f094v-095r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f094v-095r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f095v-096r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f095v-096r.json",
                 "@type": "sc:Canvas",
                 "label": "f095v-096r",
                 "height": 4008,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f095v-096r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f095v-096r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2532,17 +2532,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f095v-096r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f095v-096r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f096v-096x1r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f096v-096x1r.json",
                 "@type": "sc:Canvas",
                 "label": "f096v-096x1r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f096v-096x1r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f096v-096x1r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2557,17 +2557,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f096v-096x1r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f096v-096x1r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f096x1v-097r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f096x1v-097r.json",
                 "@type": "sc:Canvas",
                 "label": "f096x1v-097r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f096x1v-097r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f096x1v-097r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2582,17 +2582,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f096x1v-097r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f096x1v-097r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f097v-098r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f097v-098r.json",
                 "@type": "sc:Canvas",
                 "label": "f097v-098r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f097v-098r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f097v-098r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2607,17 +2607,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f097v-098r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f097v-098r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f098v-099r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f098v-099r.json",
                 "@type": "sc:Canvas",
                 "label": "f098v-099r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f098v-099r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f098v-099r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2632,17 +2632,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f098v-099r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f098v-099r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f099v-100r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f099v-100r.json",
                 "@type": "sc:Canvas",
                 "label": "f099v-100r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f099v-100r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f099v-100r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2657,17 +2657,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f099v-100r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f099v-100r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f100v-101r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f100v-101r.json",
                 "@type": "sc:Canvas",
                 "label": "f100v-101r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f100v-101r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f100v-101r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2682,17 +2682,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f100v-101r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f100v-101r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f101v-102r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f101v-102r.json",
                 "@type": "sc:Canvas",
                 "label": "f101v-102r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f101v-102r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f101v-102r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2707,17 +2707,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f101v-102r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f101v-102r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f102v-103r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f102v-103r.json",
                 "@type": "sc:Canvas",
                 "label": "f102v-103r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f102v-103r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f102v-103r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2732,17 +2732,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f102v-103r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f102v-103r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f082v-083r.json",
                 "@type": "sc:Canvas",
                 "label": "f082v-083r",
                 "height": 4009,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f082v-083r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f082v-083r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2757,17 +2757,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f082v-083r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f082v-083r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f103v-104r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f103v-104r.json",
                 "@type": "sc:Canvas",
                 "label": "f103v-104r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f103v-104r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f103v-104r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2782,17 +2782,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f103v-104r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f103v-104r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f104v-105r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f104v-105r.json",
                 "@type": "sc:Canvas",
                 "label": "f104v-105r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f104v-105r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f104v-105r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2807,17 +2807,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f104v-105r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f104v-105r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f105v-106r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f105v-106r.json",
                 "@type": "sc:Canvas",
                 "label": "f105v-106r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f105v-106r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f105v-106r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2832,17 +2832,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f105v-106r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f105v-106r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f106v-107r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f106v-107r.json",
                 "@type": "sc:Canvas",
                 "label": "f106v-107r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f106v-107r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f106v-107r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2857,17 +2857,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f106v-107r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f106v-107r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f107v-108r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f107v-108r.json",
                 "@type": "sc:Canvas",
                 "label": "f107v-108r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f107v-108r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f107v-108r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2882,17 +2882,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f107v-108r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f107v-108r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f108v-109r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f108v-109r.json",
                 "@type": "sc:Canvas",
                 "label": "f108v-109r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f108v-109r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f108v-109r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2907,17 +2907,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f108v-109r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f108v-109r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f109v-110r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f109v-110r.json",
                 "@type": "sc:Canvas",
                 "label": "f109v-110r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f109v-110r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f109v-110r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2932,17 +2932,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f109v-110r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f109v-110r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f110v-111r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f110v-111r.json",
                 "@type": "sc:Canvas",
                 "label": "f110v-111r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f110v-111r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f110v-111r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2957,17 +2957,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f110v-111r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f110v-111r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f111v-112r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f111v-112r.json",
                 "@type": "sc:Canvas",
                 "label": "f111v-112r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f111v-112r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f111v-112r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -2982,17 +2982,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f111v-112r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f111v-112r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f112v-113r.json",
                 "@type": "sc:Canvas",
                 "label": "f112v-113r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f112v-113r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f112v-113r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3007,17 +3007,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f112v-113r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f112v-113r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f113v-114r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f113v-114r.json",
                 "@type": "sc:Canvas",
                 "label": "f113v-114r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f113v-114r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f113v-114r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3032,17 +3032,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f113v-114r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f113v-114r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f114v-115r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f114v-115r.json",
                 "@type": "sc:Canvas",
                 "label": "f114v-115r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f114v-115r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f114v-115r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3057,17 +3057,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f114v-115r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f114v-115r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f115v-116r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f115v-116r.json",
                 "@type": "sc:Canvas",
                 "label": "f115v-116r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f115v-116r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f115v-116r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3082,17 +3082,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f115v-116r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f115v-116r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f116v-117r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f116v-117r.json",
                 "@type": "sc:Canvas",
                 "label": "f116v-117r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f116v-117r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f116v-117r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3107,17 +3107,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f116v-117r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f116v-117r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f117v-118r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f117v-118r.json",
                 "@type": "sc:Canvas",
                 "label": "f117v-118r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f117v-118r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f117v-118r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3132,17 +3132,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f117v-118r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f117v-118r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f118v-119r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f118v-119r.json",
                 "@type": "sc:Canvas",
                 "label": "f118v-119r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f118v-119r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f118v-119r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3157,17 +3157,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f118v-119r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f118v-119r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f119v-120r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f119v-120r.json",
                 "@type": "sc:Canvas",
                 "label": "f119v-120r",
                 "height": 4036,
                 "width": 6085,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f119v-120r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f119v-120r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3182,17 +3182,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f119v-120r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f119v-120r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f120v-121r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f120v-121r.json",
                 "@type": "sc:Canvas",
                 "label": "f120v-121r",
                 "height": 4036,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f120v-121r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f120v-121r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3207,17 +3207,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f120v-121r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f120v-121r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f121v-122r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f121v-122r.json",
                 "@type": "sc:Canvas",
                 "label": "f121v-122r",
                 "height": 4036,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f121v-122r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f121v-122r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3232,17 +3232,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f121v-122r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f121v-122r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f122v-123r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f122v-123r.json",
                 "@type": "sc:Canvas",
                 "label": "f122v-123r",
                 "height": 4036,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f122v-123r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f122v-123r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3257,17 +3257,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f122v-123r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f122v-123r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f123v-124r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f123v-124r.json",
                 "@type": "sc:Canvas",
                 "label": "f123v-124r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f123v-124r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f123v-124r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3282,17 +3282,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f123v-124r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f123v-124r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f124v-125r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f124v-125r.json",
                 "@type": "sc:Canvas",
                 "label": "f124v-125r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f124v-125r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f124v-125r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3307,17 +3307,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f124v-125r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f124v-125r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f125v-126r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f125v-126r.json",
                 "@type": "sc:Canvas",
                 "label": "f125v-126r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f125v-126r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f125v-126r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3332,17 +3332,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f125v-126r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f125v-126r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f126v-127r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f126v-127r.json",
                 "@type": "sc:Canvas",
                 "label": "f126v-127r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f126v-127r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f126v-127r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3357,17 +3357,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f126v-127r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f126v-127r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f127v-128r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f127v-128r.json",
                 "@type": "sc:Canvas",
                 "label": "f127v-128r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f127v-128r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f127v-128r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3382,17 +3382,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f127v-128r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f127v-128r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f128v-129r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f128v-129r.json",
                 "@type": "sc:Canvas",
                 "label": "f128v-129r",
                 "height": 4063,
                 "width": 6039,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f128v-129r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f128v-129r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3407,17 +3407,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f128v-129r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f128v-129r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f129v-130r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f129v-130r.json",
                 "@type": "sc:Canvas",
                 "label": "f129v-130r",
                 "height": 4064,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f129v-130r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f129v-130r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3432,17 +3432,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f129v-130r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f129v-130r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f130v-131r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f130v-131r.json",
                 "@type": "sc:Canvas",
                 "label": "f130v-131r",
                 "height": 4064,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f130v-131r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f130v-131r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3457,17 +3457,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f130v-131r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f130v-131r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f131v-132r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f131v-132r.json",
                 "@type": "sc:Canvas",
                 "label": "f131v-132r",
                 "height": 4064,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f131v-132r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f131v-132r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3482,17 +3482,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f131v-132r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f131v-132r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f132v-133r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f132v-133r.json",
                 "@type": "sc:Canvas",
                 "label": "f132v-133r",
                 "height": 4068,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f132v-133r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f132v-133r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3507,17 +3507,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f132v-133r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f132v-133r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f133v-134r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f133v-134r.json",
                 "@type": "sc:Canvas",
                 "label": "f133v-134r",
                 "height": 4068,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f133v-134r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f133v-134r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3532,17 +3532,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f133v-134r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f133v-134r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f134v-135r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f134v-135r.json",
                 "@type": "sc:Canvas",
                 "label": "f134v-135r",
                 "height": 4068,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f134v-135r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f134v-135r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3557,17 +3557,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f134v-135r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f134v-135r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f135v-136r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f135v-136r.json",
                 "@type": "sc:Canvas",
                 "label": "f135v-136r",
                 "height": 4068,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f135v-136r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f135v-136r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3582,17 +3582,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f135v-136r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f135v-136r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f136v-137r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f136v-137r.json",
                 "@type": "sc:Canvas",
                 "label": "f136v-137r",
                 "height": 4068,
                 "width": 6038,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f136v-137r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f136v-137r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3607,17 +3607,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f136v-137r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f136v-137r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f137v-138r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f137v-138r.json",
                 "@type": "sc:Canvas",
                 "label": "f137v-138r",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f137v-138r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f137v-138r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3632,17 +3632,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f137v-138r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f137v-138r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f138v-139r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f138v-139r.json",
                 "@type": "sc:Canvas",
                 "label": "f138v-139r",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f138v-139r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f138v-139r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3657,17 +3657,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f138v-139r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f138v-139r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f139v-140r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f139v-140r.json",
                 "@type": "sc:Canvas",
                 "label": "f139v-140r",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f139v-140r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f139v-140r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3682,17 +3682,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f139v-140r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f139v-140r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f140v-141r.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f140v-141r.json",
                 "@type": "sc:Canvas",
                 "label": "f140v-141r",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/f140v-141r-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/f140v-141r-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3707,17 +3707,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/f140v-141r.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/f140v-141r.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening04-(incl-f141v).json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening04-(incl-f141v).json",
                 "@type": "sc:Canvas",
                 "label": "XXXX_opening04-(incl-f141v)",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening04-(incl-f141v)-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening04-(incl-f141v)-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3732,17 +3732,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening04-(incl-f141v).json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening04-(incl-f141v).json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening05.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening05.json",
                 "@type": "sc:Canvas",
                 "label": "XXXX_opening05",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening05-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening05-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3757,17 +3757,17 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening05.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening05.json"
                 }]
             },
             {
-                "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening06.json",
+                "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening06.json",
                 "@type": "sc:Canvas",
                 "label": "XXXX_opening06",
                 "height": 4068,
                 "width": 5984,
                 "images": [{
-                    "@id": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening06-anno.json",
+                    "@id": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/annotation/XXXX_opening06-anno.json",
                     "@type": "oa:Annotation",
                     "motivation": "sc:painting",
                     "resource": {
@@ -3782,7 +3782,7 @@
                             "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                    "on": "https://digitalscholarship.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening06.json"
+                    "on": "https://lab.library.universiteitleiden.nl/manifests/UBL_BPL_14A/canvas/XXXX_opening06.json"
                 }]
             }
         ]

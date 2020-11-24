@@ -4,7 +4,7 @@
     "@type": "sc:AnnotationList",
     "resources": [ 
         {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540295830289",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540295830289",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T13:57:10",
         "dcterms:modified" : "2018-10-23T13:57:22",
@@ -35,7 +35,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540295931699",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540295931699",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T13:58:51",
         "resource" : [ {
@@ -65,7 +65,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296000931",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296000931",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:00:00",
         "resource" : [ {
@@ -95,7 +95,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296076309",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296076309",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:01:16",
         "resource" : [ {
@@ -125,7 +125,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296132306",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296132306",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:02:12",
         "dcterms:modified" : "2018-10-23T14:02:41",
@@ -156,7 +156,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296313166",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296313166",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:05:13",
         "resource" : [ {
@@ -186,7 +186,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296236236",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296236236",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:03:56",
         "dcterms:modified" : "2018-10-23T14:05:23",
@@ -217,7 +217,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296447256",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296447256",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:07:27",
         "resource" : [ {
@@ -247,7 +247,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296481980",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296481980",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:08:01",
         "dcterms:modified" : "2018-10-23T14:08:27",
@@ -278,7 +278,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296592197",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296592197",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:09:52",
         "resource" : [ {
@@ -308,7 +308,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296678541",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296678541",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:11:18",
         "resource" : [ {
@@ -338,7 +338,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296813276",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296813276",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:13:33",
         "resource" : [ {
@@ -368,7 +368,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297067208",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297067208",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:17:47",
         "resource" : [ {
@@ -398,7 +398,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297139264",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297139264",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:18:59",
         "resource" : [ {
@@ -428,7 +428,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297234323",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297234323",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:20:34",
         "resource" : [ {
@@ -458,7 +458,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297286771",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297286771",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:21:26",
         "resource" : [ {
@@ -488,7 +488,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297401753",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297401753",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:23:21",
         "resource" : [ {
@@ -518,7 +518,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297485053",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297485053",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:24:45",
         "resource" : [ {
@@ -548,7 +548,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540296905265",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540296905265",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:15:05",
         "dcterms:modified" : "2018-10-23T14:26:08",
@@ -579,7 +579,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297642952",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297642952",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:27:22",
         "dcterms:modified" : "2018-10-23T14:27:49",
@@ -610,7 +610,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297730279",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297730279",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:28:50",
         "resource" : [ {
@@ -640,7 +640,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297773197",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297773197",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:29:33",
         "resource" : [ {
@@ -670,7 +670,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297835437",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297835437",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:30:35",
         "resource" : [ {
@@ -700,7 +700,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297864789",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297864789",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:31:04",
         "dcterms:modified" : "2018-10-23T14:31:17",
@@ -731,7 +731,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540297944284",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540297944284",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:32:24",
         "resource" : [ {
@@ -761,7 +761,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298011701",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298011701",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:33:31",
         "resource" : [ {
@@ -791,7 +791,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298117833",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298117833",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:35:17",
         "resource" : [ {
@@ -821,7 +821,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298194182",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298194182",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:36:34",
         "resource" : [ {
@@ -851,7 +851,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298224243",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298224243",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:37:04",
         "resource" : [ {
@@ -881,7 +881,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298289519",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298289519",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:38:09",
         "resource" : [ {
@@ -911,7 +911,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298332988",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298332988",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:38:52",
         "resource" : [ {
@@ -941,7 +941,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298363452",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298363452",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:39:23",
         "resource" : [ {
@@ -971,7 +971,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298405260",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298405260",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:40:05",
         "resource" : [ {
@@ -1001,7 +1001,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298469296",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298469296",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:41:09",
         "dcterms:modified" : "2018-10-23T14:41:19",
@@ -1032,7 +1032,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298510123",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298510123",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:41:50",
         "resource" : [ {
@@ -1062,7 +1062,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298551058",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298551058",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:42:31",
         "resource" : [ {
@@ -1092,7 +1092,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298617684",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298617684",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:43:37",
         "resource" : [ {
@@ -1122,7 +1122,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298681861",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298681861",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:44:41",
         "resource" : [ {
@@ -1152,7 +1152,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298726552",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298726552",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:45:26",
         "resource" : [ {
@@ -1182,7 +1182,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298761220",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298761220",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:46:01",
         "resource" : [ {
@@ -1212,7 +1212,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298913472",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298913472",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:48:33",
         "resource" : [ {
@@ -1242,7 +1242,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540298993878",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540298993878",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:49:53",
         "resource" : [ {
@@ -1272,7 +1272,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299073616",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299073616",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:51:13",
         "dcterms:modified" : "2018-10-23T14:51:25",
@@ -1303,7 +1303,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299121497",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299121497",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:52:01",
         "resource" : [ {
@@ -1333,7 +1333,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299168427",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299168427",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:52:48",
         "resource" : [ {
@@ -1363,7 +1363,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299205041",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299205041",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:53:25",
         "resource" : [ {
@@ -1393,7 +1393,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299258421",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299258421",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:54:18",
         "resource" : [ {
@@ -1423,7 +1423,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299298965",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299298965",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:54:58",
         "resource" : [ {
@@ -1453,7 +1453,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299362172",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299362172",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:56:02",
         "resource" : [ {
@@ -1483,7 +1483,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299432613",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299432613",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:57:12",
         "dcterms:modified" : "2018-10-23T14:58:09",
@@ -1514,7 +1514,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299544566",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299544566",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:59:04",
         "resource" : [ {
@@ -1544,7 +1544,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299585349",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299585349",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T14:59:45",
         "resource" : [ {
@@ -1574,7 +1574,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299623712",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299623712",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:00:23",
         "resource" : [ {
@@ -1604,7 +1604,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299666820",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299666820",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:01:06",
         "resource" : [ {
@@ -1634,7 +1634,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299723922",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299723922",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:02:03",
         "resource" : [ {
@@ -1664,7 +1664,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299766795",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299766795",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:02:46",
         "resource" : [ {
@@ -1694,7 +1694,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299803662",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299803662",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:03:23",
         "resource" : [ {
@@ -1724,7 +1724,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299833434",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299833434",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:03:53",
         "resource" : [ {
@@ -1754,7 +1754,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299882368",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299882368",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:04:42",
         "resource" : [ {
@@ -1784,7 +1784,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299917646",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299917646",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:05:17",
         "resource" : [ {
@@ -1814,7 +1814,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540299970016",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540299970016",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:06:10",
         "resource" : [ {
@@ -1844,7 +1844,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300050865",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300050865",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:07:30",
         "resource" : [ {
@@ -1874,7 +1874,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300116480",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300116480",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:08:36",
         "resource" : [ {
@@ -1904,7 +1904,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300156553",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300156553",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:09:16",
         "resource" : [ {
@@ -1934,7 +1934,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300187197",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300187197",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:09:47",
         "resource" : [ {
@@ -1964,7 +1964,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300226903",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300226903",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:10:26",
         "resource" : [ {
@@ -1994,7 +1994,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300252948",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300252948",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:10:52",
         "resource" : [ {
@@ -2024,7 +2024,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300292544",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300292544",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:11:32",
         "resource" : [ {
@@ -2054,7 +2054,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300333400",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300333400",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:12:13",
         "resource" : [ {
@@ -2084,7 +2084,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300371329",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300371329",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:12:51",
         "resource" : [ {
@@ -2114,7 +2114,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300421925",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300421925",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:13:41",
         "resource" : [ {
@@ -2144,7 +2144,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300472302",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300472302",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:14:32",
         "resource" : [ {
@@ -2174,7 +2174,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300543585",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300543585",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:15:43",
         "resource" : [ {
@@ -2204,7 +2204,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300591930",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300591930",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:16:31",
         "resource" : [ {
@@ -2234,7 +2234,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300642418",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300642418",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:17:22",
         "resource" : [ {
@@ -2264,7 +2264,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300675536",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300675536",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:17:55",
         "resource" : [ {
@@ -2294,7 +2294,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300726658",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300726658",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:18:46",
         "resource" : [ {
@@ -2324,7 +2324,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300754949",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300754949",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:19:14",
         "resource" : [ {
@@ -2354,7 +2354,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300816562",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300816562",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:20:16",
         "resource" : [ {
@@ -2384,7 +2384,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300847819",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300847819",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:20:47",
         "resource" : [ {
@@ -2414,7 +2414,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300937518",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300937518",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:22:17",
         "resource" : [ {
@@ -2444,7 +2444,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300882623",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300882623",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:21:22",
         "dcterms:modified" : "2018-10-23T15:22:26",
@@ -2475,7 +2475,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540300982194",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540300982194",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:23:02",
         "resource" : [ {
@@ -2505,7 +2505,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301016248",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301016248",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:23:36",
         "resource" : [ {
@@ -2535,7 +2535,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301038988",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301038988",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:23:59",
         "resource" : [ {
@@ -2565,7 +2565,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301095649",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301095649",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:24:55",
         "resource" : [ {
@@ -2595,7 +2595,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301131119",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301131119",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:25:31",
         "resource" : [ {
@@ -2625,7 +2625,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301171079",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301171079",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:26:11",
         "resource" : [ {
@@ -2655,7 +2655,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301192095",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301192095",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:26:32",
         "resource" : [ {
@@ -2685,7 +2685,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301218959",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301218959",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:26:58",
         "resource" : [ {
@@ -2715,7 +2715,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301276182",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301276182",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:27:56",
         "resource" : [ {
@@ -2745,7 +2745,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301292250",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301292250",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:28:12",
         "resource" : [ {
@@ -2775,7 +2775,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301343706",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301343706",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:29:03",
         "resource" : [ {
@@ -2805,7 +2805,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301375578",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301375578",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:29:35",
         "resource" : [ {
@@ -2835,7 +2835,7 @@
         } ],
         "motivation" : [ "sc:painting" ]
     }, {
-        "@id" : "https://iiif.universiteitleiden.nl/anno/annotation/1540301426100",
+        "@id" : "https://lab.library.universiteitleiden.nl/anno/annotation/1540301426100",
         "@type" : "oa:Annotation",
         "dcterms:created" : "2018-10-23T15:30:26",
         "resource" : [ {
