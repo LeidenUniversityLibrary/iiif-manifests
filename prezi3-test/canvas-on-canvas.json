@@ -1,0 +1,210 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://lab.library.universiteitleiden.nl/manifests/prezi3-test/canvas-on-canvas.json",
+    "type": "Manifest",
+    "label": {
+        "nl": [
+            "Gebedenboek BPL 2480"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "en": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "Gebedenboek"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Subject (topical)"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Manuscripts (documents)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Country"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Netherlands"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Language"
+                ]
+            },
+            "value": {
+                "en": [
+                    "Dutch"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Extent"
+                ]
+            },
+            "value": {
+                "en": [
+                    "scans"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Published"
+                ]
+            },
+            "value": {
+                "none": [
+                    1528
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Form"
+                ]
+            },
+            "value": {
+                "nl": [
+                    "1 deel, geschreven op papier en perkament, 93 fol. : ill. ; 132x93 mm."
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Shelfmark"
+                ]
+            },
+            "value": {
+                "none": [
+                    "BPL 2480"
+                ]
+            }
+        },
+        {
+            "label": {
+                "en": [
+                    "Persistent URL"
+                ]
+            },
+            "value": {
+                "none": [
+                    "http://hdl.handle.net/1887.1/item:1671012"
+                ]
+            }
+        }
+    ],
+    "rights": "https://creativecommons.org/licenses/by/4.0/",
+    "requiredStatement": {
+        "label": {
+            "en": [
+                "Attribution"
+            ]
+        },
+        "value": {
+            "en": [
+                "Provided by Leiden University Libraries"
+            ]
+        }
+    },
+    "viewingDirection": "left-to-right",
+    "behavior": [
+        "paged"
+    ],
+    "items": [
+        {
+            "type": "Canvas",
+            "id": "https://lab.library.universiteitleiden.nl/manifests/prezi3-test/canvas-on-canvas.json#canvas1",
+            "label": {
+                "none": "bpl1-trimmed"
+            },
+            "height": 1803,
+            "width": 1229,
+            "thumbnail": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048/full/80,/0/default.jpg",
+                "service": {
+                    "type": "ImageService2",
+                    "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            },
+            "items": [
+                {
+                    "id": "https://lab.library.universiteitleiden.nl/manifests/prezi3-test/canvas-on-canvas.json#annopage1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://lab.library.universiteitleiden.nl/manifests/prezi3-test/canvas-on-canvas.json#annopage1-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "type": "SpecificResource",
+                                "source": {
+                                    "type": "Canvas",
+                                    "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048/canvas/default",
+                                    "label": {
+                                        "none": "bpl1-original"
+                                    },
+                                    "height": 1862,
+                                    "width": 2661,
+                                    "items": [
+                                        {
+                                            "id": "https://example.org/iiif/book1/content/p1/1",
+                                            "type": "AnnotationPage",
+                                            "items": [
+                                                {
+                                                    "motivation": "painting",
+                                                    "body": {
+                                                        "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048/full/full/0/default.jpg",
+                                                        "type": "Image",
+                                                        "height": 1862,
+                                                        "width": 2661,
+                                                        "service": {
+                                                            "type": "ImageService2",
+                                                            "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048",
+                                                            "profile": "http://iiif.io/api/image/2/level2.json"
+                                                        }
+                                                    },
+                                                    "target": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A1671048/canvas/default"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                "selector": {
+                                    "type": "FragmentSelector",
+                                    "value": "xywh=145,138,1229,1803",
+                                    "conformsTo": "http://www.w3.org/TR/media-frags/"
+                                }
+                            },
+                            "target": "https://lab.library.universiteitleiden.nl/manifests/prezi3-test/canvas-on-canvas.json#canvas1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
